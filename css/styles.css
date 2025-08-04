@@ -276,6 +276,7 @@
             align-items: flex-start;
             height: 100vh;
             padding-top: 100px;
+            padding-bottom: 100px;
         }
 
         .hero .welcome-text {
