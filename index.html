@@ -1,0 +1,827 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CH Y C Inversiones | Alquiler de Maquinaria Pesada</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800;900&family=Lato:wght@400;600;700&family=Roboto:wght@400;500;600&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+    <!-- Header y Navegación -->
+    <header class="main-header">
+        <div class="container">
+            <a href="#inicio" class="logo-container">
+                <img src="assets/icons/OFICIAL LOGO CH Y C_page-0001.jpg" alt="Logo CH Y C Inversiones">
+            </a>
+            <nav class="main-nav">
+                <ul>
+                    <li><a href="#inicio">Inicio</a></li>
+                    <li><a href="#servicios">Servicios</a></li>
+                    <li><a href="#maquinaria">Maquinaria</a></li>
+                    <li><a href="#mision-vision">Nosotros</a></li>
+                    <li><a href="#contacto">Contacto</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Sección Principal (Hero Slider) -->
+    <section id="inicio" class="hero">
+        <div class="slide active" style="background-image: url('assets/images/slide1.jpg');">
+            <div class="slide-animation">
+                <img src="assets/images/maquinaslide.webp" alt="Maquinaria" class="animated-machine">
+            </div>
+        </div>
+        <div class="slide" style="background-image: url('assets/images/slide2.jpg');"></div>
+        <div class="slide" style="background-image: url('assets/images/slide3.jpg');"></div>
+
+        <div class="hero-overlay"></div>
+
+        <div class="hero-content">
+            <div class="welcome-text">BIENVENIDO A MAQUINARIAS C & CH INVERSIONES</div>
+            <div class="company-name">ALQUILER Y VENTA<br>DE MAQUINARIA<br>PESADA</div>
+            <div class="hero-actions">
+                <a href="#contacto" class="btn-cotizar">COTIZA AHORA</a>
+                <div class="hero-contact-info">
+                    <div class="phone-info">
+                        <i class="fas fa-phone"></i>
+                        <div class="phone-details">
+                            <span class="phone-label">Llámanos</span>
+                            <span class="phone-number">+51 905 447 14 / +51 994 080 272</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Información inferior -->
+        <div class="hero-bottom-info">
+            <div class="info-card">
+                <div class="info-image">
+                    <img src="https://placehold.co/80x80/E67E22/FFFFFF?text=👷" alt="Experiencia">
+                </div>
+                <div class="info-content">
+                    <div class="info-number">12+</div>
+                    <div class="info-text">Años de<br>Experiencia</div>
+                </div>
+            </div>
+            <div class="info-card">
+                <div class="info-icon">
+                    <i class="fas fa-map-marker-alt"></i>
+                </div>
+                <div class="info-content">
+                    <div class="info-label">Ubicación Estratégica</div>
+                    <div class="info-value">Villa el Salvador<br> Antigua Panam. Sur - KM 37.5</div>
+                </div>
+            </div>
+            <div class="info-card">
+                <div class="info-icon">
+                    <i class="fas fa-envelope"></i>
+                </div>
+                <div class="info-content">
+                    <div class="info-label">Envíanos un Correo</div>
+                    <div class="info-value">ventas@chycinversiones.pe</div>
+                </div>
+            </div>
+        </div>
+
+        <button class="slider-control prev">&#10094;</button>
+        <button class="slider-control next">&#10095;</button>
+    </section>
+
+    <!-- Sección Carrusel de Marcas -->
+    <section id="marcas" class="brands-carousel">
+        <div class="container">
+            <h2 data-aos="fade-up">Marcas con las que Trabajamos</h2>
+            <div class="brands-carousel-container" data-aos="fade-up" data-aos-delay="200">
+                <button class="carousel-controls carousel-prev" onclick="controlBrandCarousel('prev')">
+                    <i class="fas fa-chevron-left"></i>
+                </button>
+                <div class="brands-slider" id="brandsSlider">
+                    <div class="brand-item">
+                        <div class="brand-item-number">1</div>
+                        <img src="assets/icons/caterpillar-icon.png" alt="Caterpillar">
+                    </div>
+                    <div class="brand-item">
+                        <div class="brand-item-number">2</div>
+                        <img src="assets/icons/komatsu-icon.png" alt="Komatsu">
+                    </div>
+                    <div class="brand-item">
+                        <div class="brand-item-number">3</div>
+                        <img src="assets/icons/volvo-icon.png" alt="Volvo">
+                    </div>
+                    <div class="brand-item">
+                        <div class="brand-item-number">4</div>
+                        <img src="assets/icons/jcb-icon.png" alt="JCB">
+                    </div>
+                    <div class="brand-item">
+                        <div class="brand-item-number">5</div>
+                        <img src="assets/icons/liebherr-icon.png" alt="Liebherr">
+                    </div>
+                    <div class="brand-item">
+                        <div class="brand-item-number">6</div>
+                        <img src="assets/icons/John-Deere-icon.png" alt="John Deere">
+                    </div>
+                    <div class="brand-item">
+                        <div class="brand-item-number">7</div>
+                        <img src="assets/icons/doosan-icon.png" alt="Doosan">
+                    </div>
+                    <div class="brand-item">
+                        <div class="brand-item-number">8</div>
+                        <img src="assets/icons/hyundai-icon.webp" alt="Hyundai">
+                    </div>
+                    <div class="brand-item">
+                        <div class="brand-item-number">9</div>
+                        <img src="assets/icons/nisaan-icon.png" alt="Nissan">
+                    </div>
+                    <div class="brand-item">
+                        <div class="brand-item-number">10</div>
+                        <img src="assets/icons/mitsubishi-icon.png" alt="Mitsubishi">
+                    </div>
+                    <div class="brand-item">
+                        <div class="brand-item-number">11</div>
+                        <img src="assets/icons/dynapac-icon.png" alt="Dynapac">
+                    </div>
+                    <div class="brand-item">
+                        <div class="brand-item-number">12</div>
+                        <img src="assets/icons/mercedes-benz-icon.png" alt="Mercedes-Benz">
+                    </div>
+                </div>
+                <button class="carousel-controls carousel-next" onclick="controlBrandCarousel('next')">
+                    <i class="fas fa-chevron-right"></i>
+                </button>
+            </div>
+            <div class="carousel-indicators">
+                <div class="carousel-dot active" onclick="goToBrandSlide(0)"></div>
+                <div class="carousel-dot" onclick="goToBrandSlide(1)"></div>
+                <div class="carousel-dot" onclick="goToBrandSlide(2)"></div>
+                <div class="carousel-dot" onclick="goToBrandSlide(3)"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sección de Servicios de Alquiler -->
+    <section id="servicios" class="services-section">
+        <div class="container">
+            <h2>Servicios de Alquiler y Trabajo en Obras</h2>
+            <div class="services-grid">
+                <div class="service-card" data-aos="fade-up" data-aos-delay="100">
+                    <div class="service-icon">
+                        <i class="fas fa-excavator"></i>
+                    </div>
+                    <h3>Alquiler y Venta de Maquinaria</h3>
+                    <p>Flota completa de maquinaria pesada disponible para alquiler por horas, días o proyectos completos con la más alta calidad y confiabilidad.</p>
+                    <ul>
+                        <li><i class="fas fa-check-circle"></i>Excavadoras de diferentes tonelajes</li>
+                        <li><i class="fas fa-check-circle"></i>Cargadores frontales</li>
+                        <li><i class="fas fa-check-circle"></i>Rodillos compactadores</li>
+                        <li><i class="fas fa-check-circle"></i>Motoniveladora</li>
+                    </ul>
+                    <div class="service-number">01</div>
+                </div>
+                <div class="service-card" data-aos="fade-up" data-aos-delay="200">
+                    <div class="service-icon">
+                        <i class="fas fa-hard-hat"></i>
+                    </div>
+                    <h3>Trabajo en Obras</h3>
+                    <p>Servicios integrales de construcción y movimiento de tierras con personal especializado y certificado para garantizar resultados excepcionales.</p>
+                    <ul>
+                        <li><i class="fas fa-check-circle"></i>Excavación y nivelación</li>
+                        <li><i class="fas fa-check-circle"></i>Demolición controlada</li>
+                        <li><i class="fas fa-check-circle"></i>Compactación de suelos</li>
+                        <li><i class="fas fa-check-circle"></i>Construcción de accesos</li>
+                    </ul>
+                    <div class="service-number">02</div>
+                </div>
+                <div class="service-card" data-aos="fade-up" data-aos-delay="300">
+                    <div class="service-icon">
+                        <i class="fas fa-tools"></i>
+                    </div>
+                    <h3>Mantenimiento Especializado</h3>
+                    <p>Servicio técnico especializado para garantizar el óptimo funcionamiento de la maquinaria con tecnología de punta y repuestos originales.</p>
+                    <ul>
+                        <li><i class="fas fa-check-circle"></i>Mantenimiento preventivo</li>
+                        <li><i class="fas fa-check-circle"></i>Reparaciones mayores</li>
+                        <li><i class="fas fa-check-circle"></i>Diagnóstico técnico</li>
+                        <li><i class="fas fa-check-circle"></i>Repuestos originales</li>
+                    </ul>
+                    <div class="service-number">03</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sección de Categorías de Productos/Maquinaria -->
+    <section id="maquinaria" class="machinery-marketplace">
+        <div class="container">
+            <h2 data-aos="fade-up">Maquinaria Disponible</h2>
+            <p class="section-subtitle" data-aos="fade-up" data-aos-delay="100">Encuentra la maquinaria perfecta para tu proyecto</p>
+            
+            <!-- Categorías de Maquinaria -->
+            <div class="machinery-categories-row" data-aos="fade-up" data-aos-delay="200">
+                <div class="categories-slider" id="categoriesSlider">
+                    <div class="category-item">
+                        <div class="category-icon">
+                            <img src="https://placehold.co/80x60/2C3E50/FFFFFF?text=🚜" alt="Tractor de oruga">
+                        </div>
+                        <span class="category-name">Tractor de oruga</span>
+                    </div>
+                    <div class="category-item">
+                        <div class="category-icon">
+                            <img src="https://placehold.co/80x60/F39C12/FFFFFF?text=⛏️" alt="Excavadora">
+                        </div>
+                        <span class="category-name">Excavadora</span>
+                    </div>
+                    <div class="category-item">
+                        <div class="category-icon">
+                            <img src="https://placehold.co/80x60/E67E22/FFFFFF?text=🚛" alt="Volquete">
+                        </div>
+                        <span class="category-name">Volquete</span>
+                    </div>
+                    <div class="category-item">
+                        <div class="category-icon">
+                            <img src="https://placehold.co/80x60/34495E/FFFFFF?text=🏗️" alt="Telehandler">
+                        </div>
+                        <span class="category-name">Telehandler</span>
+                    </div>
+                    <div class="category-item">
+                        <div class="category-icon">
+                            <img src="https://placehold.co/80x60/27AE60/FFFFFF?text=🚛" alt="Montacargas">
+                        </div>
+                        <span class="category-name">Montacargas</span>
+                    </div>
+                    <div class="category-item">
+                        <div class="category-icon">
+                            <img src="https://placehold.co/80x60/8E44AD/FFFFFF?text=🚜" alt="Jumbo">
+                        </div>
+                        <span class="category-name">Jumbo</span>
+                    </div>
+                    <div class="category-item">
+                        <div class="category-icon">
+                            <img src="https://placehold.co/80x60/E74C3C/FFFFFF?text=🏗️" alt="Rodillo">
+                        </div>
+                        <span class="category-name">Rodillo</span>
+                    </div>
+                    <div class="category-item see-more">
+                        <div class="category-icon">
+                            <i class="fas fa-plus-circle"></i>
+                        </div>
+                        <span class="category-name">Ver más</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Últimos Anuncios Publicados -->
+            <div class="latest-announcements" data-aos="fade-up" data-aos-delay="300">
+                <h3>Últimos anuncios publicados</h3>
+                
+                <div class="announcements-carousel-container">
+                    <button class="announcement-controls announcement-prev" onclick="controlAnnouncementCarousel('prev')">
+                        <i class="fas fa-chevron-left"></i>
+                    </button>
+                    
+                    <div class="announcements-slider" id="announcementsSlider">
+                        <div class="announcement-card">
+                            <div class="announcement-image">
+                                <img src="https://placehold.co/300x200/F39C12/FFFFFF?text=Retroexcavadora+CATERPILLAR" alt="Retroexcavadora CATERPILLAR 416E">
+                                <div class="price-badge">US$ 45,000</div>
+                            </div>
+                            <div class="announcement-content">
+                                <h4>Retroexcavadora CATERPILLAR 416E (2012)</h4>
+                                <div class="announcement-details">
+                                    <div class="detail-item">
+                                        <i class="fas fa-building"></i>
+                                        <span>Venta</span>
+                                    </div>
+                                    <div class="detail-item">
+                                        <i class="fas fa-clock"></i>
+                                        <span>15,000 Hrs</span>
+                                    </div>
+                                </div>
+                                <button class="view-announcement-btn">Ver anuncio</button>
+                            </div>
+                        </div>
+
+                        <div class="announcement-card">
+                            <div class="announcement-image">
+                                <img src="https://placehold.co/300x200/E67E22/FFFFFF?text=Cargador+frontal+LIUGONG" alt="Cargador frontal LIUGONG 855H">
+                                <div class="price-badge">US$ 86,000</div>
+                            </div>
+                            <div class="announcement-content">
+                                <h4>Cargador frontal LIUGONG 855H (2024)</h4>
+                                <div class="announcement-details">
+                                    <div class="detail-item">
+                                        <i class="fas fa-building"></i>
+                                        <span>Venta</span>
+                                    </div>
+                                    <div class="detail-item">
+                                        <i class="fas fa-clock"></i>
+                                        <span>0 Hrs</span>
+                                    </div>
+                                </div>
+                                <button class="view-announcement-btn">Ver anuncio</button>
+                            </div>
+                        </div>
+
+                        <div class="announcement-card">
+                            <div class="announcement-image">
+                                <img src="https://placehold.co/300x200/2C3E50/FFFFFF?text=Cargador+bajo+perfil+CATERPILLAR" alt="Cargador de bajo perfil CATERPILLAR R1300G">
+                                <div class="price-badge">US$ 80,000</div>
+                            </div>
+                            <div class="announcement-content">
+                                <h4>Cargador de bajo perfil CATERPILLAR R1300G (2013)</h4>
+                                <div class="announcement-details">
+                                    <div class="detail-item">
+                                        <i class="fas fa-building"></i>
+                                        <span>Venta</span>
+                                    </div>
+                                    <div class="detail-item">
+                                        <i class="fas fa-clock"></i>
+                                        <span>16,000 Hrs</span>
+                                    </div>
+                                </div>
+                                <button class="view-announcement-btn">Ver anuncio</button>
+                            </div>
+                        </div>
+
+                        <div class="announcement-card">
+                            <div class="announcement-image">
+                                <img src="https://placehold.co/300x200/27AE60/FFFFFF?text=Minicargador+JOHN+DEERE" alt="Minicargador JOHN DEERE 320E">
+                                <div class="price-badge">US$ 17,800</div>
+                            </div>
+                            <div class="announcement-content">
+                                <h4>Minicargador JOHN DEERE 320E (2017)</h4>
+                                <div class="announcement-details">
+                                    <div class="detail-item">
+                                        <i class="fas fa-building"></i>
+                                        <span>Venta</span>
+                                    </div>
+                                    <div class="detail-item">
+                                        <i class="fas fa-clock"></i>
+                                        <span>5,900 Hrs</span>
+                                    </div>
+                                </div>
+                                <button class="view-announcement-btn">Ver anuncio</button>
+                            </div>
+                        </div>
+
+                        <div class="announcement-card">
+                            <div class="announcement-image">
+                                <img src="https://placehold.co/300x200/8E44AD/FFFFFF?text=Excavadora+KOMATSU" alt="Excavadora KOMATSU PC200">
+                                <div class="price-badge">US$ 95,000</div>
+                            </div>
+                            <div class="announcement-content">
+                                <h4>Excavadora KOMATSU PC200 (2021)</h4>
+                                <div class="announcement-details">
+                                    <div class="detail-item">
+                                        <i class="fas fa-building"></i>
+                                        <span>Venta</span>
+                                    </div>
+                                    <div class="detail-item">
+                                        <i class="fas fa-clock"></i>
+                                        <span>3,200 Hrs</span>
+                                    </div>
+                                </div>
+                                <button class="view-announcement-btn">Ver anuncio</button>
+                            </div>
+                        </div>
+
+                        <div class="announcement-card">
+                            <div class="announcement-image">
+                                <img src="https://placehold.co/300x200/E74C3C/FFFFFF?text=Rodillo+DYNAPAC" alt="Rodillo DYNAPAC CA250">
+                                <div class="price-badge">US$ 35,000</div>
+                            </div>
+                            <div class="announcement-content">
+                                <h4>Rodillo compactador DYNAPAC CA250 (2018)</h4>
+                                <div class="announcement-details">
+                                    <div class="detail-item">
+                                        <i class="fas fa-building"></i>
+                                        <span>Alquiler</span>
+                                    </div>
+                                    <div class="detail-item">
+                                        <i class="fas fa-clock"></i>
+                                        <span>8,500 Hrs</span>
+                                    </div>
+                                </div>
+                                <button class="view-announcement-btn">Ver anuncio</button>
+                            </div>
+                        </div>
+
+                        <div class="announcement-card">
+                            <div class="announcement-image">
+                                <img src="https://placehold.co/300x200/3498DB/FFFFFF?text=Volquete+VOLVO" alt="Volquete VOLVO FMX">
+                                <div class="price-badge">US$ 120,000</div>
+                            </div>
+                            <div class="announcement-content">
+                                <h4>Volquete VOLVO FMX 8x4 (2020)</h4>
+                                <div class="announcement-details">
+                                    <div class="detail-item">
+                                        <i class="fas fa-building"></i>
+                                        <span>Venta</span>
+                                    </div>
+                                    <div class="detail-item">
+                                        <i class="fas fa-clock"></i>
+                                        <span>45,000 Km</span>
+                                    </div>
+                                </div>
+                                <button class="view-announcement-btn">Ver anuncio</button>
+                            </div>
+                        </div>
+
+                        <div class="announcement-card">
+                            <div class="announcement-image">
+                                <img src="https://placehold.co/300x200/9B59B6/FFFFFF?text=Motoniveladora+CAT" alt="Motoniveladora CATERPILLAR 140M">
+                                <div class="price-badge">US$ 180,000</div>
+                            </div>
+                            <div class="announcement-content">
+                                <h4>Motoniveladora CATERPILLAR 140M (2019)</h4>
+                                <div class="announcement-details">
+                                    <div class="detail-item">
+                                        <i class="fas fa-building"></i>
+                                        <span>Venta</span>
+                                    </div>
+                                    <div class="detail-item">
+                                        <i class="fas fa-clock"></i>
+                                        <span>6,800 Hrs</span>
+                                    </div>
+                                </div>
+                                <button class="view-announcement-btn">Ver anuncio</button>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <button class="announcement-controls announcement-next" onclick="controlAnnouncementCarousel('next')">
+                        <i class="fas fa-chevron-right"></i>
+                    </button>
+                </div>
+
+                <!-- Indicadores del carrusel -->
+                <div class="announcement-indicators">
+                    <div class="announcement-dot active" onclick="goToAnnouncementSlide(0)"></div>
+                    <div class="announcement-dot" onclick="goToAnnouncementSlide(1)"></div>
+                    <div class="announcement-dot" onclick="goToAnnouncementSlide(2)"></div>
+                </div>
+
+                <!-- Botón Ver Más Anuncios -->
+                <div class="view-more-section" data-aos="fade-up" data-aos-delay="800">
+                    <button class="view-more-btn">
+                        <i class="fas fa-search"></i>
+                        Ver más maquinaria disponible
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sección Misión y Visión -->
+    <section id="mision-vision" class="mission-vision">
+        <div class="container">
+            <h2 data-aos="fade-up">Nuestra Misión y Visión</h2>
+            <div class="mission-vision-grid">
+                <div class="mission-card" data-aos="fade-right">
+                    <div class="mission-icon">
+                        <i class="fas fa-bullseye"></i>
+                    </div>
+                    <div class="mission-number">1</div>
+                    <h3>Nuestra Misión</h3>
+                    <p>Nos dedicamos a la venta y alquiler de maquinaria pesada, asi como a la ejecucion de obras, brindando equipos confiables y un servicio responsable.Nos comprometemos a ofrecer calidad y desarrollar proyectos con seguridad,compromiso y responsabilidad.</p>
+                </div>
+                <div class="vision-card" data-aos="fade-left">
+                    <div class="vision-icon">
+                        <i class="fas fa-eye"></i>
+                    </div>
+                    <div class="vision-number">2</div>
+                    <h3>Nuestra Visión</h3>
+                    <p>Posicionarnos como una empresa confiable y competitiva en la venta y alquiler de maquinaria pesada y la ejecucion de obras, destacando por la calidad de nuestros servicios y el compromiso con nuestros clientes y el desarrollo del sector.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sección de Colaboradores/Equipo -->
+    <section id="equipo" class="team-section">
+        <div class="container">
+            <h2 data-aos="fade-up">Nuestro Equipo de Trabajo</h2>
+            <div class="team-grid">
+                <div class="team-member" data-aos="fade-up" data-aos-delay="100">
+                    <div class="team-position-badge">1</div>
+                    <img src="https://placehold.co/250x250/34495E/FFFFFF?text=Director" alt="Director General">
+                    <h4>Carlos Hernández</h4>
+                    <p>Director General</p>
+                    <span>15+ años de experiencia</span>
+                </div>
+                <div class="team-member" data-aos="fade-up" data-aos-delay="200">
+                    <div class="team-position-badge">2</div>
+                    <img src="https://placehold.co/250x250/34495E/FFFFFF?text=Operaciones" alt="Jefe de Operaciones">
+                    <h4>María González</h4>
+                    <p>Jefa de Operaciones</p>
+                    <span>12+ años de experiencia</span>
+                </div>
+                <div class="team-member" data-aos="fade-up" data-aos-delay="300">
+                    <div class="team-position-badge">3</div>
+                    <img src="https://placehold.co/250x250/34495E/FFFFFF?text=Técnico" alt="Jefe Técnico">
+                    <h4>Roberto Silva</h4>
+                    <p>Jefe Técnico</p>
+                    <span>10+ años de experiencia</span>
+                </div>
+                <div class="team-member" data-aos="fade-up" data-aos-delay="400">
+                    <div class="team-position-badge">4</div>
+                    <img src="https://placehold.co/250x250/34495E/FFFFFF?text=Comercial" alt="Gerente Comercial">
+                    <h4>Ana Pérez</h4>
+                    <p>Gerente Comercial</p>
+                    <span>8+ años de experiencia</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sección de Ubicación -->
+    <section id="ubicacion" class="location-section">
+        <div class="container">
+            <h2 data-aos="fade-up">Nuestra Ubicación Estratégica</h2>
+            <div class="location-content">
+                <div class="location-info" data-aos="fade-right">
+                    <div class="location-header">
+                        <h3>Encuentranos en Lima</h3>
+                        <p>Ubicados estratégicamente para brindar el mejor servicio a toda la región</p>
+                    </div>
+                    
+                    <div class="address-cards">
+                        <div class="address-card primary">
+                            <div class="address-icon">
+                                <i class="fas fa-building"></i>
+                            </div>
+                            <div class="address-content">
+                                <h4>Oficina Principal</h4>
+                                <p>Villa el Salvador<br>Antigua Panamericana Sur - KM 37.5<br>Lima, Perú</p>
+                                <div class="address-features">
+                                    <span class="feature"><i class="fas fa-clock"></i> Lun - Vie: 8:00 AM - 6:00 PM</span>
+                                    <span class="feature"><i class="fas fa-phone"></i> +51 905 447 143</span>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="address-card secondary">
+                            <div class="address-icon">
+                                <i class="fas fa-tools"></i>
+                            </div>
+                            <div class="address-content">
+                                <h4>Patio de Maquinarias</h4>
+                                <p>Villa el Salvador<br>Antigua Panamericana Sur - KM 37.5<br>Lima, Perú</p>
+                                <div class="address-features">
+                                    <span class="feature"><i class="fas fa-clock"></i> Lun - Sab: 7:00 AM - 5:00 PM</span>
+                                    <span class="feature"><i class="fas fa-phone"></i> +51 994 080 272</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="contact-actions">
+                        <a href="https://wa.me/51905447143?text=Hola,%20quiero%20información%20sobre%20ubicación" class="action-btn whatsapp-btn" target="_blank">
+                            <i class="fab fa-whatsapp"></i>
+                            Contactar por WhatsApp
+                        </a>
+                        <a href="mailto:ventas@chycinversiones.pe" class="action-btn email-btn">
+                            <i class="fas fa-envelope"></i>
+                            Enviar Email
+                        </a>
+                    </div>
+                </div>
+                
+                <div class="location-map-container" data-aos="fade-left">
+                    <div class="map-header">
+                        <h4>Cómo llegar</h4>
+                        <p>Villa el Salvador - Fácil acceso desde toda Lima</p>
+                    </div>
+                    <div class="location-map">
+                        <iframe 
+                            src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3899.070209861528!2d-76.94327552493576!3d-12.243525388008901!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTLCsDE0JzM2LjciUyA3NsKwNTYnMjYuNSJX!5e0!3m2!1ses-419!2spe!4v1754288459507!5m2!1ses-419!2spe"
+                            width="100%" 
+                            height="350" 
+                            style="border:0;" 
+                            allowfullscreen="" 
+                            loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade">
+                        </iframe>
+                    </div>
+                    <div class="map-benefits">
+                        <div class="benefit-item">
+                            <i class="fas fa-route"></i>
+                            <span>Acceso directo desde Panamericana Sur</span>
+                        </div>
+                        <div class="benefit-item">
+                            <i class="fas fa-parking"></i>
+                            <span>Amplio estacionamiento disponible</span>
+                        </div>
+                        <div class="benefit-item">
+                            <i class="fas fa-map-marked-alt"></i>
+                            <span>Zona industrial especializada</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Carrusel de Servicios -->
+    <section id="servicios-carousel" class="services-carousel">
+        <div class="container">
+            <h2>Nuestros Servicios Destacados</h2>
+            <div class="services-slider">
+                <div class="service-slide">
+                    <img src="https://placehold.co/400x300/F39C12/FFFFFF?text=Excavación" alt="Excavación">
+                    <h4>Excavación Profesional</h4>
+                    <p>Servicios de excavación para cimentaciones, zanjas y movimiento de tierras.</p>
+                </div>
+                <div class="service-slide">
+                    <img src="https://placehold.co/400x300/F39C12/FFFFFF?text=Nivelación" alt="Nivelación">
+                    <h4>Nivelación de Terrenos</h4>
+                    <p>Preparación y nivelación de terrenos para construcción.</p>
+                </div>
+                <div class="service-slide">
+                    <img src="https://placehold.co/400x300/F39C12/FFFFFF?text=Compactación" alt="Compactación">
+                    <h4>Compactación de Suelos</h4>
+                    <p>Compactación especializada para garantizar la estabilidad del terreno.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sección de Contacto -->
+    <section id="contacto" class="contact-section">
+        <div class="container">
+            <div class="contact-content-grid">
+                <!-- Información de contacto y formulario -->
+                <div class="contact-info-form">
+                    <div class="contact-header">
+                        <h3>MaquinariaS CH & C</h3>
+                        <h2>¡Contáctenos!</h2>
+                        <p>Nuestro equipo de ventas cotizará de inmediato tus requerimientos</p>
+                    </div>
+                    
+                    <form class="contact-form" id="contactForm">
+                        <div class="form-group">
+                            <input type="text" id="name" name="name" placeholder="Name*" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="email" id="email" name="email" placeholder="Email Address*" required>
+                        </div>
+                        <div class="form-group">
+                            <textarea id="message" name="message" placeholder="Your Subject" rows="4" required></textarea>
+                        </div>
+                        <button type="submit" class="submit-btn">SUBMIT NOW</button>
+                    </form>
+                </div>
+                
+                <!-- Imagen de la maquinaria -->
+                <div class="contact-machine-visual">
+                    <div class="machine-container">
+                        <img src="/assets/images/maquinaslide.webp" alt="Maquinaria Bobcat" class="machine-image">
+                        <div class="geometric-elements">
+                            <div class="triangle triangle-1"></div>
+                            <div class="triangle triangle-2"></div>
+                            <div class="line-accent line-1"></div>
+                            <div class="line-accent line-2"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- WhatsApp Flotante -->
+    <a href="https://wa.me/51905447143?text=Hola,%20estoy%20interesado%20en%20sus%20servicios%20de%20alquiler%20de%20maquinaria" class="whatsapp-button" target="_blank">
+        <i class="fab fa-whatsapp"></i>
+    </a>
+
+    <!-- Footer Profesional -->
+    <footer class="main-footer">
+        <div class="container">
+            <div class="footer-content">
+                <!-- Información Principal de la Empresa -->
+                <div class="footer-section company-info">
+                    <div class="company-logo">
+                        <img src="assets/icons/OFICIAL LOGO CH Y C_page-0001.jpg" alt="Logo CH Y C Inversiones">
+                        <h4>CH Y C INVERSIONES</h4>
+                        <span class="company-tagline">ESPECIALISTAS EN MAQUINARIAS</span>
+                    </div>
+                    <p class="company-description">Alquiler de Maquinaria Pesada en Lima y Perú</p>
+                    
+                    <div class="contact-info">
+                        <div class="contact-item">
+                            <i class="fas fa-map-marker-alt"></i>
+                            <span>Villa el Salvador, Antigua Panam. Sur - KM 37.5</span>
+                        </div>
+                        <div class="contact-item">
+                            <i class="fas fa-envelope"></i>
+                            <span>ventas@chycinversiones.pe</span>
+                        </div>
+                        <div class="contact-item">
+                            <i class="fas fa-phone"></i>
+                            <span>+51 905 447 143 / +51 994 080 272</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Redes Sociales Section -->
+                <div class="footer-section social-section">
+                    <h5 class="section-title">
+                        <span class="section-label">CH Y C Inversiones</span>
+                        NUESTRAS REDES
+                    </h5>
+                    <div class="social-networks">
+                        <a href="https://www.facebook.com/chycinversiones" target="_blank" class="social-link facebook">
+                            <i class="fab fa-facebook-f"></i>
+                            <span>Facebook</span>
+                        </a>
+                        <a href="https://www.instagram.com/chycinversiones" target="_blank" class="social-link instagram">
+                            <i class="fab fa-instagram"></i>
+                            <span>Instagram</span>
+                        </a>
+                        <a href="https://www.tiktok.com/@chycinversiones" target="_blank" class="social-link tiktok">
+                            <i class="fab fa-tiktok"></i>
+                            <span>TikTok</span>
+                        </a>
+                        <a href="https://www.youtube.com/chycinversiones" target="_blank" class="social-link youtube">
+                            <i class="fab fa-youtube"></i>
+                            <span>YouTube</span>
+                        </a>
+                        <a href="https://wa.me/51905447143" target="_blank" class="social-link whatsapp">
+                            <i class="fab fa-whatsapp"></i>
+                            <span>WhatsApp</span>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Links Section -->
+                <div class="footer-section links-section">
+                    <h5 class="section-title">
+                        <span class="section-label">CH Y C Inversiones</span>
+                        NUESTROS LINKS
+                    </h5>
+                    <ul class="footer-links">
+                        <li><a href="#inicio">Inicio</a></li>
+                        <li><a href="#servicios">Sobre nosotros</a></li>
+                        <li><a href="#contacto">Contacto</a></li>
+                        <li><a href="#maquinaria">Maquinaria</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Footer Bottom -->
+            <div class="footer-bottom">
+                <div class="footer-bottom-content">
+                    <p class="copyright">© Copyright <strong>CH Y C Inversiones</strong> 2025. All right reserved Desarrollado por <span class="developer">Agencia Lima 360</span></p>
+                    <div class="back-to-top">
+                        <button onclick="scrollToTop()" class="scroll-top-btn">
+                            <i class="fas fa-arrow-up"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+    <script src="js/slider.js"></script>
+    <script src="js/contact-form.js"></script>
+    <script src="js/brands-carousel-fixed.js"></script>
+    <script src="js/announcements-carousel.js"></script>
+    <script>
+        // Inicializar AOS
+        AOS.init({
+            duration: 1000,
+            easing: 'ease-in-out',
+            once: true,
+            offset: 100
+        });
+
+        // Función para volver arriba
+        function scrollToTop() {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        }
+
+        // Mostrar/ocultar botón de volver arriba
+        window.addEventListener('scroll', function() {
+            const scrollTopBtn = document.querySelector('.scroll-top-btn');
+            if (window.scrollY > 300) {
+                scrollTopBtn.style.opacity = '1';
+                scrollTopBtn.style.visibility = 'visible';
+            } else {
+                scrollTopBtn.style.opacity = '0';
+                scrollTopBtn.style.visibility = 'hidden';
+            }
+        });
+    </script>
+
+</body>
+</html>
