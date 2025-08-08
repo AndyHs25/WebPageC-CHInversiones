@@ -1,0 +1,308 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Retroexcavadora CATERPILLAR 416E",
+      "categoria": "excavadora",
+      "marca": "Caterpillar",
+      "modelo": "416E",
+      "año": 2012,
+      "precio": 45000,
+      "moneda": "USD",
+      "tipo": "venta",
+      "horas": 15000,
+      "estado": "usado",
+      "ubicacion": "Lima, Perú",
+      "descripcion": "Retroexcavadora en excelente estado, ideal para trabajos de excavación y carga. Mantenimiento al día con repuestos originales.",
+      "especificaciones": {
+        "peso": "8.5 toneladas",
+        "potencia": "74 HP",
+        "capacidad_balde": "0.3 m³",
+        "alcance_maximo": "5.8 m",
+        "profundidad_excavacion": "4.2 m"
+      },
+      "imagenes": [
+        "https://placehold.co/600x400/F39C12/FFFFFF?text=Retroexcavadora+CATERPILLAR+416E+1",
+        "https://placehold.co/600x400/F39C12/FFFFFF?text=Retroexcavadora+CATERPILLAR+416E+2",
+        "https://placehold.co/600x400/F39C12/FFFFFF?text=Retroexcavadora+CATERPILLAR+416E+3"
+      ],
+      "caracteristicas": [
+        "Sistema hidráulico avanzado",
+        "Cabina con aire acondicionado",
+        "Transmisión automática",
+        "Sistema de navegación GPS",
+        "Mantenimiento preventivo realizado"
+      ],
+      "disponible": true,
+      "fecha_publicacion": "2025-01-15"
+    },
+    {
+      "id": 2,
+      "nombre": "Cargador frontal LIUGONG 855H",
+      "categoria": "cargador",
+      "marca": "LiuGong",
+      "modelo": "855H",
+      "año": 2024,
+      "precio": 86000,
+      "moneda": "USD",
+      "tipo": "venta",
+      "horas": 0,
+      "estado": "nuevo",
+      "ubicacion": "Lima, Perú",
+      "descripcion": "Cargador frontal completamente nuevo, ideal para trabajos de carga y transporte de materiales. Garantía de fábrica incluida.",
+      "especificaciones": {
+        "peso": "17.2 toneladas",
+        "potencia": "162 HP",
+        "capacidad_balde": "3.0 m³",
+        "capacidad_carga": "5000 kg",
+        "altura_descarga": "2.8 m"
+      },
+      "imagenes": [
+        "https://placehold.co/600x400/E67E22/FFFFFF?text=Cargador+LIUGONG+855H+1",
+        "https://placehold.co/600x400/E67E22/FFFFFF?text=Cargador+LIUGONG+855H+2",
+        "https://placehold.co/600x400/E67E22/FFFFFF?text=Cargador+LIUGONG+855H+3"
+      ],
+      "caracteristicas": [
+        "Motor Tier 3 de alta eficiencia",
+        "Transmisión ZF",
+        "Sistema de climatización automático",
+        "Joystick piloto para facilidad de operación",
+        "Garantía de 2 años"
+      ],
+      "disponible": true,
+      "fecha_publicacion": "2025-01-10"
+    },
+    {
+      "id": 3,
+      "nombre": "Cargador de bajo perfil CATERPILLAR R1300G",
+      "categoria": "cargador",
+      "marca": "Caterpillar",
+      "modelo": "R1300G",
+      "año": 2013,
+      "precio": 80000,
+      "moneda": "USD",
+      "tipo": "venta",
+      "horas": 16000,
+      "estado": "usado",
+      "ubicacion": "Lima, Perú",
+      "descripcion": "Cargador especializado para trabajos subterráneos y espacios reducidos. Ideal para minería y túneles.",
+      "especificaciones": {
+        "peso": "13.5 toneladas",
+        "potencia": "129 HP",
+        "capacidad_balde": "2.3 m³",
+        "altura_total": "2.1 m",
+        "ancho_total": "2.4 m"
+      },
+      "imagenes": [
+        "https://placehold.co/600x400/2C3E50/FFFFFF?text=Cargador+CAT+R1300G+1",
+        "https://placehold.co/600x400/2C3E50/FFFFFF?text=Cargador+CAT+R1300G+2",
+        "https://placehold.co/600x400/2C3E50/FFFFFF?text=Cargador+CAT+R1300G+3"
+      ],
+      "caracteristicas": [
+        "Diseño de bajo perfil",
+        "Sistema de ventilación mejorado",
+        "Cabina ROPS/FOPS certificada",
+        "Transmisión powershift",
+        "Mantenimiento reciente"
+      ],
+      "disponible": true,
+      "fecha_publicacion": "2025-01-08"
+    },
+    {
+      "id": 4,
+      "nombre": "Minicargador JOHN DEERE 320E",
+      "categoria": "minicargador",
+      "marca": "John Deere",
+      "modelo": "320E",
+      "año": 2017,
+      "precio": 17800,
+      "moneda": "USD",
+      "tipo": "venta",
+      "horas": 5900,
+      "estado": "usado",
+      "ubicacion": "Lima, Perú",
+      "descripcion": "Minicargador compacto perfecto para trabajos en espacios reducidos y paisajismo.",
+      "especificaciones": {
+        "peso": "3.2 toneladas",
+        "potencia": "74 HP",
+        "capacidad_carga": "1134 kg",
+        "flujo_hidraulico": "76 L/min",
+        "velocidad_maxima": "11.3 km/h"
+      },
+      "imagenes": [
+        "https://placehold.co/600x400/27AE60/FFFFFF?text=Minicargador+JOHN+DEERE+320E+1",
+        "https://placehold.co/600x400/27AE60/FFFFFF?text=Minicargador+JOHN+DEERE+320E+2",
+        "https://placehold.co/600x400/27AE60/FFFFFF?text=Minicargador+JOHN+DEERE+320E+3"
+      ],
+      "caracteristicas": [
+        "Cabina cerrada con A/C",
+        "Sistema de acoplamiento rápido",
+        "Control electro-hidráulico",
+        "Bajo consumo de combustible",
+        "Fácil mantenimiento"
+      ],
+      "disponible": true,
+      "fecha_publicacion": "2025-01-05"
+    },
+    {
+      "id": 5,
+      "nombre": "Excavadora KOMATSU PC200",
+      "categoria": "excavadora",
+      "marca": "Komatsu",
+      "modelo": "PC200",
+      "año": 2021,
+      "precio": 95000,
+      "moneda": "USD",
+      "tipo": "venta",
+      "horas": 3200,
+      "estado": "seminuevo",
+      "ubicacion": "Lima, Perú",
+      "descripcion": "Excavadora de alta gama con tecnología avanzada, ideal para proyectos de gran envergadura.",
+      "especificaciones": {
+        "peso": "20.1 toneladas",
+        "potencia": "148 HP",
+        "capacidad_balde": "0.9 m³",
+        "alcance_maximo": "9.8 m",
+        "profundidad_excavacion": "6.5 m"
+      },
+      "imagenes": [
+        "https://placehold.co/600x400/8E44AD/FFFFFF?text=Excavadora+KOMATSU+PC200+1",
+        "https://placehold.co/600x400/8E44AD/FFFFFF?text=Excavadora+KOMATSU+PC200+2",
+        "https://placehold.co/600x400/8E44AD/FFFFFF?text=Excavadora+KOMATSU+PC200+3"
+      ],
+      "caracteristicas": [
+        "Sistema inteligente de control de máquina",
+        "Monitor LCD de 7 pulgadas",
+        "Sistema de climatización automático",
+        "Bajo nivel de emisiones",
+        "Garantía extendida disponible"
+      ],
+      "disponible": true,
+      "fecha_publicacion": "2025-01-12"
+    },
+    {
+      "id": 6,
+      "nombre": "Rodillo compactador DYNAPAC CA250",
+      "categoria": "rodillo",
+      "marca": "Dynapac",
+      "modelo": "CA250",
+      "año": 2018,
+      "precio": 35000,
+      "moneda": "USD",
+      "tipo": "alquiler",
+      "horas": 8500,
+      "estado": "usado",
+      "ubicacion": "Lima, Perú",
+      "descripcion": "Rodillo compactador ideal para trabajos de asfaltado y compactación de suelos.",
+      "especificaciones": {
+        "peso": "10.5 toneladas",
+        "potencia": "129 HP",
+        "ancho_rodillo": "2.13 m",
+        "fuerza_centrifuga": "320 kN",
+        "velocidad_trabajo": "0-10 km/h"
+      },
+      "imagenes": [
+        "https://placehold.co/600x400/E74C3C/FFFFFF?text=Rodillo+DYNAPAC+CA250+1",
+        "https://placehold.co/600x400/E74C3C/FFFFFF?text=Rodillo+DYNAPAC+CA250+2",
+        "https://placehold.co/600x400/E74C3C/FFFFFF?text=Rodillo+DYNAPAC+CA250+3"
+      ],
+      "caracteristicas": [
+        "Sistema de riego automático",
+        "Control de vibración variable",
+        "Cabina ROPS certificada",
+        "Bajo nivel de ruido",
+        "Disponible para alquiler mensual"
+      ],
+      "disponible": true,
+      "fecha_publicacion": "2025-01-03"
+    },
+    {
+      "id": 7,
+      "nombre": "Volquete VOLVO FMX 8x4",
+      "categoria": "volquete",
+      "marca": "Volvo",
+      "modelo": "FMX 8x4",
+      "año": 2020,
+      "precio": 120000,
+      "moneda": "USD",
+      "tipo": "venta",
+      "horas": 45000,
+      "estado": "usado",
+      "ubicacion": "Lima, Perú",
+      "descripcion": "Volquete de alta capacidad ideal para transporte de materiales en obras de gran envergadura.",
+      "especificaciones": {
+        "peso": "18 toneladas",
+        "potencia": "420 HP",
+        "capacidad_carga": "25 toneladas",
+        "capacidad_tolva": "16 m³",
+        "traccion": "8x4"
+      },
+      "imagenes": [
+        "https://placehold.co/600x400/3498DB/FFFFFF?text=Volquete+VOLVO+FMX+1",
+        "https://placehold.co/600x400/3498DB/FFFFFF?text=Volquete+VOLVO+FMX+2",
+        "https://placehold.co/600x400/3498DB/FFFFFF?text=Volquete+VOLVO+FMX+3"
+      ],
+      "caracteristicas": [
+        "Motor D13K de 420 HP",
+        "Transmisión I-Shift automática",
+        "Sistema de frenado EBS",
+        "Cabina I-See con suspensión neumática",
+        "Mantenimiento Volvo Trucks"
+      ],
+      "disponible": true,
+      "fecha_publicacion": "2025-01-01"
+    },
+    {
+      "id": 8,
+      "nombre": "Motoniveladora CATERPILLAR 140M",
+      "categoria": "motoniveladora",
+      "marca": "Caterpillar",
+      "modelo": "140M",
+      "año": 2019,
+      "precio": 180000,
+      "moneda": "USD",
+      "tipo": "venta",
+      "horas": 6800,
+      "estado": "seminuevo",
+      "ubicacion": "Lima, Perú",
+      "descripcion": "Motoniveladora de alta precisión para trabajos de nivelación y mantenimiento de carreteras.",
+      "especificaciones": {
+        "peso": "16.2 toneladas",
+        "potencia": "190 HP",
+        "longitud_hoja": "3.7 m",
+        "velocidad_maxima": "42 km/h",
+        "radio_giro": "7.3 m"
+      },
+      "imagenes": [
+        "https://placehold.co/600x400/9B59B6/FFFFFF?text=Motoniveladora+CAT+140M+1",
+        "https://placehold.co/600x400/9B59B6/FFFFFF?text=Motoniveladora+CAT+140M+2",
+        "https://placehold.co/600x400/9B59B6/FFFFFF?text=Motoniveladora+CAT+140M+3"
+      ],
+      "caracteristicas": [
+        "Sistema de control automático de hoja",
+        "Cabina ROPS/FOPS con excelente visibilidad",
+        "Transmisión powershift de 6 velocidades",
+        "Sistema hidráulico de carga sensible",
+        "Tecnología Cat Grade Control disponible"
+      ],
+      "disponible": true,
+      "fecha_publicacion": "2024-12-28"
+    }
+  ],
+  "categorias": [
+    { "id": "excavadora", "nombre": "Excavadoras", "icono": "fas fa-excavator" },
+    { "id": "cargador", "nombre": "Cargadores", "icono": "fas fa-truck-loading" },
+    { "id": "minicargador", "nombre": "Minicargadores", "icono": "fas fa-compact-disc" },
+    { "id": "rodillo", "nombre": "Rodillos", "icono": "fas fa-road" },
+    { "id": "volquete", "nombre": "Volquetes", "icono": "fas fa-truck" },
+    { "id": "motoniveladora", "nombre": "Motoniveladoras", "icono": "fas fa-ruler-horizontal" }
+  ],
+  "marcas": [
+    { "id": "caterpillar", "nombre": "Caterpillar" },
+    { "id": "komatsu", "nombre": "Komatsu" },
+    { "id": "liugong", "nombre": "LiuGong" },
+    { "id": "john-deere", "nombre": "John Deere" },
+    { "id": "dynapac", "nombre": "Dynapac" },
+    { "id": "volvo", "nombre": "Volvo" }
+  ]
+}

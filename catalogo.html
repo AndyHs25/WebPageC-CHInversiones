@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo de Maquinaria - CH Y C Inversiones</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800;900&family=Lato:wght@400;600;700&family=Roboto:wght@400;500;600&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/catalogo.css">
+</head>
+<body>
+    <!-- Header -->
+    <div id="header-placeholder"></div>
+
+    <!-- Página de Catálogo -->
+    <main class="catalogo-main">
+        <!-- Hero Section del Catálogo -->
+        <section class="catalogo-hero">
+            <div class="container">
+                <div class="catalogo-hero-content">
+                    <h1>Catálogo de Maquinaria</h1>
+                    <p>Encuentra la maquinaria perfecta para tu proyecto</p>
+                    <div class="search-bar">
+                        <div class="search-input-container">
+                            <i class="fas fa-search"></i>
+                            <input type="text" id="searchInput" placeholder="Buscar maquinaria...">
+                        </div>
+                        <button id="searchBtn" class="search-btn">Buscar</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Filtros y Productos -->
+        <section class="catalogo-content">
+            <div class="container">
+                <div class="catalogo-layout">
+                    <!-- Sidebar con Filtros -->
+                    <aside class="filtros-sidebar">
+                        <div class="filtros-header">
+                            <h3>Filtros</h3>
+                            <button id="clearFilters" class="clear-filters-btn">Limpiar filtros</button>
+                        </div>
+
+                        <!-- Filtro por Categoría -->
+                        <div class="filtro-group">
+                            <h4>Categoría</h4>
+                            <div id="categoriaFilters" class="filter-options">
+                                <!-- Se llenan dinámicamente -->
+                            </div>
+                        </div>
+
+                        <!-- Filtro por Marca -->
+                        <div class="filtro-group">
+                            <h4>Marca</h4>
+                            <div id="marcaFilters" class="filter-options">
+                                <!-- Se llenan dinámicamente -->
+                            </div>
+                        </div>
+
+                        <!-- Filtro por Tipo -->
+                        <div class="filtro-group">
+                            <h4>Tipo</h4>
+                            <div class="filter-options">
+                                <label class="filter-checkbox">
+                                    <input type="checkbox" name="tipo" value="venta">
+                                    <span class="checkmark"></span>
+                                    Venta
+                                </label>
+                                <label class="filter-checkbox">
+                                    <input type="checkbox" name="tipo" value="alquiler">
+                                    <span class="checkmark"></span>
+                                    Alquiler
+                                </label>
+                            </div>
+                        </div>
+
+                        <!-- Filtro por Estado -->
+                        <div class="filtro-group">
+                            <h4>Estado</h4>
+                            <div class="filter-options">
+                                <label class="filter-checkbox">
+                                    <input type="checkbox" name="estado" value="nuevo">
+                                    <span class="checkmark"></span>
+                                    Nuevo
+                                </label>
+                                <label class="filter-checkbox">
+                                    <input type="checkbox" name="estado" value="seminuevo">
+                                    <span class="checkmark"></span>
+                                    Seminuevo
+                                </label>
+                                <label class="filter-checkbox">
+                                    <input type="checkbox" name="estado" value="usado">
+                                    <span class="checkmark"></span>
+                                    Usado
+                                </label>
+                            </div>
+                        </div>
+
+                        <!-- Filtro por Rango de Precio -->
+                        <div class="filtro-group">
+                            <h4>Precio (USD)</h4>
+                            <div class="price-range">
+                                <div class="price-inputs">
+                                    <input type="number" id="minPrice" placeholder="Mín">
+                                    <span>-</span>
+                                    <input type="number" id="maxPrice" placeholder="Máx">
+                                </div>
+                                <button id="applyPriceFilter" class="apply-price-btn">Aplicar</button>
+                            </div>
+                        </div>
+                    </aside>
+
+                    <!-- Área de Productos -->
+                    <main class="productos-main">
+                        <!-- Controles de Vista -->
+                        <div class="productos-controls">
+                            <div class="productos-count">
+                                <span id="productCount">0 productos encontrados</span>
+                            </div>
+                            <div class="view-controls">
+                                <label for="sortSelect">Ordenar por:</label>
+                                <select id="sortSelect">
+                                    <option value="fecha">Más recientes</option>
+                                    <option value="precio-asc">Precio: menor a mayor</option>
+                                    <option value="precio-desc">Precio: mayor a menor</option>
+                                    <option value="año-desc">Año: más nuevo</option>
+                                    <option value="año-asc">Año: más antiguo</option>
+                                    <option value="nombre">Nombre A-Z</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <!-- Grid de Productos -->
+                        <div id="productosGrid" class="productos-grid">
+                            <!-- Los productos se cargan dinámicamente aquí -->
+                        </div>
+
+                        <!-- Loading -->
+                        <div id="loadingSpinner" class="loading-spinner">
+                            <i class="fas fa-spinner fa-spin"></i>
+                            <p>Cargando productos...</p>
+                        </div>
+
+                        <!-- Sin resultados -->
+                        <div id="noResults" class="no-results" style="display: none;">
+                            <i class="fas fa-search"></i>
+                            <h3>No se encontraron productos</h3>
+                            <p>Intenta ajustar los filtros de búsqueda</p>
+                        </div>
+                    </main>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Modal de Producto -->
+    <div id="productModal" class="product-modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modalTitle"></h2>
+                <button class="close-modal" id="closeModal">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="modal-layout">
+                    <!-- Galería de Imágenes -->
+                    <div class="modal-gallery">
+                        <div class="main-image">
+                            <img id="modalMainImage" src="" alt="">
+                            <div class="image-navigation">
+                                <button id="prevImage" class="nav-btn">
+                                    <i class="fas fa-chevron-left"></i>
+                                </button>
+                                <button id="nextImage" class="nav-btn">
+                                    <i class="fas fa-chevron-right"></i>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="image-thumbnails" id="imageThumbnails">
+                            <!-- Miniaturas se cargan aquí -->
+                        </div>
+                    </div>
+
+                    <!-- Información del Producto -->
+                    <div class="modal-info">
+                        <div class="price-section">
+                            <div class="price" id="modalPrice"></div>
+                            <div class="product-badges">
+                                <span id="modalTipo" class="badge"></span>
+                                <span id="modalEstado" class="badge"></span>
+                            </div>
+                        </div>
+
+                        <div class="product-details">
+                            <div class="detail-group">
+                                <h4>Información General</h4>
+                                <div class="detail-grid">
+                                    <div class="detail-item">
+                                        <span class="label">Marca:</span>
+                                        <span id="modalMarca" class="value"></span>
+                                    </div>
+                                    <div class="detail-item">
+                                        <span class="label">Modelo:</span>
+                                        <span id="modalModelo" class="value"></span>
+                                    </div>
+                                    <div class="detail-item">
+                                        <span class="label">Año:</span>
+                                        <span id="modalAño" class="value"></span>
+                                    </div>
+                                    <div class="detail-item">
+                                        <span class="label">Horas:</span>
+                                        <span id="modalHoras" class="value"></span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="detail-group">
+                                <h4>Descripción</h4>
+                                <p id="modalDescripcion"></p>
+                            </div>
+
+                            <div class="detail-group">
+                                <h4>Especificaciones Técnicas</h4>
+                                <div id="modalEspecificaciones" class="especificaciones-grid">
+                                    <!-- Se llenan dinámicamente -->
+                                </div>
+                            </div>
+
+                            <div class="detail-group">
+                                <h4>Características Destacadas</h4>
+                                <ul id="modalCaracteristicas" class="caracteristicas-list">
+                                    <!-- Se llenan dinámicamente -->
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="modal-actions">
+                            <button class="btn-contact-whatsapp" id="contactWhatsApp">
+                                <i class="fab fa-whatsapp"></i>
+                                Consultar por WhatsApp
+                            </button>
+                            <button class="btn-contact-email" id="contactEmail">
+                                <i class="fas fa-envelope"></i>
+                                Solicitar Cotización
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <div id="footer-placeholder"></div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+    <script src="js/components-loader.js"></script>
+    <script src="js/catalogo.js"></script>
+    <script>
+        // Inicializar AOS
+        AOS.init({
+            duration: 1000,
+            easing: 'ease-in-out',
+            once: true,
+            offset: 100
+        });
+
+        // Función para volver arriba
+        function scrollToTop() {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        }
+
+        // Mostrar/ocultar botón de volver arriba
+        window.addEventListener('scroll', function() {
+            const scrollTopBtn = document.querySelector('.scroll-top-btn');
+            if (scrollTopBtn) {
+                if (window.scrollY > 300) {
+                    scrollTopBtn.style.opacity = '1';
+                    scrollTopBtn.style.visibility = 'visible';
+                } else {
+                    scrollTopBtn.style.opacity = '0';
+                    scrollTopBtn.style.visibility = 'hidden';
+                }
+            }
+        });
+    </script>
+</body>
+</html>
