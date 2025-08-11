@@ -2,307 +2,4448 @@
   "productos": [
     {
       "id": 1,
-      "nombre": "Retroexcavadora CATERPILLAR 416E",
-      "categoria": "excavadora",
-      "marca": "Caterpillar",
-      "modelo": "416E",
-      "año": 2012,
-      "precio": 45000,
+      "nombre": "Cargador Frontal Volvo L110G",
+      "categoria": "cargador-frontal",
+      "marca": "Volvo",
+      "modelo": "L110G",
+      "año": null,
+      "precio": null,
       "moneda": "USD",
       "tipo": "venta",
-      "horas": 15000,
+      "horas": null,
       "estado": "usado",
-      "ubicacion": "Lima, Perú",
-      "descripcion": "Retroexcavadora en excelente estado, ideal para trabajos de excavación y carga. Mantenimiento al día con repuestos originales.",
+      "ubicacion": "Ubicación no especificada",
+      "descripcion": "Cargador frontal Volvo L110G, diseñado para alta productividad y eficiencia en el consumo de combustible.",
       "especificaciones": {
-        "peso": "8.5 toneladas",
-        "potencia": "74 HP",
-        "capacidad_balde": "0.3 m³",
-        "alcance_maximo": "5.8 m",
-        "profundidad_excavacion": "4.2 m"
+        "peso": "18.5 toneladas",
+        "potencia": "258 HP",
+        "capacidad_balde": "3.3 m³"
       },
       "imagenes": [
-        "https://placehold.co/600x400/F39C12/FFFFFF?text=Retroexcavadora+CATERPILLAR+416E+1",
-        "https://placehold.co/600x400/F39C12/FFFFFF?text=Retroexcavadora+CATERPILLAR+416E+2",
-        "https://placehold.co/600x400/F39C12/FFFFFF?text=Retroexcavadora+CATERPILLAR+416E+3"
+        "https://placehold.co/600x400/3498DB/FFFFFF?text=Volvo+L110G"
       ],
       "caracteristicas": [
-        "Sistema hidráulico avanzado",
-        "Cabina con aire acondicionado",
-        "Transmisión automática",
-        "Sistema de navegación GPS",
-        "Mantenimiento preventivo realizado"
+        "Motor Volvo D8H",
+        "Transmisión automática Powershift",
+        "Sistema hidráulico con detección de carga"
       ],
-      "disponible": true,
-      "fecha_publicacion": "2025-01-15"
+      "disponible": false,
+      "fecha_publicacion": "2025-08-11"
     },
     {
       "id": 2,
-      "nombre": "Cargador frontal LIUGONG 855H",
-      "categoria": "cargador",
-      "marca": "LiuGong",
-      "modelo": "855H",
-      "año": 2024,
-      "precio": 86000,
+      "nombre": "Cargador Frontal Volvo L120G",
+      "categoria": "cargador-frontal",
+      "marca": "Volvo",
+      "modelo": "L120G",
+      "año": null,
+      "precio": null,
       "moneda": "USD",
       "tipo": "venta",
-      "horas": 0,
-      "estado": "nuevo",
-      "ubicacion": "Lima, Perú",
-      "descripcion": "Cargador frontal completamente nuevo, ideal para trabajos de carga y transporte de materiales. Garantía de fábrica incluida.",
+      "horas": null,
+      "estado": "usado",
+      "ubicacion": "Ubicación no especificada",
+      "descripcion": "Cargador frontal Volvo L120G, conocido por su versatilidad y rendimiento superior.",
       "especificaciones": {
-        "peso": "17.2 toneladas",
-        "potencia": "162 HP",
-        "capacidad_balde": "3.0 m³",
-        "capacidad_carga": "5000 kg",
-        "altura_descarga": "2.8 m"
+        "peso": "20.7 toneladas",
+        "potencia": "272 HP",
+        "capacidad_balde": "3.5 m³ - 4.0 m³"
       },
       "imagenes": [
-        "https://placehold.co/600x400/E67E22/FFFFFF?text=Cargador+LIUGONG+855H+1",
-        "https://placehold.co/600x400/E67E22/FFFFFF?text=Cargador+LIUGONG+855H+2",
-        "https://placehold.co/600x400/E67E22/FFFFFF?text=Cargador+LIUGONG+855H+3"
+        "https://placehold.co/600x400/3498DB/FFFFFF?text=Volvo+L120G"
       ],
       "caracteristicas": [
-        "Motor Tier 3 de alta eficiencia",
-        "Transmisión ZF",
-        "Sistema de climatización automático",
-        "Joystick piloto para facilidad de operación",
-        "Garantía de 2 años"
+        "Motor Volvo D8H",
+        "Tecnología OptiShift",
+        "Sistema de brazo de torque paralelo (TP-linkage)"
       ],
-      "disponible": true,
-      "fecha_publicacion": "2025-01-10"
+      "disponible": false,
+      "fecha_publicacion": "2025-08-11"
     },
     {
       "id": 3,
-      "nombre": "Cargador de bajo perfil CATERPILLAR R1300G",
-      "categoria": "cargador",
+      "nombre": "Cargador Frontal Caterpillar 966G",
+      "categoria": "cargador-frontal",
       "marca": "Caterpillar",
-      "modelo": "R1300G",
-      "año": 2013,
-      "precio": 80000,
+      "modelo": "966G",
+      "año": null,
+      "precio": null,
       "moneda": "USD",
       "tipo": "venta",
-      "horas": 16000,
+      "horas": null,
       "estado": "usado",
-      "ubicacion": "Lima, Perú",
-      "descripcion": "Cargador especializado para trabajos subterráneos y espacios reducidos. Ideal para minería y túneles.",
+      "ubicacion": "Ubicación no especificada",
+      "descripcion": "Cargador frontal robusto y fiable, el Caterpillar 966G es un equipo probado en campo.",
       "especificaciones": {
-        "peso": "13.5 toneladas",
-        "potencia": "129 HP",
-        "capacidad_balde": "2.3 m³",
-        "altura_total": "2.1 m",
-        "ancho_total": "2.4 m"
+        "peso": "23.1 toneladas",
+        "potencia": "253 HP",
+        "capacidad_balde": "3.8 m³ - 4.5 m³"
       },
       "imagenes": [
-        "https://placehold.co/600x400/2C3E50/FFFFFF?text=Cargador+CAT+R1300G+1",
-        "https://placehold.co/600x400/2C3E50/FFFFFF?text=Cargador+CAT+R1300G+2",
-        "https://placehold.co/600x400/2C3E50/FFFFFF?text=Cargador+CAT+R1300G+3"
+        "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+966G"
       ],
       "caracteristicas": [
-        "Diseño de bajo perfil",
-        "Sistema de ventilación mejorado",
-        "Cabina ROPS/FOPS certificada",
-        "Transmisión powershift",
-        "Mantenimiento reciente"
+        "Motor Cat 3306B DITA",
+        "Servotransmisión planetaria",
+        "Cabina ergonómica"
       ],
-      "disponible": true,
-      "fecha_publicacion": "2025-01-08"
+      "disponible": false,
+      "fecha_publicacion": "2025-08-11"
     },
     {
       "id": 4,
-      "nombre": "Minicargador JOHN DEERE 320E",
-      "categoria": "minicargador",
-      "marca": "John Deere",
-      "modelo": "320E",
+      "nombre": "Cargador Frontal Caterpillar 966L",
+      "categoria": "cargador-frontal",
+      "marca": "Caterpillar",
+      "modelo": "966L",
       "año": 2017,
-      "precio": 17800,
+      "precio": 138000,
       "moneda": "USD",
       "tipo": "venta",
-      "horas": 5900,
+      "horas": null,
       "estado": "usado",
-      "ubicacion": "Lima, Perú",
-      "descripcion": "Minicargador compacto perfecto para trabajos en espacios reducidos y paisajismo.",
+      "ubicacion": "Ubicación no especificada",
+      "descripcion": "Cargador frontal Caterpillar 966L del año 2017. Ofrece un rendimiento superior y eficiencia.",
       "especificaciones": {
-        "peso": "3.2 toneladas",
-        "potencia": "74 HP",
-        "capacidad_carga": "1134 kg",
-        "flujo_hidraulico": "76 L/min",
-        "velocidad_maxima": "11.3 km/h"
+        "peso": "23.2 toneladas",
+        "potencia": "278 HP",
+        "capacidad_balde": "4.2 m³ - 5.4 m³"
       },
       "imagenes": [
-        "https://placehold.co/600x400/27AE60/FFFFFF?text=Minicargador+JOHN+DEERE+320E+1",
-        "https://placehold.co/600x400/27AE60/FFFFFF?text=Minicargador+JOHN+DEERE+320E+2",
-        "https://placehold.co/600x400/27AE60/FFFFFF?text=Minicargador+JOHN+DEERE+320E+3"
+        "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+966L"
       ],
       "caracteristicas": [
-        "Cabina cerrada con A/C",
-        "Sistema de acoplamiento rápido",
-        "Control electro-hidráulico",
-        "Bajo consumo de combustible",
-        "Fácil mantenimiento"
+        "Motor Cat C9.3 ACERT",
+        "Convertidor de par con embrague de bloqueo",
+        "Cat Production Measurement"
       ],
-      "disponible": true,
-      "fecha_publicacion": "2025-01-05"
+      "disponible": false,
+      "fecha_publicacion": "2025-08-11"
     },
     {
       "id": 5,
-      "nombre": "Excavadora KOMATSU PC200",
-      "categoria": "excavadora",
-      "marca": "Komatsu",
-      "modelo": "PC200",
-      "año": 2021,
-      "precio": 95000,
+      "nombre": "Cargador Frontal Caterpillar 950G",
+      "categoria": "cargador-frontal",
+      "marca": "Caterpillar",
+      "modelo": "950G",
+      "año": null,
+      "precio": null,
       "moneda": "USD",
       "tipo": "venta",
-      "horas": 3200,
-      "estado": "seminuevo",
-      "ubicacion": "Lima, Perú",
-      "descripcion": "Excavadora de alta gama con tecnología avanzada, ideal para proyectos de gran envergadura.",
+      "horas": null,
+      "estado": "usado",
+      "ubicacion": "Ubicación no especificada",
+      "descripcion": "Cargador frontal Caterpillar 950G, un equipo versátil y eficiente.",
       "especificaciones": {
-        "peso": "20.1 toneladas",
-        "potencia": "148 HP",
-        "capacidad_balde": "0.9 m³",
-        "alcance_maximo": "9.8 m",
-        "profundidad_excavacion": "6.5 m"
+        "peso": "18.1 toneladas",
+        "potencia": "180 HP",
+        "capacidad_balde": "2.9 m³ - 3.5 m³"
       },
       "imagenes": [
-        "https://placehold.co/600x400/8E44AD/FFFFFF?text=Excavadora+KOMATSU+PC200+1",
-        "https://placehold.co/600x400/8E44AD/FFFFFF?text=Excavadora+KOMATSU+PC200+2",
-        "https://placehold.co/600x400/8E44AD/FFFFFF?text=Excavadora+KOMATSU+PC200+3"
+        "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+950G"
       ],
       "caracteristicas": [
-        "Sistema inteligente de control de máquina",
-        "Monitor LCD de 7 pulgadas",
-        "Sistema de climatización automático",
-        "Bajo nivel de emisiones",
-        "Garantía extendida disponible"
+        "Motor Cat 3126B DITA",
+        "Sistema hidráulico con detección de carga",
+        "Frenos de disco en baño de aceite"
       ],
-      "disponible": true,
-      "fecha_publicacion": "2025-01-12"
+      "disponible": false,
+      "fecha_publicacion": "2025-08-11"
     },
     {
       "id": 6,
-      "nombre": "Rodillo compactador DYNAPAC CA250",
-      "categoria": "rodillo",
-      "marca": "Dynapac",
-      "modelo": "CA250",
-      "año": 2018,
-      "precio": 35000,
+      "nombre": "Cargador Frontal Caterpillar 938G",
+      "categoria": "cargador-frontal",
+      "marca": "Caterpillar",
+      "modelo": "938G",
+      "año": null,
+      "precio": null,
       "moneda": "USD",
-      "tipo": "alquiler",
-      "horas": 8500,
+      "tipo": "venta",
+      "horas": null,
       "estado": "usado",
-      "ubicacion": "Lima, Perú",
-      "descripcion": "Rodillo compactador ideal para trabajos de asfaltado y compactación de suelos.",
+      "ubicacion": "Ubicación no especificada",
+      "descripcion": "Cargador frontal Caterpillar 938G, conocido por su fiabilidad y varillaje versátil.",
       "especificaciones": {
-        "peso": "10.5 toneladas",
-        "potencia": "129 HP",
-        "ancho_rodillo": "2.13 m",
-        "fuerza_centrifuga": "320 kN",
-        "velocidad_trabajo": "0-10 km/h"
+        "peso": "13.5 toneladas",
+        "potencia": "160 HP",
+        "capacidad_balde": "2.3 m³ - 2.8 m³"
       },
       "imagenes": [
-        "https://placehold.co/600x400/E74C3C/FFFFFF?text=Rodillo+DYNAPAC+CA250+1",
-        "https://placehold.co/600x400/E74C3C/FFFFFF?text=Rodillo+DYNAPAC+CA250+2",
-        "https://placehold.co/600x400/E74C3C/FFFFFF?text=Rodillo+DYNAPAC+CA250+3"
+        "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+938G"
       ],
       "caracteristicas": [
-        "Sistema de riego automático",
-        "Control de vibración variable",
-        "Cabina ROPS certificada",
-        "Bajo nivel de ruido",
-        "Disponible para alquiler mensual"
+        "Motor Cat 3126B",
+        "Varillaje en Z de alto rendimiento",
+        "Controles de bajo esfuerzo"
       ],
-      "disponible": true,
-      "fecha_publicacion": "2025-01-03"
+      "disponible": false,
+      "fecha_publicacion": "2025-08-11"
     },
     {
       "id": 7,
-      "nombre": "Volquete VOLVO FMX 8x4",
-      "categoria": "volquete",
-      "marca": "Volvo",
-      "modelo": "FMX 8x4",
-      "año": 2020,
-      "precio": 120000,
+      "nombre": "Cargador Frontal Caterpillar 966H",
+      "categoria": "cargador-frontal",
+      "marca": "Caterpillar",
+      "modelo": "966H",
+      "año": 2012,
+      "precio": null,
       "moneda": "USD",
       "tipo": "venta",
-      "horas": 45000,
+      "horas": null,
       "estado": "usado",
-      "ubicacion": "Lima, Perú",
-      "descripcion": "Volquete de alta capacidad ideal para transporte de materiales en obras de gran envergadura.",
+      "ubicacion": "Ubicación no especificada",
+      "descripcion": "Cargador frontal Caterpillar 966H, año 2012. Una máquina potente con tecnología ACERT.",
       "especificaciones": {
-        "peso": "18 toneladas",
-        "potencia": "420 HP",
-        "capacidad_carga": "25 toneladas",
-        "capacidad_tolva": "16 m³",
-        "traccion": "8x4"
+        "peso": "23.8 toneladas",
+        "potencia": "259 HP",
+        "capacidad_balde": "4.25 m³"
       },
       "imagenes": [
-        "https://placehold.co/600x400/3498DB/FFFFFF?text=Volquete+VOLVO+FMX+1",
-        "https://placehold.co/600x400/3498DB/FFFFFF?text=Volquete+VOLVO+FMX+2",
-        "https://placehold.co/600x400/3498DB/FFFFFF?text=Volquete+VOLVO+FMX+3"
+        "assets/images/1. INVENTARIO FOTOGRAFICO/CF 003 - CARGADOR FRONTAL CATERPILLAR  966H/WhatsApp Image 2025-06-19 at 1.11.30 PM (1).jpeg",
+        "assets/images/1. INVENTARIO FOTOGRAFICO/CF 003 - CARGADOR FRONTAL CATERPILLAR  966H/WhatsApp Image 2025-06-19 at 1.11.30 PM (2).jpeg",
+        "assets/images/1. INVENTARIO FOTOGRAFICO/CF 003 - CARGADOR FRONTAL CATERPILLAR  966H/WhatsApp Image 2025-06-19 at 1.11.30 PM (3).jpeg"
       ],
       "caracteristicas": [
-        "Motor D13K de 420 HP",
-        "Transmisión I-Shift automática",
-        "Sistema de frenado EBS",
-        "Cabina I-See con suspensión neumática",
-        "Mantenimiento Volvo Trucks"
+        "Motor Cat C11 ACERT",
+        "Sistema de Dirección por Control Remoto",
+        "Cabina con Certificación ROPS/FOPS"
       ],
       "disponible": true,
-      "fecha_publicacion": "2025-01-01"
+      "fecha_publicacion": "2025-08-11"
     },
     {
-      "id": 8,
-      "nombre": "Motoniveladora CATERPILLAR 140M",
-      "categoria": "motoniveladora",
+      "id": 9,
+      "nombre": "Cargador Frontal Caterpillar 950H",
+      "categoria": "cargador-frontal",
       "marca": "Caterpillar",
-      "modelo": "140M",
-      "año": 2019,
-      "precio": 180000,
+      "modelo": "950H",
+      "año": null,
+      "precio": 50000,
       "moneda": "USD",
       "tipo": "venta",
-      "horas": 6800,
-      "estado": "seminuevo",
-      "ubicacion": "Lima, Perú",
-      "descripcion": "Motoniveladora de alta precisión para trabajos de nivelación y mantenimiento de carreteras.",
+      "horas": null,
+      "estado": "usado",
+      "ubicacion": "Ubicación no especificada",
+      "descripcion": "Cargador frontal Caterpillar 950H, conocido por su tecnología ACERT.",
       "especificaciones": {
-        "peso": "16.2 toneladas",
-        "potencia": "190 HP",
-        "longitud_hoja": "3.7 m",
-        "velocidad_maxima": "42 km/h",
-        "radio_giro": "7.3 m"
+        "peso": "18.3 toneladas",
+        "potencia": "197 HP",
+        "capacidad_balde": "3.1 m³ - 3.8 m³"
       },
       "imagenes": [
-        "https://placehold.co/600x400/9B59B6/FFFFFF?text=Motoniveladora+CAT+140M+1",
-        "https://placehold.co/600x400/9B59B6/FFFFFF?text=Motoniveladora+CAT+140M+2",
-        "https://placehold.co/600x400/9B59B6/FFFFFF?text=Motoniveladora+CAT+140M+3"
+        "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+950H"
       ],
       "caracteristicas": [
-        "Sistema de control automático de hoja",
-        "Cabina ROPS/FOPS con excelente visibilidad",
-        "Transmisión powershift de 6 velocidades",
-        "Sistema hidráulico de carga sensible",
-        "Tecnología Cat Grade Control disponible"
+        "Motor Cat C7 con tecnología ACERT",
+        "Sistema de Monitoreo Caterpillar",
+        "Varillaje en Z de alto rendimiento"
       ],
-      "disponible": true,
-      "fecha_publicacion": "2024-12-28"
+      "disponible": false,
+      "fecha_publicacion": "2025-08-11"
+    },
+    {
+      "id": 10,
+      "nombre": "Cargador Frontal Caterpillar 962H",
+      "categoria": "cargador-frontal",
+      "marca": "Caterpillar",
+      "modelo": "962H",
+      "año": 2010,
+      "precio": 78000,
+      "moneda": "USD",
+      "tipo": "venta",
+      "horas": null,
+      "estado": "usado",
+      "ubicacion": "Ubicación no especificada",
+      "descripcion": "Cargador frontal Caterpillar 962H, año 2010. Combina potencia y ciclos rápidos.",
+      "especificaciones": {
+        "peso": "19.6 toneladas",
+        "potencia": "229 HP",
+        "capacidad_balde": "3.3 m³ - 4.0 m³"
+      },
+      "imagenes": [
+        "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+962H"
+      ],
+      "caracteristicas": [
+        "Motor Cat C7 con tecnología ACERT",
+        "Servotransmisión planetaria",
+        "Visibilidad panorámica"
+      ],
+      "disponible": false,
+      "fecha_publicacion": "2025-08-11"
+    },
+    {
+      "id": 11,
+      "nombre": "Cargador Frontal Caterpillar 962G",
+      "categoria": "cargador-frontal",
+      "marca": "Caterpillar",
+      "modelo": "962G",
+      "año": null,
+      "precio": null,
+      "moneda": "USD",
+      "tipo": "venta",
+      "horas": null,
+      "estado": "usado",
+      "ubicacion": "Ubicación no especificada",
+      "descripcion": "Cargador frontal Caterpillar 962G, un estándar de la industria en fiabilidad y rendimiento.",
+      "especificaciones": {
+        "peso": "19.9 toneladas",
+        "potencia": "200 HP",
+        "capacidad_balde": "3.3 m³ - 3.8 m³"
+      },
+      "imagenes": [
+        "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+962G"
+      ],
+      "caracteristicas": [
+        "Motor Cat 3306 DITA",
+        "Frenos hidráulicos",
+        "Controles de bajo esfuerzo"
+      ],
+      "disponible": false,
+      "fecha_publicacion": "2025-08-11"
+    },
+    {
+      "id": 12,
+      "nombre": "Cargador Frontal Caterpillar 962K",
+      "categoria": "cargador-frontal",
+      "marca": "Caterpillar",
+      "modelo": "962K",
+      "año": null,
+      "precio": 78000,
+      "moneda": "USD",
+      "tipo": "venta",
+      "horas": null,
+      "estado": "usado",
+      "ubicacion": "Ubicación no especificada",
+      "descripcion": "Cargador frontal Caterpillar 962K. Este modelo mejora la eficiencia de combustible y la comodidad del operador.",
+      "especificaciones": {
+        "peso": "19.6 toneladas",
+        "potencia": "229 HP",
+        "capacidad_balde": "3.3 m³ - 4.0 m³"
+      },
+      "imagenes": [
+        "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+962K"
+      ],
+      "caracteristicas": [
+        "Motor Cat C7.1 ACERT",
+        "Transmisión hidrostática inteligente",
+        "Cabina de nueva generación"
+      ],
+      "disponible": false,
+      "fecha_publicacion": "2025-08-11"
+    },
+    {
+      "id": 16,
+      "nombre": "Cargador Frontal Caterpillar 938H",
+      "categoria": "cargador-frontal",
+      "marca": "Caterpillar",
+      "modelo": "938H",
+      "año": null,
+      "precio": null,
+      "moneda": "USD",
+      "tipo": "venta",
+      "horas": null,
+      "estado": "usado",
+      "ubicacion": "Ubicación no especificada",
+      "descripcion": "Cargador frontal Caterpillar 938H. Destaca por su alto rendimiento y bajos costos de operación.",
+      "especificaciones": {
+        "peso": "14.5 toneladas",
+        "potencia": "180 HP",
+        "capacidad_balde": "2.5 m³ - 3.0 m³"
+      },
+      "imagenes": [
+        "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+938H"
+      ],
+      "caracteristicas": [
+        "Motor Cat C6.6 ACERT",
+        "Varillaje en Z optimizado",
+        "Sistema Product Link"
+      ],
+      "disponible": false,
+      "fecha_publicacion": "2025-08-11"
+    },
+    {
+      "id": 17,
+      "nombre": "Cargador Frontal Caterpillar 814B",
+      "categoria": "cargador-frontal",
+      "marca": "Caterpillar",
+      "modelo": "814B",
+      "año": null,
+      "precio": null,
+      "moneda": "USD",
+      "tipo": "venta",
+      "horas": null,
+      "estado": "usado",
+      "ubicacion": "Ubicación no especificada",
+      "descripcion": "Tractor de ruedas Caterpillar 814B, diseñado para tareas de empuje y explanación.",
+      "especificaciones": {
+        "peso": "21.6 toneladas",
+        "potencia": "210 HP",
+        "tipo_hoja": "Recta"
+      },
+      "imagenes": [
+        "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+814B"
+      ],
+      "caracteristicas": [
+        "Motor Cat 3306",
+        "Transmisión Powershift",
+        "Estructura robusta para alta durabilidad"
+      ],
+      "disponible": false,
+      "fecha_publicacion": "2025-08-11"
+    },
+    {
+      "id": 18,
+      "nombre": "Cargador Frontal Caterpillar 950L",
+      "categoria": "cargador-frontal",
+      "marca": "Caterpillar",
+      "modelo": "950L",
+      "año": null,
+      "precio": 135000,
+      "moneda": "USD",
+      "tipo": "venta",
+      "horas": null,
+      "estado": "usado",
+      "ubicacion": "Ubicación no especificada",
+      "descripcion": "Cargador frontal Caterpillar 950L, combina fiabilidad con mejoras en eficiencia y rendimiento.",
+      "especificaciones": {
+        "peso": "18.6 toneladas",
+        "potencia": "225 HP",
+        "capacidad_balde": "3.2 m³ - 4.4 m³"
+      },
+      "imagenes": [
+        "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+950L"
+      ],
+      "caracteristicas": [
+        "Motor Cat C7.1 ACERT",
+        "Sistema hidráulico avanzado",
+        "Cabina con visibilidad mejorada"
+      ],
+      "disponible": false,
+      "fecha_publicacion": "2025-08-11"
+    },
+    {
+      "id": 19,
+      "nombre": "Cargador Frontal Komatsu (Modelo no especificado)",
+      "categoria": "cargador-frontal",
+      "marca": "Komatsu",
+      "modelo": "2WP11A",
+      "año": null,
+      "precio": null,
+      "moneda": "USD",
+      "tipo": "venta",
+      "horas": null,
+      "estado": "usado",
+      "ubicacion": "Ubicación no especificada",
+      "descripcion": "Cargador frontal Komatsu. El modelo específico no pudo ser determinado a partir de la serie.",
+      "especificaciones": {},
+      "imagenes": [
+        "https://placehold.co/600x400/1ABC9C/FFFFFF?text=Komatsu"
+      ],
+      "caracteristicas": [],
+      "disponible": false,
+      "fecha_publicacion": "2025-08-11"
+    },
+    {
+      "id": 20,
+      "nombre": "Cargador Frontal Komatsu WA500-6",
+      "categoria": "cargador-frontal",
+      "marca": "Komatsu",
+      "modelo": "WA500-6",
+      "año": null,
+      "precio": null,
+      "moneda": "USD",
+      "tipo": "venta",
+      "horas": null,
+      "estado": "usado",
+      "ubicacion": "Ubicación no especificada",
+      "descripcion": "Cargador frontal Komatsu WA500-6, diseñado para aplicaciones de cantera y carga de camiones de servicio pesado.",
+      "especificaciones": {
+        "peso": "32.5 toneladas",
+        "potencia": "353 HP",
+        "capacidad_balde": "4.5 m³ - 6.3 m³"
+      },
+      "imagenes": [
+        "https://placehold.co/600x400/1ABC9C/FFFFFF?text=Komatsu+WA500-6"
+      ],
+      "caracteristicas": [
+        "Motor Komatsu SAA6D140E-5",
+        "Sistema de Monitoreo EMMS",
+        "Transmisión automática con selector de modo"
+      ],
+      "disponible": false,
+      "fecha_publicacion": "2025-08-11"
+    },
+    {
+      "id": 23,
+      "nombre": "Cargador Frontal Komatsu WA380-1",
+      "categoria": "cargador-frontal",
+      "marca": "Komatsu",
+      "modelo": "WA380-1",
+      "año": null,
+      "precio": null,
+      "moneda": "USD",
+      "tipo": "venta",
+      "horas": null,
+      "estado": "usado",
+      "ubicacion": "Ubicación no especificada",
+      "descripcion": "Cargador frontal Komatsu WA380-1, un modelo más antiguo pero robusto y fiable.",
+      "especificaciones": {
+        "peso": "16 toneladas",
+        "potencia": "188 HP",
+        "capacidad_balde": "3.1 m³"
+      },
+      "imagenes": [
+        "https://placehold.co/600x400/1ABC9C/FFFFFF?text=Komatsu+WA380-1"
+      ],
+      "caracteristicas": [
+        "Motor Komatsu S6D108",
+        "Transmisión Powershift",
+        "Diseño duradero"
+      ],
+      "disponible": false,
+      "fecha_publicacion": "2025-08-11"
+    },
+    {
+      "id": 24,
+      "nombre": "Cargador Frontal Komatsu WA380-6",
+      "categoria": "cargador-frontal",
+      "marca": "Komatsu",
+      "modelo": "WA380-6",
+      "año": null,
+      "precio": null,
+      "moneda": "USD",
+      "tipo": "venta",
+      "horas": 248110.1,
+      "estado": "usado",
+      "ubicacion": "Ubicación no especificada",
+      "descripcion": "Cargador frontal Komatsu WA380-6. Un equipo de alto rendimiento con un elevado número de horas.",
+      "especificaciones": {
+        "peso": "18 toneladas",
+        "potencia": "191 HP",
+        "capacidad_balde": "3.0 m³ - 3.7 m³"
+      },
+      "imagenes": [
+        "https://placehold.co/600x400/1ABC9C/FFFFFF?text=Komatsu+WA380-6"
+      ],
+      "caracteristicas": [
+        "Motor Komatsu SAA6D107E-1",
+        "Convertidor de par de gran capacidad",
+        "Cabina SpaceCab"
+      ],
+      "disponible": false,
+      "fecha_publicacion": "2025-08-11"
+    },
+    {
+      "id": 25,
+      "nombre": "Cargador Frontal Komatsu WA200-6",
+      "categoria": "cargador-frontal",
+      "marca": "Komatsu",
+      "modelo": "WA200-6",
+      "año": null,
+      "precio": null,
+      "moneda": "USD",
+      "tipo": "venta",
+      "horas": null,
+      "estado": "usado",
+      "ubicacion": "Ubicación no especificada",
+      "descripcion": "Cargador frontal Komatsu WA200-6, un equipo versátil y eficiente, ideal para trabajos de construcción y municipales.",
+      "especificaciones": {
+        "peso": "11 toneladas",
+        "potencia": "126 HP",
+        "capacidad_balde": "1.9 m³ - 2.5 m³"
+      },
+      "imagenes": [
+        "https://placehold.co/600x400/1ABC9C/FFFFFF?text=Komatsu+WA200-6"
+      ],
+      "caracteristicas": [
+        "Motor Komatsu SAA4D107E-1",
+        "Transmisión hidrostática (HST)",
+        "Chasis articulado"
+      ],
+      "disponible": false,
+      "fecha_publicacion": "2025-08-11"
+    },
+    {
+      "id": 26,
+      "nombre": "Cargador Frontal Doosan DL300",
+      "categoria": "cargador-frontal",
+      "marca": "Doosan",
+      "modelo": "DL300",
+      "año": null,
+      "precio": null,
+      "moneda": "USD",
+      "tipo": "venta",
+      "horas": null,
+      "estado": "usado",
+      "ubicacion": "Ubicación no especificada",
+      "descripcion": "Cargador frontal Doosan DL300, conocido por su potencia y rendimiento en aplicaciones exigentes.",
+      "especificaciones": {
+        "peso": "17.4 toneladas",
+        "potencia": "217 HP",
+        "capacidad_balde": "3.0 m³"
+      },
+      "imagenes": [
+        "https://placehold.co/600x400/E67E22/FFFFFF?text=Doosan+DL300"
+      ],
+      "caracteristicas": [
+        "Motor Doosan DL08",
+        "Transmisión Powershift",
+        "Sistema de enfriamiento eficiente"
+      ],
+      "disponible": false,
+      "fecha_publicacion": "2025-08-11"
+    },
+    {
+      "id": 27,
+      "nombre": "Cargador Frontal Doosan MEGA-400-V",
+      "categoria": "cargador-frontal",
+      "marca": "Doosan",
+      "modelo": "MEGA-400-V",
+      "año": null,
+      "precio": null,
+      "moneda": "USD",
+      "tipo": "venta",
+      "horas": null,
+      "estado": "usado",
+      "ubicacion": "Ubicación no especificada",
+      "descripcion": "Cargador frontal Doosan MEGA-400-V, un modelo de gran capacidad para trabajos pesados.",
+      "especificaciones": {
+        "peso": "22.5 toneladas",
+        "potencia": "286 HP",
+        "capacidad_balde": "4.0 m³"
+      },
+      "imagenes": [
+        "https://placehold.co/600x400/E67E22/FFFFFF?text=Doosan+MEGA-400-V"
+      ],
+      "caracteristicas": [
+        "Motor Doosan DE12TIS",
+        "Cabina espaciosa",
+        "Sistema de control hidráulico"
+      ],
+      "disponible": false,
+      "fecha_publicacion": "2025-08-11"
+    },
+    {
+      "id": 28,
+      "nombre": "Cargador Frontal SDLG LG936L",
+      "categoria": "cargador-frontal",
+      "marca": "SDLG",
+      "modelo": "LG936L",
+      "año": null,
+      "precio": null,
+      "moneda": "USD",
+      "tipo": "venta",
+      "horas": null,
+      "estado": "usado",
+      "ubicacion": "Ubicación no especificada",
+      "descripcion": "Cargador frontal SDLG LG936L, una opción económica y fiable para una variedad de trabajos de carga.",
+      "especificaciones": {
+        "peso": "10.7 toneladas",
+        "potencia": "123 HP",
+        "capacidad_balde": "1.8 m³"
+      },
+      "imagenes": [
+        "https://placehold.co/600x400/BDC3C7/FFFFFF?text=SDLG+LG936L"
+      ],
+      "caracteristicas": [
+        "Motor Weichai Deutz",
+        "Transmisión de contraeje",
+        "Cabina con buena visibilidad"
+      ],
+      "disponible": false,
+      "fecha_publicacion": "2025-08-11"
+    },
+    {
+      "id": 29,
+      "nombre": "Cargador Frontal New Holland W190B",
+      "categoria": "cargador-frontal",
+      "marca": "New Holland",
+      "modelo": "W190B",
+      "año": null,
+      "precio": null,
+      "moneda": "USD",
+      "tipo": "venta",
+      "horas": null,
+      "estado": "usado",
+      "ubicacion": "Ubicación no especificada",
+      "descripcion": "Cargador frontal New Holland W190B. Ofrece una gran fuerza de desprendimiento y una cabina cómoda.",
+      "especificaciones": {
+        "peso": "17.7 toneladas",
+        "potencia": "227 HP",
+        "capacidad_balde": "3.1 m³"
+      },
+      "imagenes": [
+        "https://placehold.co/600x400/2980B9/FFFFFF?text=New+Holland+W190B"
+      ],
+      "caracteristicas": [
+        "Motor CNH F4HE9684C",
+        "4 modos de potencia",
+        "Ejes de servicio pesado"
+      ],
+      "disponible": false,
+      "fecha_publicacion": "2025-08-11"
+    },
+    {
+      "id": 30,
+      "nombre": "Cargador Frontal JCB 456",
+      "categoria": "cargador-frontal",
+      "marca": "JCB",
+      "modelo": "456",
+      "año": 2007,
+      "precio": null,
+      "moneda": "USD",
+      "tipo": "venta",
+      "horas": 6749.4,
+      "estado": "usado",
+      "ubicacion": "Ubicación no especificada",
+      "descripcion": "Cargador frontal JCB 456 del año 2007 con 6749.4 horas de uso.",
+      "especificaciones": {
+        "peso": "19.5 toneladas",
+        "potencia": "216 HP",
+        "capacidad_balde": "3.5 m³"
+      },
+      "imagenes": [
+        "https://placehold.co/600x400/F1C40F/FFFFFF?text=JCB+456"
+      ],
+      "caracteristicas": [
+        "Motor Cummins QSC8.3",
+        "Transmisión ZF",
+        "Varillaje en Z"
+      ],
+      "disponible": false,
+      "fecha_publicacion": "2025-08-11"
+    },
+    {
+      "id": 32,
+      "nombre": "Cargador Frontal SEM 659",
+      "categoria": "cargador-frontal",
+      "marca": "SEM",
+      "modelo": "659",
+      "año": null,
+      "precio": null,
+      "moneda": "USD",
+      "tipo": "venta",
+      "horas": null,
+      "estado": "usado",
+      "ubicacion": "Ubicación no especificada",
+      "descripcion": "Cargador frontal SEM 659, un producto de Caterpillar (Qingzhou) Ltd.",
+      "especificaciones": {
+        "peso": "16.8 toneladas",
+        "potencia": "217 HP",
+        "capacidad_balde": "3.0 m³"
+      },
+      "imagenes": [
+        "https://placehold.co/600x400/7F8C8D/FFFFFF?text=SEM+659"
+      ],
+      "caracteristicas": [
+        "Motor Weichai",
+        "Sistema de enfriamiento optimizado",
+        "Cabina ergonómica"
+      ],
+      "disponible": false,
+      "fecha_publicacion": "2025-08-11"
+    },
+    {
+      "id": 33,
+      "nombre": "Cargador Frontal John Deere 744K",
+      "categoria": "cargador-frontal",
+      "marca": "John Deere",
+      "modelo": "744K",
+      "año": null,
+      "precio": 75000,
+      "moneda": "USD",
+      "tipo": "venta",
+      "horas": null,
+      "estado": "usado",
+      "ubicacion": "Ubicación no especificada",
+      "descripcion": "Cargador frontal John Deere 744K. Un equipo robusto con un motor de alto rendimiento.",
+      "especificaciones": {
+        "peso": "25.7 toneladas",
+        "potencia": "304 HP",
+        "capacidad_balde": "4.2 m³ - 4.8 m³"
+      },
+      "imagenes": [
+        "https://placehold.co/600x400/2ECC71/FFFFFF?text=John+Deere+744K"
+      ],
+      "caracteristicas": [
+        "Motor John Deere PowerTech Plus",
+        "Transmisión Powershift",
+        "Sistema de diagnóstico a bordo"
+      ],
+      "disponible": false,
+      "fecha_publicacion": "2025-08-11"
+    },
+    {
+    "id": 34,
+    "nombre": "Excavadora Kobelco SK350LC",
+    "categoria": "excavadora",
+    "marca": "Kobelco",
+    "modelo": "SK350LC",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Excavadora Kobelco SK350LC, reconocida por su eficiencia de combustible y su sistema hidráulico de alto rendimiento.",
+    "especificaciones": {
+      "peso": "36.2 toneladas",
+      "potencia": "264 HP",
+      "capacidad_balde": "1.6 m³ - 2.1 m³",
+      "profundidad_excavacion": "7.56 m"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/27AE60/FFFFFF?text=Kobelco+SK350LC"
+    ],
+    "caracteristicas": [
+      "Motor Hino J08E-TM",
+      "Sistema hidráulico con regeneración de flujo",
+      "Modo de trabajo seleccionable (H, S, ECO)"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 35,
+    "nombre": "Excavadora Doosan SOLAR 340 OLC-V",
+    "categoria": "excavadora",
+    "marca": "Doosan",
+    "modelo": "SOLAR 340 OLC-V",
+    "año": null,
+    "precio": 60000,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Excavadora Doosan Solar 340LC-V. Un equipo robusto y potente, diseñado para trabajos pesados de excavación.",
+    "especificaciones": {
+      "peso": "33.9 toneladas",
+      "potencia": "247 HP",
+      "capacidad_balde": "1.5 m³ - 1.8 m³",
+      "profundidad_excavacion": "7.5 m"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/E67E22/FFFFFF?text=Doosan+SOLAR+340LC-V"
+    ],
+    "caracteristicas": [
+      "Motor Doosan DB58TIS",
+      "Sistema e-EPOS (Electronic Power Optimizing System)",
+      "Chasis de orugas reforzado"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 36,
+    "nombre": "Excavadora Doosan DX300LC",
+    "categoria": "excavadora",
+    "marca": "Doosan",
+    "modelo": "DX300LC",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Excavadora Doosan DX300LC. Combina productividad, eficiencia de combustible y un alto nivel de confort para el operador.",
+    "especificaciones": {
+      "peso": "29.5 toneladas",
+      "potencia": "200 HP",
+      "capacidad_balde": "1.27 m³ - 1.5 m³",
+      "profundidad_excavacion": "7.3 m"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/E67E22/FFFFFF?text=Doosan+DX300LC"
+    ],
+    "caracteristicas": [
+      "Motor Doosan DL08",
+      "Sistema hidráulico optimizado",
+      "Cabina espaciosa y ergonómica"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 38,
+    "nombre": "Excavadora Doosan DX340LCA",
+    "categoria": "excavadora",
+    "marca": "Doosan",
+    "modelo": "DX340LCA",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Excavadora Doosan DX340LCA, versión de orugas largas para mayor estabilidad. Ideal para construcción pesada.",
+    "especificaciones": {
+      "peso": "34.1 toneladas",
+      "potencia": "247 HP",
+      "capacidad_balde": "1.5 m³ - 1.84 m³",
+      "profundidad_excavacion": "7.53 m"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/E67E22/FFFFFF?text=Doosan+DX340LCA"
+    ],
+    "caracteristicas": [
+      "Motor Doosan DE12TIS",
+      "Tren de rodaje largo y ancho",
+      "Función de sobrepotencia (Power Boost)"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 39,
+    "nombre": "Excavadora Komatsu PC350LC-8",
+    "categoria": "excavadora",
+    "marca": "Komatsu",
+    "modelo": "PC350LC-8",
+    "año": null,
+    "precio": 75000,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": 14026.8,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Excavadora Komatsu PC350LC-8. Combina alta productividad con bajo consumo gracias a su motor ecot3.",
+    "especificaciones": {
+      "peso": "35 toneladas",
+      "potencia": "246 HP",
+      "capacidad_balde": "1.4 m³ - 2.0 m³",
+      "profundidad_excavacion": "7.38 m"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/1ABC9C/FFFFFF?text=Komatsu+PC350LC-8"
+    ],
+    "caracteristicas": [
+      "Motor Komatsu SAA6D114E-3",
+      "Sistema de monitoreo KOMTRAX",
+      "5 modos de trabajo"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 40,
+    "nombre": "Excavadora Komatsu PC220LC-7",
+    "categoria": "excavadora",
+    "marca": "Komatsu",
+    "modelo": "PC220LC-7",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Excavadora Komatsu PC220LC-7. Un equipo versátil de la popular clase de 22 toneladas, conocido por su fiabilidad.",
+    "especificaciones": {
+      "peso": "23.4 toneladas",
+      "potencia": "168 HP",
+      "capacidad_balde": "0.8 m³ - 1.2 m³",
+      "profundidad_excavacion": "6.62 m"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/1ABC9C/FFFFFF?text=Komatsu+PC220LC-7"
+    ],
+    "caracteristicas": [
+      "Motor Komatsu SAA6D102E-2",
+      "Sistema HydrauMind",
+      "Modo de trabajo seleccionable"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 41,
+    "nombre": "Excavadora Komatsu PC600LC-8",
+    "categoria": "excavadora",
+    "marca": "Komatsu",
+    "modelo": "PC600LC-8",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Excavadora de gran tamaño Komatsu PC600LC-8. Diseñada para minería y grandes proyectos de movimiento de tierra.",
+    "especificaciones": {
+      "peso": "58.7 toneladas",
+      "potencia": "429 HP",
+      "capacidad_balde": "2.6 m³ - 3.5 m³",
+      "profundidad_excavacion": "8.39 m"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/1ABC9C/FFFFFF?text=Komatsu+PC600LC-8"
+    ],
+    "caracteristicas": [
+      "Motor Komatsu SAA6D140E-5",
+      "Dos modos de trabajo para el aguilón",
+      "KOMTRAX Plus para gestión de flota"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 42,
+    "nombre": "Excavadora Komatsu PC450LC-8",
+    "categoria": "excavadora",
+    "marca": "Komatsu",
+    "modelo": "PC450LC-8",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Excavadora Komatsu PC450LC-8. Ofrece una gran fuerza de excavación y elevación, ideal para trabajos de construcción pesada.",
+    "especificaciones": {
+      "peso": "45.1 toneladas",
+      "potencia": "345 HP",
+      "capacidad_balde": "1.9 m³ - 2.7 m³",
+      "profundidad_excavacion": "7.79 m"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/1ABC9C/FFFFFF?text=Komatsu+PC450LC-8"
+    ],
+    "caracteristicas": [
+      "Motor Komatsu SAA6D125E-5",
+      "Sistema hidráulico de centro cerrado con sensor de carga (CLSS)",
+      "Tren de rodaje de alta resistencia"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 43,
+    "nombre": "Excavadora Komatsu PC450LC",
+    "categoria": "excavadora",
+    "marca": "Komatsu",
+    "modelo": "PC450LC",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Excavadora Komatsu PC450LC. Un modelo robusto y fiable para aplicaciones de excavación a gran escala.",
+    "especificaciones": {
+      "peso": "43.5 toneladas",
+      "potencia": "320 HP",
+      "capacidad_balde": "1.8 m³ - 2.5 m³",
+      "profundidad_excavacion": "7.7 m"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/1ABC9C/FFFFFF?text=Komatsu+PC450LC"
+    ],
+    "caracteristicas": [
+      "Motor Komatsu SA6D125E",
+      "Alta fuerza de excavación",
+      "Estructura duradera"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 44,
+    "nombre": "Excavadora Komatsu PC300LC-7E0",
+    "categoria": "excavadora",
+    "marca": "Komatsu",
+    "modelo": "PC300LC-7E0",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Excavadora Komatsu PC300LC-7. Potencia y estabilidad para una alta productividad en diversas aplicaciones.",
+    "especificaciones": {
+      "peso": "31.2 toneladas",
+      "potencia": "242 HP",
+      "capacidad_balde": "1.2 m³ - 1.8 m³",
+      "profundidad_excavacion": "7.38 m"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/1ABC9C/FFFFFF?text=Komatsu+PC300LC-7"
+    ],
+    "caracteristicas": [
+      "Motor Komatsu SAA6D114E-2",
+      "Modo Activo para excavación potente",
+      "Sistema de Monitoreo EMMS"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 46,
+    "nombre": "Excavadora Daewoo DH450",
+    "categoria": "excavadora",
+    "marca": "Daewoo",
+    "modelo": "DH450",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Excavadora Daewoo DH450. Un modelo antiguo pero de gran capacidad, predecesor de los modelos Doosan.",
+    "especificaciones": {
+      "peso": "43.5 toneladas",
+      "potencia": "286 HP",
+      "capacidad_balde": "1.8 m³ - 2.5 m³",
+      "profundidad_excavacion": "7.7 m"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/95A5A6/FFFFFF?text=Daewoo+DH450"
+    ],
+    "caracteristicas": [
+      "Motor Daewoo DE12TIS",
+      "Sistema de control de potencia",
+      "Diseño robusto para larga vida útil"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 47,
+    "nombre": "Excavadora Caterpillar 336E",
+    "categoria": "excavadora",
+    "marca": "Caterpillar",
+    "modelo": "336E",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Excavadora Caterpillar 336E. Ofrece una mayor eficiencia de combustible y un rendimiento potente gracias a su motor ACERT.",
+    "especificaciones": {
+      "peso": "37.5 toneladas",
+      "potencia": "300 HP",
+      "capacidad_balde": "1.7 m³ - 2.3 m³",
+      "profundidad_excavacion": "8.19 m"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+336E"
+    ],
+    "caracteristicas": [
+      "Motor Cat C9.3 ACERT",
+      "Válvula de control principal (MCV) electrohidráulica",
+      "Sistema Product Link/VisionLink"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 48,
+    "nombre": "Excavadora Caterpillar 320D",
+    "categoria": "excavadora",
+    "marca": "Caterpillar",
+    "modelo": "320D",
+    "año": 2014,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": 5728.4,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Excavadora Caterpillar 320D del año 2014 con 5728.4 horas. Equipo versátil y potente para una variedad de aplicaciones.",
+    "especificaciones": {
+      "peso": "21.5 toneladas",
+      "potencia": "148 HP",
+      "capacidad_balde": "1.0 m³ - 1.2 m³",
+      "profundidad_excavacion": "6.71 m"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+320D"
+    ],
+    "caracteristicas": [
+      "Motor Cat C6.4 ACERT",
+      "Sistema hidráulico de alta presión",
+      "Modos de potencia seleccionables"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 49,
+    "nombre": "Excavadora Caterpillar 336D",
+    "categoria": "excavadora",
+    "marca": "Caterpillar",
+    "modelo": "336D",
+    "año": 2014,
+    "precio": 100000,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Excavadora Caterpillar 336D del año 2014. Alto rendimiento y durabilidad, ideal para proyectos de construcción a gran escala.",
+    "especificaciones": {
+      "peso": "36.4 toneladas",
+      "potencia": "268 HP",
+      "capacidad_balde": "1.7 m³ - 2.1 m³",
+      "profundidad_excavacion": "8.1 m"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+336D"
+    ],
+    "caracteristicas": [
+      "Motor Cat C9 con tecnología ACERT",
+      "Sistema hidráulico de alta eficiencia",
+      "Tren de rodaje de servicio pesado"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 50,
+    "nombre": "Excavadora Caterpillar 330C",
+    "categoria": "excavadora",
+    "marca": "Caterpillar",
+    "modelo": "330C",
+    "año": 2004,
+    "precio": 50000,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Excavadora Caterpillar 330C del año 2004. Un equipo de trabajo pesado conocido por su durabilidad y potencia de excavación.",
+    "especificaciones": {
+      "peso": "33.4 toneladas",
+      "potencia": "247 HP",
+      "capacidad_balde": "1.5 m³ - 2.0 m³",
+      "profundidad_excavacion": "8.09 m"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+330C"
+    ],
+    "caracteristicas": [
+      "Motor Cat C9",
+      "Sistema de control electrónico avanzado",
+      "Estructura reforzada"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 52,
+    "nombre": "Excavadora Caterpillar 336D 2L",
+    "categoria": "excavadora",
+    "marca": "Caterpillar",
+    "modelo": "336D 2L",
+    "año": 2014,
+    "precio": 100000,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Excavadora Caterpillar 336D2L del año 2014. Modelo actualizado que ofrece mayor eficiencia y fiabilidad.",
+    "especificaciones": {
+      "peso": "38.1 toneladas",
+      "potencia": "271 HP",
+      "capacidad_balde": "1.88 m³",
+      "profundidad_excavacion": "7.52 m"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+336D2L"
+    ],
+    "caracteristicas": [
+      "Motor Cat C9 ACERT",
+      "Sistema de combustible de alta eficiencia",
+      "Tren de rodaje largo (L)"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 54,
+    "nombre": "Excavadora Caterpillar 365C",
+    "categoria": "excavadora",
+    "marca": "Caterpillar",
+    "modelo": "365C",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Excavadora de gran tamaño Caterpillar 365C. Diseñada para producción masiva en minería y grandes proyectos de construcción.",
+    "especificaciones": {
+      "peso": "68.5 toneladas",
+      "potencia": "404 HP",
+      "capacidad_balde": "3.0 m³ - 4.6 m³",
+      "profundidad_excavacion": "8.95 m"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+365C"
+    ],
+    "caracteristicas": [
+      "Motor Cat C15 ACERT",
+      "Sistema hidráulico de alta presión",
+      "Tren de rodaje de servicio pesado"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 55,
+    "nombre": "Manipulador de Materiales Caterpillar M322DMH",
+    "categoria": "excavadora",
+    "marca": "Caterpillar",
+    "modelo": "M322DMH",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Manipulador de materiales sobre ruedas Caterpillar M322DMH. Equipo especializado para la manipulación de chatarra y materiales.",
+    "especificaciones": {
+      "peso": "24.5 toneladas",
+      "potencia": "165 HP",
+      "alcance_maximo": "10.1 m",
+      "tipo_implemento": "Garra o imán"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+M322DMH"
+    ],
+    "caracteristicas": [
+      "Motor Cat C6.6 ACERT",
+      "Pluma y brazo para manipulación de materiales",
+      "Cabina elevable hidráulicamente"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 56,
+    "nombre": "Excavadora Caterpillar 345D",
+    "categoria": "excavadora",
+    "marca": "Caterpillar",
+    "modelo": "345D",
+    "año": 2008,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Excavadora Caterpillar 345D del año 2008. Ofrece una potencia excepcional, ciclos rápidos y gran capacidad de elevación.",
+    "especificaciones": {
+      "peso": "48.2 toneladas",
+      "potencia": "380 HP",
+      "capacidad_balde": "2.1 m³ - 3.0 m³",
+      "profundidad_excavacion": "8.0 m"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+345D"
+    ],
+    "caracteristicas": [
+      "Motor Cat C13 ACERT",
+      "Estructuras reforzadas para alta durabilidad",
+      "Cabina espaciosa"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 59,
+    "nombre": "Excavadora Caterpillar (Modelo no especificado)",
+    "categoria": "excavadora",
+    "marca": "Caterpillar",
+    "modelo": "Serie AGS00371",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Excavadora Caterpillar, modelo no identificado a partir de la serie.",
+    "especificaciones": {},
+    "imagenes": [
+      "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar"
+    ],
+    "caracteristicas": [],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 60,
+    "nombre": "Excavadora John Deere 350G",
+    "categoria": "excavadora",
+    "marca": "John Deere",
+    "modelo": "350G",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Excavadora John Deere 350G LC. Diseñada para ofrecer una productividad excepcional y un tiempo de actividad máximo.",
+    "especificaciones": {
+      "peso": "38.6 toneladas",
+      "potencia": "271 HP",
+      "capacidad_balde": "1.3 m³ - 2.5 m³",
+      "profundidad_excavacion": "8.12 m"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/2ECC71/FFFFFF?text=John+Deere+350G"
+    ],
+    "caracteristicas": [
+      "Motor John Deere PowerTech PSS 9.0L",
+      "Sistema hidráulico Powerwise III",
+      "Tres modos de productividad"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 61,
+    "nombre": "Excavadora Liebherr Litronic",
+    "categoria": "excavadora",
+    "marca": "Liebherr",
+    "modelo": "Litronic",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Excavadora Liebherr con sistema Litronic. 'Litronic' es el sistema de control electrónico de Liebherr, no un modelo específico.",
+    "especificaciones": {},
+    "imagenes": [
+      "https://placehold.co/600x400/34495E/FFFFFF?text=Liebherr+Litronic"
+    ],
+    "caracteristicas": [
+      "Sistema de gestión de motor y sistema hidráulico integrado",
+      "Optimización de potencia y consumo"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 62,
+    "nombre": "Excavadora Liebherr RS44B",
+    "categoria": "excavadora",
+    "marca": "Liebherr",
+    "modelo": "RS44B",
+    "año": 2004,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Excavadora Liebherr R944B del año 2004 (identificada como RS44B en la lista).",
+    "especificaciones": {
+      "peso": "41 toneladas",
+      "potencia": "254 HP",
+      "capacidad_balde": "1.5 m³ - 2.5 m³",
+      "profundidad_excavacion": "7.95 m"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/34495E/FFFFFF?text=Liebherr+R944B"
+    ],
+    "caracteristicas": [
+      "Motor Liebherr D926 TI-E",
+      "Sistema hidráulico Positive Control",
+      "Cabina ergonómica"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 63,
+    "nombre": "Excavadora Liebherr R944B",
+    "categoria": "excavadora",
+    "marca": "Liebherr",
+    "modelo": "R944B",
+    "año": 2004,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Excavadora Liebherr R944B del año 2004. Un equipo potente y duradero para aplicaciones pesadas.",
+    "especificaciones": {
+      "peso": "41 toneladas",
+      "potencia": "254 HP",
+      "capacidad_balde": "1.5 m³ - 2.5 m³",
+      "profundidad_excavacion": "7.95 m"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/34495E/FFFFFF?text=Liebherr+R944B"
+    ],
+    "caracteristicas": [
+      "Motor Liebherr D926 TI-E",
+      "Sistema hidráulico Positive Control",
+      "Cabina ergonómica"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 68,
+    "nombre": "Excavadora Hyundai ROBEX 500LC-7A",
+    "categoria": "excavadora",
+    "marca": "Hyundai",
+    "modelo": "ROBEX 500LC-7A",
+    "año": 2004,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Excavadora Hyundai Robex 500LC-7A del año 2004. Equipo de gran tonelaje para movimiento de tierra masivo.",
+    "especificaciones": {
+      "peso": "49.5 toneladas",
+      "potencia": "340 HP",
+      "capacidad_balde": "2.1 m³ - 3.1 m³",
+      "profundidad_excavacion": "7.8 m"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/2980B9/FFFFFF?text=Hyundai+500LC-7A"
+    ],
+    "caracteristicas": [
+      "Motor Cummins QSX15",
+      "Sistema CAPO (Computer Aided Power Optimization)",
+      "Sistema de autodiagnóstico"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 69,
+    "nombre": "Excavadora JCB JS330",
+    "categoria": "excavadora",
+    "marca": "JCB",
+    "modelo": "JS330",
+    "año": 2007,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Excavadora JCB JS330 del año 2007. Una máquina de 33 toneladas que ofrece una excelente fuerza de excavación y durabilidad.",
+    "especificaciones": {
+      "peso": "33.5 toneladas",
+      "potencia": "221 HP",
+      "capacidad_balde": "1.4 m³ - 1.8 m³",
+      "profundidad_excavacion": "7.36 m"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/F1C40F/FFFFFF?text=JCB+JS330"
+    ],
+    "caracteristicas": [
+      "Motor Isuzu 6HK1X",
+      "Sistema de gestión avanzada AMS",
+      "Filtración hidráulica Plexus"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 70,
+    "nombre": "Excavadora Volvo EC210CL",
+    "categoria": "excavadora",
+    "marca": "Volvo",
+    "modelo": "EC210CL",
+    "año": 2006,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Excavadora Volvo EC210CL del año 2006. Un modelo muy popular en la clase de 21 toneladas, conocido por su equilibrio entre potencia y eficiencia.",
+    "especificaciones": {
+      "peso": "22.5 toneladas",
+      "potencia": "157 HP",
+      "capacidad_balde": "0.9 m³ - 1.2 m³",
+      "profundidad_excavacion": "6.73 m"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/3498DB/FFFFFF?text=Volvo+EC210CL"
+    ],
+    "caracteristicas": [
+      "Motor Volvo D6E",
+      "Modos de trabajo para optimizar rendimiento",
+      "Cabina Volvo Care Cab"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 71,
+    "nombre": "Camioneta Nissan Frontier",
+    "categoria": "camioneta",
+    "marca": "Nissan",
+    "modelo": "Frontier",
+    "año": 2022,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "seminuevo",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Camioneta pick-up Nissan Frontier, modelo del año 2022. Conocida por su durabilidad y capacidad de trabajo.",
+    "especificaciones": {
+      "motor": "2.5L",
+      "potencia": "188 HP",
+      "transmision": "Automática/Manual",
+      "traccion": "4x2 o 4x4",
+      "carroceria": "Doble Cabina"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/2C3E50/FFFFFF?text=Nissan+Frontier"
+    ],
+    "caracteristicas": [
+      "Chasis reforzado",
+      "Suspensión multilink",
+      "Asistente de ascenso en pendientes",
+      "Capacidad de carga de ~1 tonelada"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 72,
+    "nombre": "Camioneta Nissan Navara",
+    "categoria": "camioneta",
+    "marca": "Nissan",
+    "modelo": "Navara",
+    "año": 2015,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Camioneta pick-up Nissan Navara del año 2015. Un vehículo robusto y versátil tanto para trabajo como para uso personal.",
+    "especificaciones": {
+      "motor": "2.5L YD25",
+      "potencia": "161 HP",
+      "transmision": "Manual",
+      "traccion": "4x4",
+      "carroceria": "Doble Cabina"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/2C3E50/FFFFFF?text=Nissan+Navara"
+    ],
+    "caracteristicas": [
+      "Frenos ABS con EBD",
+      "Doble airbag",
+      "Aire acondicionado",
+      "Lunas eléctricas"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 80,
+    "nombre": "Camioneta Nissan Frontier 4x4 D/C",
+    "categoria": "camioneta",
+    "marca": "Nissan",
+    "modelo": "Frontier 4x4 D/C",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Camioneta Nissan Frontier con tracción 4x4 y doble cabina. Ideal para terrenos difíciles.",
+    "especificaciones": {
+      "motor": "2.4L KA24DE",
+      "potencia": "143 HP",
+      "transmision": "Manual",
+      "traccion": "4x4",
+      "carroceria": "Doble Cabina"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/2C3E50/FFFFFF?text=Nissan+Frontier+4x4"
+    ],
+    "caracteristicas": [
+      "Tracción en las cuatro ruedas",
+      "Chasis de alta resistencia",
+      "Dirección hidráulica"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 82,
+    "nombre": "SUV Nissan Patrol",
+    "categoria": "camioneta",
+    "marca": "Nissan",
+    "modelo": "Patrol",
+    "año": 2017,
+    "precio": 25000,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "SUV de lujo Nissan Patrol del año 2017. Ofrece máximo confort, espacio y capacidad todoterreno.",
+    "especificaciones": {
+      "motor": "5.6L V8",
+      "potencia": "399 HP",
+      "transmision": "Automática",
+      "traccion": "4x4",
+      "carroceria": "SUV"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/2C3E50/FFFFFF?text=Nissan+Patrol"
+    ],
+    "caracteristicas": [
+      "Tres filas de asientos",
+      "Tapicería de cuero",
+      "Sistema de navegación",
+      "Monitores de entretenimiento traseros"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 83,
+    "nombre": "SUV Nissan Pathfinder",
+    "categoria": "camioneta",
+    "marca": "Nissan",
+    "modelo": "Pathfinder",
+    "año": 2012,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "SUV Nissan Pathfinder del año 2012. Un vehículo familiar espacioso y fiable.",
+    "especificaciones": {
+      "motor": "3.5L V6",
+      "potencia": "260 HP",
+      "transmision": "Automática (CVT)",
+      "traccion": "4x2 o 4x4",
+      "carroceria": "SUV"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/2C3E50/FFFFFF?text=Nissan+Pathfinder"
+    ],
+    "caracteristicas": [
+      "Tres filas de asientos",
+      "Climatizador tri-zona",
+      "Sunroof panorámico"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 84,
+    "nombre": "Camioneta ZNA Rich",
+    "categoria": "camioneta",
+    "marca": "ZNA - Zhengzhou Nissan",
+    "modelo": "Rich",
+    "año": 2011,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Camioneta pick-up ZNA Rich del año 2011, fabricada por Zhengzhou Nissan.",
+    "especificaciones": {
+      "motor": "2.4L Gasolina / 2.5L Diesel",
+      "potencia": "~137 HP",
+      "transmision": "Manual",
+      "traccion": "4x2 o 4x4",
+      "carroceria": "Doble Cabina"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/7F8C8D/FFFFFF?text=ZNA+Rich"
+    ],
+    "caracteristicas": [
+      "Basada en la plataforma de la Nissan D22",
+      "Opción económica y de trabajo"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 85,
+    "nombre": "Auto Nissan (Modelo no identificado)",
+    "categoria": "auto",
+    "marca": "Nissan",
+    "modelo": "BBWALHFU13",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Auto Nissan, modelo no identificado a partir de los datos. Podría ser un Nissan Bluebird U13.",
+    "especificaciones": {},
+    "imagenes": [
+      "https://placehold.co/600x400/2C3E50/FFFFFF?text=Nissan+Sedan"
+    ],
+    "caracteristicas": [],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 86,
+    "nombre": "Camioneta Mitsubishi L200",
+    "categoria": "camioneta",
+    "marca": "Mitsubishi",
+    "modelo": "L200",
+    "año": 2017,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Chiclayo",
+    "descripcion": "Camioneta pick-up Mitsubishi L200, año 2017. Conocida por su robustez y motor diésel de alto torque.",
+    "especificaciones": {
+      "motor": "2.4L MIVEC Diesel",
+      "potencia": "178 HP",
+      "transmision": "Manual o Automática",
+      "traccion": "4x4",
+      "carroceria": "Doble Cabina"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/E74C3C/FFFFFF?text=Mitsubishi+L200"
+    ],
+    "caracteristicas": [
+      "Sistema Super Select 4WD-II",
+      "Bloqueo de diferencial trasero",
+      "Control de estabilidad y tracción (ASTC)"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 89,
+    "nombre": "Auto Mercedes Benz C 180",
+    "categoria": "auto",
+    "marca": "Mercedes Benz",
+    "modelo": "C 180",
+    "año": 2015,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Auto sedán de lujo Mercedes Benz C 180 (W205) del año 2015. Combina elegancia, confort y tecnología.",
+    "especificaciones": {
+      "motor": "1.6L Turbo",
+      "potencia": "154 HP",
+      "transmision": "Automática 7G-TRONIC",
+      "traccion": "Trasera",
+      "carroceria": "Sedán"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/34495E/FFFFFF?text=Mercedes+C+180"
+    ],
+    "caracteristicas": [
+      "Interior de lujo con acabados de alta calidad",
+      "Sistema de infoentretenimiento con pantalla central",
+      "Dynamic Select (modos de conducción)"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 90,
+    "nombre": "Auto Ford Crown Victoria",
+    "categoria": "auto",
+    "marca": "Ford",
+    "modelo": "Crown Victoria",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Auto sedán Ford Crown Victoria. Famoso por su durabilidad y uso extendido como vehículo policial y taxi en EEUU.",
+    "especificaciones": {
+      "motor": "4.6L V8",
+      "potencia": "~224 HP",
+      "transmision": "Automática",
+      "traccion": "Trasera",
+      "carroceria": "Sedán"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/2980B9/FFFFFF?text=Ford+Crown+Victoria"
+    ],
+    "caracteristicas": [
+      "Construcción de chasis sobre bastidor (Body-on-frame)",
+      "Interior espacioso",
+      "Extremadamente robusto"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 91,
+    "nombre": "Auto Volvo S90",
+    "categoria": "auto",
+    "marca": "Volvo",
+    "modelo": "S90",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Auto sedán de lujo Volvo S90. Destaca por su diseño escandinavo, alto nivel de seguridad y tecnología.",
+    "especificaciones": {
+      "motor": "2.0L Turbo/Supercargado",
+      "potencia": "Desde 250 HP",
+      "transmision": "Automática",
+      "traccion": "Delantera o AWD",
+      "carroceria": "Sedán"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/3498DB/FFFFFF?text=Volvo+S90"
+    ],
+    "caracteristicas": [
+      "Sistema de seguridad City Safety",
+      "Pilot Assist (conducción semi-autónoma)",
+      "Pantalla táctil vertical Sensus Connect"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 92,
+    "nombre": "Auto Chevrolet Sail",
+    "categoria": "auto",
+    "marca": "Chevrolet",
+    "modelo": "Sail",
+    "año": 2013,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Villa el Salvador",
+    "descripcion": "Vendido. Auto sedán Chevrolet Sail del año 2013. Venta registrada en Villa el Salvador el 16 de Abril de 2025.",
+    "especificaciones": {
+      "motor": "1.4L",
+      "potencia": "102 HP",
+      "transmision": "Manual",
+      "traccion": "Delantera",
+      "carroceria": "Sedán"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/E74C3C/FFFFFF?text=Chevrolet+Sail"
+    ],
+    "caracteristicas": [
+      "Vehículo económico y de bajo consumo",
+      "Amplio espacio interior para su segmento",
+      "Mantenimiento accesible"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 92,
+    "nombre": "SUV Mahindra Scorpio",
+    "categoria": "camioneta",
+    "marca": "Mahindra",
+    "modelo": "Scorpio",
+    "año": 2010,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "SUV Mahindra Scorpio del año 2010. Un vehículo todoterreno robusto de origen indio.",
+    "especificaciones": {
+      "motor": "2.2L mHawk Diesel",
+      "potencia": "120 HP",
+      "transmision": "Manual",
+      "traccion": "4x2 o 4x4",
+      "carroceria": "SUV"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/9B59B6/FFFFFF?text=Mahindra+Scorpio"
+    ],
+    "caracteristicas": [
+      "Tres filas de asientos",
+      "Chasis de escalera",
+      "Alta capacidad para terrenos difíciles"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+    {
+    "id": 93,
+    "nombre": "Motoniveladora Longong CDM122",
+    "categoria": "motoniveladora",
+    "marca": "Longong",
+    "modelo": "CDM122",
+    "año": 2011,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Motoniveladora Longong (Lonking) CDM122 del año 2011. Un equipo robusto para trabajos de nivelación.",
+    "especificaciones": {
+      "peso": "16.5 toneladas",
+      "potencia": "220 HP",
+      "longitud_hoja": "4.27 m",
+      "motor": "Cummins 6CTA8.3"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/7F8C8D/FFFFFF?text=Longong+CDM122"
+    ],
+    "caracteristicas": [
+      "Transmisión Powershift",
+      "Cabina con certificación ROPS/FOPS",
+      "Sistema hidráulico eficiente"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 94,
+    "nombre": "Motoniveladora Caterpillar 140M",
+    "categoria": "motoniveladora",
+    "marca": "Caterpillar",
+    "modelo": "140M",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Motoniveladora Caterpillar 140M. Equipada con joysticks para un control preciso y una mayor comodidad del operador.",
+    "especificaciones": {
+      "peso": "18.5 toneladas",
+      "potencia": "190 HP - 210 HP (VHP)",
+      "longitud_hoja": "3.7 m",
+      "motor": "Cat C7 ACERT"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+140M"
+    ],
+    "caracteristicas": [
+      "Control por joystick electrohidráulico",
+      "Potencia Variable (VHP)",
+      "Sistema de círculo de giro duradero"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 95,
+    "nombre": "Motoniveladora Caterpillar 14M",
+    "categoria": "motoniveladora",
+    "marca": "Caterpillar",
+    "modelo": "14M",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Motoniveladora de gran tamaño Caterpillar 14M, diseñada para la construcción y el mantenimiento de caminos mineros y de acarreo.",
+    "especificaciones": {
+      "peso": "25.8 toneladas",
+      "potencia": "259 HP - 289 HP (VHP)",
+      "longitud_hoja": "4.9 m",
+      "motor": "Cat C11 ACERT"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+14M"
+    ],
+    "caracteristicas": [
+      "Diseñada para minería",
+      "Sistema de control de nivelación Cat Grade Control",
+      "Estructura robusta"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 96,
+    "nombre": "Motoniveladora Caterpillar 16H",
+    "categoria": "motoniveladora",
+    "marca": "Caterpillar",
+    "modelo": "16H",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Motoniveladora Caterpillar 16H. Un estándar en la industria minera por su durabilidad y capacidad para mover grandes volúmenes de material.",
+    "especificaciones": {
+      "peso": "27.6 toneladas",
+      "potencia": "275 HP",
+      "longitud_hoja": "4.88 m",
+      "motor": "Cat 3406C"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+16H"
+    ],
+    "caracteristicas": [
+      "Control de la hoja mecánico sobre hidráulico",
+      "Construcción robusta para aplicaciones severas",
+      "Transmisión Powershift de mando directo"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 96,
+    "nombre": "Motoniveladora Caterpillar 140K",
+    "categoria": "motoniveladora",
+    "marca": "Caterpillar",
+    "modelo": "140K",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": 14420.5,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Motoniveladora Caterpillar 140K con 14420.5 horas de uso. Un modelo fiable y eficiente que combina controles de palanca con tecnología moderna.",
+    "especificaciones": {
+      "peso": "17.5 toneladas",
+      "potencia": "170 HP - 190 HP (VHP)",
+      "longitud_hoja": "3.66 m",
+      "motor": "Cat C7 ACERT"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+140K"
+    ],
+    "caracteristicas": [
+      "Controles de palanca tradicionales",
+      "Sistema hidráulico con detección de carga",
+      "Potencia Variable (VHP)"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 97,
+    "nombre": "Motoniveladora Volvo G720",
+    "categoria": "motoniveladora",
+    "marca": "Volvo",
+    "modelo": "G720",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Motoniveladora Volvo G720. Conocida por su transmisión de alta resistencia y círculo de giro de alta torsión.",
+    "especificaciones": {
+      "peso": "16 toneladas",
+      "potencia": "155 HP - 195 HP (VHP)",
+      "longitud_hoja": "3.66 m",
+      "motor": "Volvo D7"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/3498DB/FFFFFF?text=Volvo+G720"
+    ],
+    "caracteristicas": [
+      "Transmisión Volvo HTE840",
+      "Cabina ergonómica",
+      "Opciones de control de la hoja"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 98,
+    "nombre": "Motoniveladora Komatsu 6GB41",
+    "categoria": "motoniveladora",
+    "marca": "Komatsu",
+    "modelo": "6GB41",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Motoniveladora Komatsu, modelo no determinado a partir de la serie '6GB41'. Posiblemente un modelo de la serie GD.",
+    "especificaciones": {
+      "peso": "~15 toneladas",
+      "potencia": "~180 HP",
+      "longitud_hoja": "3.7 m"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/1ABC9C/FFFFFF?text=Komatsu+Grader"
+    ],
+    "caracteristicas": [
+      "Motor Komatsu",
+      "Transmisión hidrodinámica",
+      "Bastidor articulado"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 101,
+    "nombre": "Rodillo Tándem Hamm HD 110",
+    "categoria": "rodillo-tandem",
+    "marca": "Hamm",
+    "modelo": "HD 110",
+    "año": 2017,
+    "precio": 80000,
+    "moneda": "USD",
+    "tipo": "alquiler",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Trujillo",
+    "descripcion": "Equipo en alquiler. Rodillo tándem (doble rola) Hamm HD 110 del año 2017. Ubicado en Trujillo.",
+    "especificaciones": {
+      "peso": "10.4 toneladas",
+      "ancho_tambor": "1.85 m",
+      "fuerza_centrifuga": "79 kN / 58 kN",
+      "tipo_vibracion": "Doble vibración"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/E74C3C/FFFFFF?text=Hamm+HD+110"
+    ],
+    "caracteristicas": [
+      "Articulación de 3 puntos",
+      "Sistema de riego presurizado",
+      "Puesto del operador ergonómico y desplazable"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 102,
+    "nombre": "Rodillo Tándem Hamm HD+ 120 VO",
+    "categoria": "rodillo-tandem",
+    "marca": "Hamm",
+    "modelo": "HD+ 120 VO",
+    "año": 2012,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Rodillo tándem Hamm HD+ 120 VO. Combina vibración en un tambor y oscilación en el otro para una compactación óptima.",
+    "especificaciones": {
+      "peso": "12.5 toneladas",
+      "ancho_tambor": "2.14 m",
+      "tipo_vibracion": "Vibración y Oscilación (VO)"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/E74C3C/FFFFFF?text=Hamm+HD+120+VO"
+    ],
+    "caracteristicas": [
+      "Bastidor articulado con dirección de cangrejo",
+      "Tecnología de Oscilación Hamm",
+      "Visibilidad excepcional del área de trabajo"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 103,
+    "nombre": "Rodillo Tándem Hamm HD 110V",
+    "categoria": "rodillo-tandem",
+    "marca": "Hamm",
+    "modelo": "HD 110V",
+    "año": 2003,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": 6135.9,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Rodillo tándem Hamm HD 110V del año 2003 con 6135.9 horas. Modelo robusto y fiable.",
+    "especificaciones": {
+      "peso": "10.4 toneladas",
+      "ancho_tambor": "1.85 m",
+      "tipo_vibracion": "Doble vibración"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/E74C3C/FFFFFF?text=Hamm+HD+110V"
+    ],
+    "caracteristicas": [
+      "Articulación de 3 puntos",
+      "Motor Deutz",
+      "Fácil mantenimiento"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 104,
+    "nombre": "Rodillo Tándem Caterpillar (Modelo no especificado)",
+    "categoria": "rodillo-tandem",
+    "marca": "Caterpillar",
+    "modelo": "No especificado",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Rodillo tándem marca Caterpillar, modelo no especificado. Sin placa.",
+    "especificaciones": {},
+    "imagenes": [
+      "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+Roller"
+    ],
+    "caracteristicas": [],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 105,
+    "nombre": "Rodillo Tándem Bomag BW27SAD",
+    "categoria": "rodillo-tandem",
+    "marca": "Bomag",
+    "modelo": "BW27SAD",
+    "año": 2014,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Rodillo tándem pesado Bomag BW27SAD del año 2014. Diseñado para grandes proyectos de construcción de carreteras.",
+    "especificaciones": {
+      "peso": "27 toneladas",
+      "ancho_tambor": "2.13 m",
+      "tipo_vibracion": "Vibración"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/9B59B6/FFFFFF?text=Bomag+BW27SAD"
+    ],
+    "caracteristicas": [
+      "Alta fuerza de compactación",
+      "Sistema de control de compactación (opcional)",
+      "Diseño robusto"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 105,
+    "nombre": "Rodillo Neumático Bomag BW 24 RH",
+    "categoria": "rodillo-neumatico",
+    "marca": "Bomag",
+    "modelo": "BW 24 RH",
+    "año": 2012,
+    "precio": 85000,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": 56238,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Rodillo neumático Bomag BW 24 RH del año 2012 con un alto horómetro. Ideal para el sellado de superficies de asfalto.",
+    "especificaciones": {
+      "peso": "8.6 a 24 toneladas (con lastre)",
+      "ancho_compactacion": "2.05 m",
+      "numero_ruedas": "8"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/9B59B6/FFFFFF?text=Bomag+BW+24+RH"
+    ],
+    "caracteristicas": [
+      "Sistema de lastre flexible",
+      "Rociado de agua para los neumáticos",
+      "Dirección hidrostática"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 106,
+    "nombre": "Rodillo Tándem Bitelli DTV 100",
+    "categoria": "rodillo-tandem",
+    "marca": "Bitelli",
+    "modelo": "DTV 100",
+    "año": 2000,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Rodillo tándem Bitelli DTV 100 del año 2000. Bitelli es una marca ahora parte del grupo Caterpillar.",
+    "especificaciones": {
+      "peso": "10 toneladas",
+      "ancho_tambor": "1.7 m",
+      "tipo_vibracion": "Doble vibración"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/34495E/FFFFFF?text=Bitelli+DTV+100"
+    ],
+    "caracteristicas": [
+      "Diseño italiano",
+      "Robusto y simple de operar"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 107,
+    "nombre": "Rodillo Tándem Bitelli DTV 75",
+    "categoria": "rodillo-tandem",
+    "marca": "Bitelli",
+    "modelo": "DTV 75",
+    "año": 1995,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Rodillo tándem Bitelli DTV 75 del año 1995.",
+    "especificaciones": {
+      "peso": "7.5 toneladas",
+      "ancho_tambor": "1.5 m",
+      "tipo_vibracion": "Doble vibración"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/34495E/FFFFFF?text=Bitelli+DTV+75"
+    ],
+    "caracteristicas": [
+      "Compacto y maniobrable",
+      "Mecánica sencilla"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 108,
+    "nombre": "Pavimentadora de Asfalto Caterpillar PF-300B",
+    "categoria": "rodillo-neumatico",
+    "marca": "Caterpillar",
+    "modelo": "PF-300B",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Pavimentadora de asfalto sobre neumáticos Caterpillar PF-300B. Es un equipo para pavimentar, no un rodillo.",
+    "especificaciones": {
+      "peso": "7.2 toneladas",
+      "ancho_pavimentacion": "Hasta 4.6 m",
+      "tipo_tren_rodaje": "Neumáticos"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+PF-300B"
+    ],
+    "caracteristicas": [
+      "Regla vibratoria",
+      "Controles duales",
+      "Diseño compacto"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 109,
+    "nombre": "Rodillo Neumático Caterpillar PS200B",
+    "categoria": "rodillo-neumatico",
+    "marca": "Caterpillar",
+    "modelo": "PS200B",
+    "año": null,
+    "precio": 28000,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Rodillo neumático Caterpillar PS200B. Ofrece una excelente compactación en una variedad de materiales.",
+    "especificaciones": {
+      "peso": "8.5 a 21 toneladas (con lastre)",
+      "ancho_compactacion": "2.08 m",
+      "numero_ruedas": "8"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+PS200B"
+    ],
+    "caracteristicas": [
+      "Sistema de lastre modular",
+      "Motor Cat 3054C",
+      "Excelente visibilidad"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 109,
+    "nombre": "Rodillo Neumático Caterpillar CW34",
+    "categoria": "rodillo-neumatico",
+    "marca": "Caterpillar",
+    "modelo": "CW34",
+    "año": null,
+    "precio": 85000,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": 1779.3,
+    "estado": "seminuevo",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Rodillo neumático Caterpillar CW34 con 1779.3 horas. Equipo moderno para un acabado de alta calidad en asfalto. Precio incluye IGV.",
+    "especificaciones": {
+      "peso": "10 a 27 toneladas (con lastre)",
+      "ancho_compactacion": "2.12 m",
+      "numero_ruedas": "8"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+CW34"
+    ],
+    "caracteristicas": [
+      "Motor Cat C4.4 ACERT",
+      "Control de temperatura de los neumáticos",
+      "Puesto del operador giratorio"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 109,
+    "nombre": "Rodillo Neumático Hamm (Modelo no especificado)",
+    "categoria": "rodillo-neumatico",
+    "marca": "Hamm",
+    "modelo": "No especificado",
+    "año": 2013,
+    "precio": 85000,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Rodillo neumático Hamm del año 2013. Precio incluye IGV.",
+    "especificaciones": {
+      "peso": "~8 a 24 toneladas",
+      "ancho_compactacion": "~2.0 m",
+      "numero_ruedas": "8"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/E74C3C/FFFFFF?text=Hamm+Pneumatic"
+    ],
+    "caracteristicas": [
+      "Sistema de lastre flexible",
+      "Excelente visibilidad",
+      "Diseño asimétrico del bastidor"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 110,
+    "nombre": "Rodillo Neumático Dynapac CP 142",
+    "categoria": "rodillo-neumatico",
+    "marca": "Dynapac",
+    "modelo": "CP 142",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Rodillo neumático Dynapac CP 142. Diseñado para la compactación de capas de asfalto y materiales granulares.",
+    "especificaciones": {
+      "peso": "5.6 a 14 toneladas (con lastre)",
+      "ancho_compactacion": "1.8 m",
+      "numero_ruedas": "7 (3 delanteras, 4 traseras)"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/E67E22/FFFFFF?text=Dynapac+CP+142"
+    ],
+    "caracteristicas": [
+      "Lastre fácilmente ajustable",
+      "Diseño compacto",
+      "Sistema de rociado de agua"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 111,
+    "nombre": "Rodillo Compactador Case SV212",
+    "categoria": "rodillo-compactador",
+    "marca": "Case",
+    "modelo": "SV212",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Rodillo compactador vibratorio de tambor liso Case SV212. Diseñado para la compactación eficiente de suelos granulares y mixtos.",
+    "especificaciones": {
+      "peso": "12 toneladas",
+      "ancho_tambor": "2.13 m",
+      "fuerza_centrifuga": "249 kN",
+      "motor": "FPT"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/D35400/FFFFFF?text=Case+SV212"
+    ],
+    "caracteristicas": [
+      "Alta frecuencia de vibración",
+      "Cabina ROPS/FOPS",
+      "Buena maniobrabilidad"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 112,
+    "nombre": "Rodillo Compactador Bomag BW 213 D-40",
+    "categoria": "rodillo-compactador",
+    "marca": "Bomag",
+    "modelo": "BW 213 D-40",
+    "año": 2010,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Rodillo compactador Bomag BW 213 D-40 del año 2010. Un equipo potente para la compactación de terraplenes y capas base.",
+    "especificaciones": {
+      "peso": "12.6 toneladas",
+      "ancho_tambor": "2.13 m",
+      "fuerza_centrifuga": "256 kN",
+      "motor": "Deutz"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/9B59B6/FFFFFF?text=Bomag+BW+213+D-40"
+    ],
+    "caracteristicas": [
+      "Sistema de control de tracción",
+      "Variocontrol (opcional)",
+      "Bajo centro de gravedad para mayor estabilidad"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 113,
+    "nombre": "Rodillo Compactador Bomag BW 213 D-3",
+    "categoria": "rodillo-compactador",
+    "marca": "Bomag",
+    "modelo": "BW 213 D-3",
+    "año": 2004,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Rodillo compactador Bomag BW 213 D-3 del año 2004. Generación anterior, conocida por su robustez.",
+    "especificaciones": {
+      "peso": "12.3 toneladas",
+      "ancho_tambor": "2.13 m",
+      "fuerza_centrifuga": "230 kN",
+      "motor": "Deutz"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/9B59B6/FFFFFF?text=Bomag+BW+213+D-3"
+    ],
+    "caracteristicas": [
+      "Diseño duradero",
+      "Mantenimiento sencillo",
+      "Buena capacidad de trepada"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 115,
+    "nombre": "Rodillo Compactador Bomag BW 213 D",
+    "categoria": "rodillo-compactador",
+    "marca": "Bomag",
+    "modelo": "BW 213 D",
+    "año": 1988,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Rodillo compactador Bomag BW 213 D del año 1988. Un modelo clásico y muy resistente.",
+    "especificaciones": {
+      "peso": "11.5 toneladas",
+      "ancho_tambor": "2.1 m",
+      "fuerza_centrifuga": "210 kN",
+      "motor": "Deutz"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/9B59B6/FFFFFF?text=Bomag+BW+213+D"
+    ],
+    "caracteristicas": [
+      "Construcción extremadamente robusta",
+      "Mecánica simple",
+      "Larga vida útil"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 117,
+    "nombre": "Rodillo Compactador Bomag BW 213 D-2",
+    "categoria": "rodillo-compactador",
+    "marca": "Bomag",
+    "modelo": "BW 213 D-2",
+    "año": 1993,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Rodillo compactador Bomag BW 213 D-2 del año 1993. Un equipo fiable para una amplia gama de aplicaciones de compactación.",
+    "especificaciones": {
+      "peso": "12 toneladas",
+      "ancho_tambor": "2.13 m",
+      "fuerza_centrifuga": "225 kN",
+      "motor": "Deutz"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/9B59B6/FFFFFF?text=Bomag+BW+213+D-2"
+    ],
+    "caracteristicas": [
+      "Sistema de doble amplitud",
+      "Plataforma del operador con buena visibilidad",
+      "Alta fiabilidad"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 118,
+    "nombre": "Rodillo Compactador Bomag BW 219 DH-4",
+    "categoria": "rodillo-compactador",
+    "marca": "Bomag",
+    "modelo": "BW 219 DH-4",
+    "año": 2014,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Rodillo compactador pesado Bomag BW 219 DH-4 del año 2014. Diseñado para los proyectos de movimiento de tierra más grandes y exigentes.",
+    "especificaciones": {
+      "peso": "19 toneladas",
+      "ancho_tambor": "2.13 m",
+      "fuerza_centrifuga": "345 kN",
+      "motor": "Deutz"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/9B59B6/FFFFFF?text=Bomag+BW+219+DH-4"
+    ],
+    "caracteristicas": [
+      "Tambor liso (D) y alta capacidad de trepada (H)",
+      "Ideal para capas gruesas y suelos cohesivos",
+      "Sistemas de medición de compactación disponibles"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 120,
+    "nombre": "Rodillo Compactador Hamm 3520",
+    "categoria": "rodillo-compactador",
+    "marca": "Hamm",
+    "modelo": "3520",
+    "año": 2012,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Rodillo compactador Hamm 3520 del año 2012. Un equipo de alta gama con excelente rendimiento de compactación.",
+    "especificaciones": {
+      "peso": "20 toneladas",
+      "ancho_tambor": "2.22 m",
+      "fuerza_centrifuga": "358 kN",
+      "motor": "Deutz"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/E74C3C/FFFFFF?text=Hamm+3520"
+    ],
+    "caracteristicas": [
+      "Articulación de 3 puntos para una maniobrabilidad superior",
+      "Sistema de gestión de la máquina Hammtronic",
+      "Cabina espaciosa y confortable"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 121,
+    "nombre": "Rodillo Compactador Dynapac CA 152",
+    "categoria": "rodillo-compactador",
+    "marca": "Dynapac",
+    "modelo": "CA 152",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Rodillo compactador vibratorio Dynapac CA 152. Un equipo más pequeño, ideal para trabajos de zanjas, estacionamientos y reparaciones.",
+    "especificaciones": {
+      "peso": "7 toneladas",
+      "ancho_tambor": "1.68 m",
+      "fuerza_centrifuga": "129 kN",
+      "motor": "Cummins"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/E67E22/FFFFFF?text=Dynapac+CA+152"
+    ],
+    "caracteristicas": [
+      "Compacto y ágil",
+      "Doble amplitud y frecuencia",
+      "Fácil de transportar"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 122,
+    "nombre": "Rodillo Compactador Dynapac CA 251 D",
+    "categoria": "rodillo-compactador",
+    "marca": "Dynapac",
+    "modelo": "CA 251 D",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Rodillo compactador de tambor liso Dynapac CA 251 D. Un equipo estándar en la industria para la compactación de suelos y agregados.",
+    "especificaciones": {
+      "peso": "11 toneladas",
+      "ancho_tambor": "2.13 m",
+      "fuerza_centrifuga": "245 kN",
+      "motor": "Cummins"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/E67E22/FFFFFF?text=Dynapac+CA+251+D"
+    ],
+    "caracteristicas": [
+      "Concepto de vibración eficiente",
+      "Buena tracción",
+      "Costos de operación bajos"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 123,
+    "nombre": "Rodillo Tándem Dynapac CC422",
+    "categoria": "rodillo-compactador",
+    "marca": "Dynapac",
+    "modelo": "CC422",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Rodillo tándem vibratorio Dynapac CC422, diseñado para la compactación de asfalto.",
+    "especificaciones": {
+      "peso": "10.2 toneladas",
+      "ancho_tambor": "1.73 m",
+      "fuerza_centrifuga": "78 kN",
+      "motor": "Cummins"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/E67E22/FFFFFF?text=Dynapac+CC422"
+    ],
+    "caracteristicas": [
+      "Doble tambor vibratorio",
+      "Sistema de riego de agua de alta capacidad",
+      "Puesto de operador ergonómico"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 124,
+    "nombre": "Rodillo Compactador Dynapac CA51P",
+    "categoria": "rodillo-compactador",
+    "marca": "Dynapac",
+    "modelo": "CA51P",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Rodillo compactador vibratorio Dynapac CA51P con tambor de pata de cabra (padfoot), especializado para suelos cohesivos.",
+    "especificaciones": {
+      "peso": "18 toneladas",
+      "ancho_tambor": "2.13 m",
+      "fuerza_centrifuga": "330 kN",
+      "tipo_tambor": "Pata de cabra (Padfoot)"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/E67E22/FFFFFF?text=Dynapac+CA51P"
+    ],
+    "caracteristicas": [
+      "Diseño de pata de cabra para alta compactación en arcillas",
+      "Alta fuerza de impacto",
+      "Potente motor"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 125,
+    "nombre": "Rodillo Compactador Caterpillar CS56",
+    "categoria": "rodillo-compactador",
+    "marca": "Caterpillar",
+    "modelo": "CS56",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Rodillo compactador vibratorio Caterpillar CS56. Un equipo versátil y productivo para una variedad de aplicaciones de compactación de suelos.",
+    "especificaciones": {
+      "peso": "11.5 toneladas",
+      "ancho_tambor": "2.13 m",
+      "fuerza_centrifuga": "234 kN",
+      "motor": "Cat C6.6 ACERT"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+CS56"
+    ],
+    "caracteristicas": [
+      "Sistema de control de compactación AccuGrade (opcional)",
+      "Sistema de vibración de doble amplitud y frecuencia",
+      "Cabina confortable con excelente visibilidad"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 126,
+    "nombre": "Rodillo Compactador Caterpillar CP-573E",
+    "categoria": "rodillo-compactador",
+    "marca": "Caterpillar",
+    "modelo": "CP-573E",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Rodillo compactador Caterpillar CP-573E con tambor pata de cabra (padfoot), para la compactación de suelos cohesivos y semi-cohesivos.",
+    "especificaciones": {
+      "peso": "15.7 toneladas",
+      "ancho_tambor": "2.13 m",
+      "fuerza_centrifuga": "267 kN",
+      "tipo_tambor": "Pata de cabra (Padfoot)"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+CP-573E"
+    ],
+    "caracteristicas": [
+      "Diseño de pisones para una penetración profunda",
+      "Motor Cat 3056E",
+      "Sistema de propulsión de doble bomba"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 127,
+    "nombre": "Rodillo Compactador Caterpillar CS-683E",
+    "categoria": "rodillo-compactador",
+    "marca": "Caterpillar",
+    "modelo": "CS-683E",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Rodillo compactador vibratorio pesado Caterpillar CS-683E con tambor liso.",
+    "especificaciones": {
+      "peso": "17.4 toneladas",
+      "ancho_tambor": "2.13 m",
+      "fuerza_centrifuga": "334 kN",
+      "motor": "Cat 3116T"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+CS-683E"
+    ],
+    "caracteristicas": [
+      "Alta fuerza de compactación para capas gruesas",
+      "Construcción robusta",
+      "Sistema de propulsión hidrostático"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 128,
+    "nombre": "Rodillo Compactador Caterpillar CS78B",
+    "categoria": "rodillo-compactador",
+    "marca": "Caterpillar",
+    "modelo": "CS78B",
+    "año": 2015,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": 8444,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Rodillo compactador Caterpillar CS78B del año 2015 con 8444 horas. Un equipo moderno con tecnologías de compactación avanzadas.",
+    "especificaciones": {
+      "peso": "18.3 toneladas",
+      "ancho_tambor": "2.13 m",
+      "fuerza_centrifuga": "332 kN",
+      "motor": "Cat C6.6 ACERT"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+CS78B"
+    ],
+    "caracteristicas": [
+      "Tecnología de Compactación Inteligente (opcional)",
+      "Mapeo de pasadas y medición de compactación",
+      "Cabina confortable y silenciosa"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 129,
+    "nombre": "Volquete Mercedes Benz Actros 4144 K",
+    "categoria": "volquete",
+    "marca": "Mercedes Benz",
+    "modelo": "Actros 4144 K",
+    "año": 2015,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Volquete Mercedes Benz Actros 4144 K del año 2015. Configuración 8x4 para alta capacidad de carga en faenas exigentes.",
+    "especificaciones": {
+      "peso": "41 toneladas (PBV)",
+      "potencia": "435 HP",
+      "capacidad_carga": "25 - 30 toneladas",
+      "capacidad_tolva": "20 m³",
+      "traccion": "8x4",
+      "motor": "Mercedes-Benz OM 501 LA V6"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/34495E/FFFFFF?text=Mercedes+Actros+4144K"
+    ],
+    "caracteristicas": [
+      "Caja de cambios Telligent",
+      "Frenos de disco con ABS",
+      "Chasis reforzado para construcción (K)"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 130,
+    "nombre": "Volquete Mercedes Benz Actros 3335-K",
+    "categoria": "volquete",
+    "marca": "Mercedes Benz",
+    "modelo": "Actros 3335-K",
+    "año": 2009,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Volquete Mercedes Benz Actros 3335-K del año 2009. Configuración 6x4.",
+    "especificaciones": {
+      "peso": "33 toneladas (PBV)",
+      "potencia": "354 HP",
+      "capacidad_carga": "18 - 22 toneladas",
+      "capacidad_tolva": "15 m³",
+      "traccion": "6x4",
+      "motor": "Mercedes-Benz OM 501 LA V6"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/34495E/FFFFFF?text=Mercedes+Actros+3335K"
+    ],
+    "caracteristicas": [
+      "Configuración para construcción (K)",
+      "Transmisión manual",
+      "Suspensión de muelles reforzada"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 131,
+    "nombre": "Volquete Volvo FMX 8x4 R",
+    "categoria": "volquete",
+    "marca": "Volvo",
+    "modelo": "FMX 8x4 R",
+    "año": 2017,
+    "precio": 120000,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Volquete Volvo FMX 8x4 R del año 2017. Diseñado específicamente para los trabajos más duros en construcción y minería.",
+    "especificaciones": {
+      "peso": "32 toneladas (PBV)",
+      "potencia": "460 - 500 HP",
+      "capacidad_carga": "25 - 30 toneladas",
+      "capacidad_tolva": "20 m³",
+      "traccion": "8x4",
+      "motor": "Volvo D13"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/3498DB/FFFFFF?text=Volvo+FMX+8x4"
+    ],
+    "caracteristicas": [
+      "Caja de cambios I-Shift para construcción",
+      "Control de Tracción Automático",
+      "Cabina FMX reforzada de alta resistencia"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 136,
+    "nombre": "Volquete Volvo FMX 6x4 R",
+    "categoria": "volquete",
+    "marca": "Volvo",
+    "modelo": "FMX 6x4 R",
+    "año": 2014,
+    "precio": 90000,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Juliaca",
+    "descripcion": "Vendido. Volquete Volvo FMX 6x4 R del año 2014. Venta registrada en Juliaca.",
+    "especificaciones": {
+      "peso": "26 toneladas (PBV)",
+      "potencia": "420 - 460 HP",
+      "capacidad_carga": "15 - 18 toneladas",
+      "capacidad_tolva": "14 m³",
+      "traccion": "6x4",
+      "motor": "Volvo D13"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/3498DB/FFFFFF?text=Volvo+FMX+6x4"
+    ],
+    "caracteristicas": [
+      "Caja de cambios I-Shift",
+      "Chasis robusto",
+      "Ideal para aplicaciones severas"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 137,
+    "nombre": "Volquete Scania P460 B8x4",
+    "categoria": "volquete",
+    "marca": "Scania",
+    "modelo": "P460 B8x4",
+    "año": 2015,
+    "precio": 80000,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Volquete Scania P460 B8x4 del año 2015. Un camión robusto con la potencia y fiabilidad de Scania.",
+    "especificaciones": {
+      "peso": "32 toneladas (PBV)",
+      "potencia": "460 HP",
+      "capacidad_carga": "25 - 28 toneladas",
+      "capacidad_tolva": "20 m³",
+      "traccion": "8x4",
+      "motor": "Scania DC13"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/2980B9/FFFFFF?text=Scania+P460"
+    ],
+    "caracteristicas": [
+      "Cabina Serie P, robusta y funcional",
+      "Caja de cambios Scania Opticruise",
+      "Freno auxiliar Retarder"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 138,
+    "nombre": "Volquete Iveco Trakker 380 T 38",
+    "categoria": "volquete",
+    "marca": "Iveco",
+    "modelo": "Trakker 380 T 38",
+    "año": 2008,
+    "precio": 42000,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Volquete Iveco Trakker 380T del año 2008. Diseñado para misiones off-road en condiciones extremas.",
+    "especificaciones": {
+      "peso": "38 toneladas (PBV)",
+      "potencia": "380 HP",
+      "capacidad_carga": "~20 toneladas",
+      "capacidad_tolva": "15 m³",
+      "traccion": "6x4",
+      "motor": "Iveco Cursor 13"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/E74C3C/FFFFFF?text=Iveco+Trakker"
+    ],
+    "caracteristicas": [
+      "Chasis de acero de alta resistencia",
+      "Bloqueo de diferenciales",
+      "Cabina diseñada para off-road"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 143,
+    "nombre": "Camión Iveco Eurocargo 170E22",
+    "categoria": "volquete",
+    "marca": "Iveco",
+    "modelo": "Eurocargo 170E22",
+    "año": 2008,
+    "precio": 36000,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Camión (posiblemente con tolva) Iveco Eurocargo 170E22 del año 2008. Un camión mediano y versátil.",
+    "especificaciones": {
+      "peso": "17 toneladas (PBV)",
+      "potencia": "217 HP",
+      "capacidad_carga": "~10 toneladas",
+      "traccion": "4x2",
+      "motor": "Iveco Tector"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/E74C3C/FFFFFF?text=Iveco+Eurocargo"
+    ],
+    "caracteristicas": [
+      "Cabina abatible",
+      "Ideal para distribución y construcción ligera",
+      "Chasis versátil"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 145,
+    "nombre": "Volquete Sinotruk ZZ3257N3647N1",
+    "categoria": "volquete",
+    "marca": "Sinotruk",
+    "modelo": "ZZ3257N3647N1 (HOWO)",
+    "año": 2014,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Volquete Sinotruk HOWO del año 2014. Una opción popular por su relación costo-beneficio.",
+    "especificaciones": {
+      "peso": "25 toneladas (PBV)",
+      "potencia": "336 HP - 371 HP",
+      "capacidad_carga": "15-18 toneladas",
+      "capacidad_tolva": "15 m³",
+      "traccion": "6x4",
+      "motor": "Sinotruk WD615"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/C0392B/FFFFFF?text=Sinotruk+HOWO"
+    ],
+    "caracteristicas": [
+      "Cabina HW76",
+      "Caja de cambios Fuller o Sinotruk",
+      "Ejes reforzados"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 148,
+    "nombre": "Tractocamión Kenworth T800",
+    "categoria": "volquete",
+    "marca": "Kenworth",
+    "modelo": "T800",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Tractocamión Kenworth T800. Un ícono de la industria por su durabilidad, potencia y versatilidad. Puede ser configurado como volquete.",
+    "especificaciones": {
+      "potencia": "Hasta 600 HP",
+      "traccion": "6x4 (típica)",
+      "motor": "Cummins o Paccar"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/9B59B6/FFFFFF?text=Kenworth+T800"
+    ],
+    "caracteristicas": [
+      "Capó aerodinámico inclinado",
+      "Cabina de aluminio de alta resistencia",
+      "Múltiples configuraciones de ejes y suspensión"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 149,
+    "nombre": "Volquete Dongfeng DFL3251A",
+    "categoria": "volquete",
+    "marca": "Dongfeng",
+    "modelo": "DFL3251A",
+    "año": 2010,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Volquete Dongfeng DFL3251A del año 2010. Un camión de trabajo pesado para el sector de la construcción.",
+    "especificaciones": {
+      "peso": "25 toneladas (PBV)",
+      "potencia": "~340 HP",
+      "capacidad_carga": "~15 toneladas",
+      "traccion": "6x4",
+      "motor": "Cummins"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/27AE60/FFFFFF?text=Dongfeng+Volquete"
+    ],
+    "caracteristicas": [
+      "Cabina con diseño ergonómico",
+      "Chasis robusto",
+      "Buena relación precio/calidad"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 150,
+    "nombre": "Volquete Chenglong EQ3259GE3",
+    "categoria": "volquete",
+    "marca": "Chenglong",
+    "modelo": "EQ3259GE3",
+    "año": 2011,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Volquete Chenglong EQ3259GE3 del año 2011. Chenglong es una marca de Dongfeng Liuzhou Motor.",
+    "especificaciones": {
+      "peso": "25 toneladas (PBV)",
+      "potencia": "~375 HP",
+      "capacidad_carga": "~15 toneladas",
+      "traccion": "6x4",
+      "motor": "Yuchai o Cummins"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/2ECC71/FFFFFF?text=Chenglong+Volquete"
+    ],
+    "caracteristicas": [
+      "Diseño de cabina 'Dragon'",
+      "Estructura de alta resistencia"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 151,
+    "nombre": "Volquete Mack GU813E",
+    "categoria": "volquete",
+    "marca": "Mack",
+    "modelo": "GU813E",
+    "año": 2011,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Volquete Mack GU813E (Granite) del año 2011. Un camión de uso severo, sinónimo de fuerza y durabilidad.",
+    "especificaciones": {
+      "potencia": "Hasta 505 HP",
+      "traccion": "6x4 o 8x4",
+      "motor": "Mack MP8"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/E74C3C/FFFFFF?text=Mack+Granite"
+    ],
+    "caracteristicas": [
+      "Chasis Cornerstone de alta resistencia",
+      "Suspensión neumática o de muelles Mack",
+      "Capó de fibra de vidrio inclinado"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 154,
+    "nombre": "Camión Jinbei SY3090BR1T",
+    "categoria": "volquete",
+    "marca": "Jinbei",
+    "modelo": "SY3090BR1T",
+    "año": 2009,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Camión ligero o mediano Jinbei SY3090BR1T del año 2009. Puede ser configurado con tolva.",
+    "especificaciones": {
+      "peso": "~9 toneladas (PBV)",
+      "capacidad_carga": "~5 toneladas"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/F1C40F/FFFFFF?text=Jinbei+Camion"
+    ],
+    "caracteristicas": [
+      "Camión de cabina sobre motor (cab-over)",
+      "Ideal para reparto y construcción ligera"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 155,
+    "nombre": "Volquete Hongyan CQ3254HTG364",
+    "categoria": "volquete",
+    "marca": "Hongyan",
+    "modelo": "CQ3254HTG364",
+    "año": 2019,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Volquete Hongyan Genlyon del año 2019. Fabricado con tecnología Iveco.",
+    "especificaciones": {
+      "peso": "25 toneladas (PBV)",
+      "potencia": "~380 HP",
+      "capacidad_tolva": "15 m³",
+      "traccion": "6x4",
+      "motor": "SFH (Iveco Cursor)"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/9B59B6/FFFFFF?text=Hongyan+Genlyon"
+    ],
+    "caracteristicas": [
+      "Cabina basada en el Iveco Stralis",
+      "Ejes reforzados",
+      "Tecnología europea"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 156,
+    "nombre": "Volquete FAW CA3256P2K2T1EA81",
+    "categoria": "volquete",
+    "marca": "FAW",
+    "modelo": "CA3256P2K2T1EA81",
+    "año": 2013,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": 2039971,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Volquete FAW del año 2013. Un camión de fabricación china para el segmento de construcción.",
+    "especificaciones": {
+      "peso": "25 toneladas (PBV)",
+      "potencia": "~350 HP",
+      "capacidad_tolva": "15 m³",
+      "traccion": "6x4"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/16A085/FFFFFF?text=FAW+Volquete"
+    ],
+    "caracteristicas": [
+      "Motor FAW o Weichai",
+      "Transmisión Fast Gear",
+      "Buena relación costo-beneficio"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 155,
+    "nombre": "Camión Mixer Mercedes Benz 2726 B / 36",
+    "categoria": "camion-mixer",
+    "marca": "Mercedes Benz",
+    "modelo": "2726 B / 36",
+    "año": 2010,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Camión mixer Mercedes Benz 2726 B / 36 del año 2010. Chasis robusto para el transporte de concreto.",
+    "especificaciones": {
+      "peso": "27 toneladas (PBV)",
+      "potencia": "256 HP",
+      "capacidad_trompo": "8 m³",
+      "traccion": "6x4",
+      "motor": "Mercedes-Benz OM 906 LA"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/34495E/FFFFFF?text=Mercedes+Mixer+2726B"
+    ],
+    "caracteristicas": [
+      "Toma de fuerza para accionamiento del trompo",
+      "Suspensión reforzada",
+      "Chasis de la familia Atego/Axor"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 156,
+    "nombre": "Camión Mixer Mercedes Benz Actros 4143-K",
+    "categoria": "camion-mixer",
+    "marca": "Mercedes Benz",
+    "modelo": "Actros 4143-K",
+    "año": 2007,
+    "precio": 50000,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Sullana",
+    "descripcion": "Vendido. Camión mixer Mercedes Benz Actros 4143-K del año 2007. Venta registrada en Sullana.",
+    "especificaciones": {
+      "peso": "41 toneladas (PBV)",
+      "potencia": "428 HP",
+      "capacidad_trompo": "10 m³ - 12 m³",
+      "traccion": "8x4",
+      "motor": "Mercedes-Benz OM 501 LA V6"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/34495E/FFFFFF?text=Mercedes+Mixer+4143K"
+    ],
+    "caracteristicas": [
+      "Configuración de chasis para construcción (K)",
+      "Alta capacidad de carga",
+      "Caja de cambios Telligent"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 157,
+    "nombre": "Camión Mixer Mercedes Benz Axor 2633B",
+    "categoria": "camion-mixer",
+    "marca": "Mercedes Benz",
+    "modelo": "Axor 2633B",
+    "año": 2011,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Camión mixer Mercedes Benz Axor 2633B del año 2011. Un camión de construcción fiable y potente.",
+    "especificaciones": {
+      "peso": "26 toneladas (PBV)",
+      "potencia": "326 HP",
+      "capacidad_trompo": "8 m³",
+      "traccion": "6x4",
+      "motor": "Mercedes-Benz OM 926 LA"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/34495E/FFFFFF?text=Mercedes+Axor+2633B"
+    ],
+    "caracteristicas": [
+      "Transmisión manual sincronizada",
+      "Frenos de tambor con ABS",
+      "Cabina confortable"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 160,
+    "nombre": "Camión Mixer Mack MD 690S",
+    "categoria": "camion-mixer",
+    "marca": "Mack",
+    "modelo": "MD 690S",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Camión mixer Mack MD 690S. Un modelo clásico de Mack, conocido por su extrema dureza y fiabilidad.",
+    "especificaciones": {
+      "peso": "26-30 toneladas (PBV)",
+      "potencia": "~300 HP",
+      "capacidad_trompo": "8 m³",
+      "traccion": "6x4",
+      "motor": "Mack"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/E74C3C/FFFFFF?text=Mack+MD+690S"
+    ],
+    "caracteristicas": [
+      "Chasis de alta resistencia",
+      "Construcción legendaria de Mack",
+      "Conocido como 'Super-Liner' en algunas configuraciones"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 161,
+    "nombre": "Camión Mixer D'avino R 40",
+    "categoria": "camion-mixer",
+    "marca": "D'avino",
+    "modelo": "R 40",
+    "año": 2012,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Autohormigonera (Self-loading mixer) D'avino R 40 del año 2012. Equipo especializado para la producción de concreto in-situ.",
+    "especificaciones": {
+      "capacidad_trompo": "4 m³",
+      "capacidad_pala": "600 litros",
+      "traccion": "4x4",
+      "motor": "Perkins"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/7F8C8D/FFFFFF?text=Davino+R+40"
+    ],
+    "caracteristicas": [
+      "Autocargable",
+      "Dirección en las 4 ruedas",
+      "Ideal para obras con acceso limitado"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 162,
+    "nombre": "Camión Cisterna de Agua Volvo NL12 (6x4)",
+    "categoria": "camion-cisterna",
+    "marca": "Volvo",
+    "modelo": "NL12 (6x4)",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Camión cisterna de agua sobre chasis Volvo NL12 con tracción 6x4. Equipado con toma de fuerza (PTO).",
+    "especificaciones": {
+      "capacidad_tanque": "~5000 Galones",
+      "potencia": "~400 HP",
+      "traccion": "6x4",
+      "motor": "Volvo TD122"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/3498DB/FFFFFF?text=Volvo+Cisterna+NL12"
+    ],
+    "caracteristicas": [
+      "Bomba de agua accionada por PTO",
+      "Barra de riego delantera y/o trasera",
+      "Chasis robusto"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 164,
+    "nombre": "Camión Cisterna de Agua Mercedes Benz 1720",
+    "categoria": "camion-cisterna",
+    "marca": "Mercedes Benz",
+    "modelo": "1720",
+    "año": 2002,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Camión cisterna de agua sobre chasis Mercedes Benz 1720 del año 2002.",
+    "especificaciones": {
+      "capacidad_tanque": "~3000 - 4000 Galones",
+      "potencia": "211 HP",
+      "traccion": "4x2",
+      "motor": "Mercedes-Benz OM 366 LA"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/34495E/FFFFFF?text=Mercedes+Cisterna+1720"
+    ],
+    "caracteristicas": [
+      "Chasis versátil y fiable",
+      "Ideal para riego de vías y abastecimiento"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 165,
+    "nombre": "Camión Cisterna de Agua FAW CA3300",
+    "categoria": "camion-cisterna",
+    "marca": "FAW",
+    "modelo": "CA3300",
+    "año": 2015,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": 77363.2,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Camión cisterna de agua FAW CA3300 del año 2015 con 77363.2 km.",
+    "especificaciones": {
+      "capacidad_tanque": "~5000 Galones",
+      "potencia": "~350 HP",
+      "traccion": "8x4"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/16A085/FFFFFF?text=FAW+Cisterna"
+    ],
+    "caracteristicas": [
+      "Configuración de alta capacidad",
+      "Motor FAW o Weichai"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 165,
+    "nombre": "Camión Cisterna de Combustible Scania P310",
+    "categoria": "camion-cisterna",
+    "marca": "Scania",
+    "modelo": "P310 B4X2",
+    "año": 2015,
+    "precio": 55000,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ate",
+    "descripcion": "Vendido. Camión cisterna de combustible Scania P310 del año 2015. Venta registrada en Ate.",
+    "especificaciones": {
+      "capacidad_tanque": "~4000 Galones",
+      "potencia": "310 HP",
+      "traccion": "4x2",
+      "motor": "Scania DC09"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/2980B9/FFFFFF?text=Scania+Cisterna+P310"
+    ],
+    "caracteristicas": [
+      "Normativa para transporte de combustible",
+      "Cabina Serie P",
+      "Caja de cambios Scania Opticruise"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 166,
+    "nombre": "Camión Cisterna de Combustible FAW CA1161",
+    "categoria": "camion-cisterna",
+    "marca": "FAW",
+    "modelo": "CA1161",
+    "año": 2011,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Camión cisterna de combustible FAW CA1161 del año 2011.",
+    "especificaciones": {
+      "capacidad_tanque": "~3000 Galones",
+      "potencia": "~160 HP",
+      "traccion": "4x2"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/16A085/FFFFFF?text=FAW+Cisterna+Combustible"
+    ],
+    "caracteristicas": [
+      "Camión mediano para reparto urbano o regional"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 167,
+    "nombre": "Camión Cisterna de Combustible Freightliner M2 106",
+    "categoria": "camion-cisterna",
+    "marca": "Freightliner",
+    "modelo": "M2 106",
+    "año": 2011,
+    "precio": 60000,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Camión cisterna de combustible Freightliner M2 106, año 2011. Capacidad de 5000 galones en 1 compartimento.",
+    "especificaciones": {
+      "capacidad_tanque": "5000 Galones",
+      "potencia": "200 - 350 HP",
+      "traccion": "6x4",
+      "motor": "Cummins o Detroit Diesel"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/95A5A6/FFFFFF?text=Freightliner+M2+106"
+    ],
+    "caracteristicas": [
+      "Chasis versátil y duradero",
+      "Cabina de aluminio ligera",
+      "Excelente maniobrabilidad"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 168,
+    "nombre": "Camión Cisterna de Combustible Mercedes Benz Atego 1623",
+    "categoria": "camion-cisterna",
+    "marca": "Mercedes Benz",
+    "modelo": "Atego 1623",
+    "año": 2012,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Camión cisterna de combustible Mercedes Benz Atego 1623 del año 2012.",
+    "especificaciones": {
+      "capacidad_tanque": "~3000 Galones",
+      "potencia": "231 HP",
+      "traccion": "4x2",
+      "motor": "Mercedes-Benz OM 906 LA"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/34495E/FFFFFF?text=Mercedes+Atego+1623"
+    ],
+    "caracteristicas": [
+      "Ideal para reparto de combustible",
+      "Alta fiabilidad y bajos costos operativos"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 169,
+    "nombre": "Pavimentadora Caterpillar AP600D",
+    "categoria": "pavimentadora",
+    "marca": "Caterpillar",
+    "modelo": "AP600D",
+    "año": 2012,
+    "precio": 75000,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Pavimentadora de asfalto sobre orugas Caterpillar AP600D del año 2012.",
+    "especificaciones": {
+      "peso": "18 toneladas",
+      "ancho_pavimentacion": "2.55 m - 5.0 m",
+      "motor": "Cat C6.6 ACERT",
+      "tipo_tren_rodaje": "Orugas"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+AP600D"
+    ],
+    "caracteristicas": [
+      "Regla vibratoria AS4252C",
+      "Sistema de alimentación independiente",
+      "Consola de operación dual"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 170,
+    "nombre": "Pavimentadora Vogele Super 1800",
+    "categoria": "pavimentadora",
+    "marca": "Vogele",
+    "modelo": "Super 1800",
+    "año": null,
+    "precio": 70000,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Pavimentadora de asfalto sobre orugas Vogele Super 1800. Un equipo de alto rendimiento y muy popular.",
+    "especificaciones": {
+      "peso": "18.5 toneladas",
+      "ancho_pavimentacion": "2.5 m - 5.0 m",
+      "motor": "Perkins",
+      "tipo_tren_rodaje": "Orugas"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/2ECC71/FFFFFF?text=Vogele+Super+1800"
+    ],
+    "caracteristicas": [
+      "Concepto de manejo ErgoPlus",
+      "Calentamiento de regla de alta eficiencia",
+      "Nivelación automática Niveltronic"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 171,
+    "nombre": "Pavimentadora Vogele Vision 5200-2",
+    "categoria": "pavimentadora",
+    "marca": "Vogele",
+    "modelo": "Vision 5200-2",
+    "año": 2012,
+    "precio": 95000,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Pavimentadora de asfalto sobre orugas Vogele Vision 5200-2 del año 2012. Diseñada para el mercado norteamericano, ideal para autopistas.",
+    "especificaciones": {
+      "peso": "20 toneladas",
+      "ancho_pavimentacion": "3.05 m - 5.94 m",
+      "motor": "Cummins",
+      "tipo_tren_rodaje": "Orugas"
+    },
+    "imagenes": [
+      "assets/images/1. INVENTARIO FOTOGRAFICO/EXPARCIDORA VOGELE VISION 5200-2/WhatsApp Image 2025-06-20 at 8.52.34 AM (1).jpeg",
+      "assets/images/1. INVENTARIO FOTOGRAFICO/EXPARCIDORA VOGELE VISION 5200-2/WhatsApp Image 2025-06-20 at 8.52.34 AM (2).jpeg",
+      "assets/images/1. INVENTARIO FOTOGRAFICO/EXPARCIDORA VOGELE VISION 5200-2/WhatsApp Image 2025-06-20 at 8.52.34 AM (3).jpeg"
+    ],
+    "caracteristicas": [
+      "Puesto del operador Swing-out",
+      "Sistema de manejo ErgoPlus",
+      "Alta capacidad de la tolva"
+    ],
+    "disponible": true,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 172,
+    "nombre": "Yate Mis Niñas",
+    "categoria": "yate",
+    "marca": "No especificado",
+    "modelo": "Mis Niñas",
+    "año": null,
+    "precio": 40000,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Yate en venta, nombre 'Mis Niñas'.",
+    "especificaciones": {},
+    "imagenes": [
+      "https://placehold.co/600x400/3498DB/FFFFFF?text=Yate+Mis+Niñas"
+    ],
+    "caracteristicas": [],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 174,
+    "nombre": "Zaranda Metso LT1100",
+    "categoria": "zaranda",
+    "marca": "Metso",
+    "modelo": "LT1100",
+    "año": null,
+    "precio": 350000,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Planta de cribado (zaranda) móvil sobre orugas Metso Lokotrack LT1100.",
+    "especificaciones": {
+      "peso": "~35 toneladas",
+      "capacidad": "Hasta 400 tph",
+      "motor": "Cat"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/E67E22/FFFFFF?text=Metso+LT1100"
+    ],
+    "caracteristicas": [
+      "Planta móvil sobre orugas",
+      "Para aplicaciones de cantera y reciclaje",
+      "Configuración rápida"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 176,
+    "nombre": "Grúa para terreno difícil Terex TR-500XL",
+    "categoria": "grua",
+    "marca": "Terex",
+    "modelo": "RT-500XL",
+    "año": 2014,
+    "precio": 100000,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Grúa para terreno difícil (Rough Terrain) Terex RT-500XL de 40 toneladas de capacidad.",
+    "especificaciones": {
+      "capacidad": "40 Toneladas",
+      "longitud_pluma": "30 m",
+      "motor": "Cummins"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/F1C40F/FFFFFF?text=Terex+RT-500XL"
+    ],
+    "caracteristicas": [
+      "Tracción y dirección en las 4 ruedas",
+      "Diseño compacto y robusto",
+      "Ideal para obras de construcción"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 178,
+    "nombre": "Tractocamión Volvo FH 6x4 T",
+    "categoria": "tractocamion",
+    "marca": "Volvo",
+    "modelo": "FH 6x4 T",
+    "año": 2012,
+    "precio": 65000,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Tractocamión Volvo FH con tracción 6x4 del año 2012. Diseñado para el transporte de larga distancia.",
+    "especificaciones": {
+      "potencia": "440 - 520 HP",
+      "traccion": "6x4",
+      "motor": "Volvo D13",
+      "tipo_cabina": "Globetrotter (opcional)"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/3498DB/FFFFFF?text=Volvo+FH+Tractor"
+    ],
+    "caracteristicas": [
+      "Caja de cambios I-Shift",
+      "Freno de motor Volvo (VEB+)",
+      "Cabina de alta comodidad"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 179,
+    "nombre": "Tractocamión Volvo (Modelo no especificado)",
+    "categoria": "tractocamion",
+    "marca": "Volvo",
+    "modelo": "No especificado",
+    "año": null,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Tractocamión marca Volvo, modelo no especificado.",
+    "especificaciones": {},
+    "imagenes": [
+      "https://placehold.co/600x400/3498DB/FFFFFF?text=Volvo+Tractor"
+    ],
+    "caracteristicas": [],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 182,
+    "nombre": "Retroexcavadora Komatsu",
+    "categoria": "retroexcavadora",
+    "marca": "Komatsu",
+    "modelo": "No especificado",
+    "año": null,
+    "precio": 28000,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Ubicación no especificada",
+    "descripcion": "Retroexcavadora marca Komatsu. El modelo específico no está en la lista.",
+    "especificaciones": {
+      "peso": "~8 toneladas",
+      "potencia": "~90 HP"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/1ABC9C/FFFFFF?text=Komatsu+Backhoe"
+    ],
+    "caracteristicas": [
+      "Cucharón frontal y brazo excavador trasero",
+      "Versátil para múltiples tareas"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  },
+  {
+    "id": 183,
+    "nombre": "Retroexcavadora Caterpillar 420F",
+    "categoria": "retroexcavadora",
+    "marca": "Caterpillar",
+    "modelo": "420F",
+    "año": 2012,
+    "precio": null,
+    "moneda": "USD",
+    "tipo": "venta",
+    "horas": null,
+    "estado": "usado",
+    "ubicacion": "Huancayo",
+    "descripcion": "Vendido. Retroexcavadora Caterpillar 420F del año 2012. Venta registrada en Huancayo.",
+    "especificaciones": {
+      "peso": "7.2 toneladas",
+      "potencia": "93 HP",
+      "profundidad_excavacion": "4.36 m",
+      "capacidad_cucharon_frontal": "0.96 m³"
+    },
+    "imagenes": [
+      "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+420F"
+    ],
+    "caracteristicas": [
+      "Motor Cat 4.4",
+      "Controles por joystick disponibles",
+      "Sistema hidráulico con detección de carga"
+    ],
+    "disponible": false,
+    "fecha_publicacion": "2025-08-11"
+  }
+
+  ],
+"categorias": [
+    {
+      "id": "cargador-frontal",
+      "nombre": "Cargadores Frontales",
+      "icono": "fas fa-truck-loading"
+    },
+    {
+      "id": "excavadora",
+      "nombre": "Excavadoras",
+      "icono": "fas fa-excavator"
+    },
+    {
+      "id": "retroexcavadora",
+      "nombre": "Retroexcavadoras",
+      "icono": "fas fa-tractor"
+    },
+    {
+      "id": "motoniveladora",
+      "nombre": "Motoniveladoras",
+      "icono": "fas fa-ruler-horizontal"
+    },
+    {
+      "id": "rodillo",
+      "nombre": "Rodillos",
+      "icono": "fas fa-road"
+    },
+    {
+      "id": "volquete",
+      "nombre": "Volquetes",
+      "icono": "fas fa-truck"
+    },
+    {
+      "id": "tractocamion",
+      "nombre": "Tractocamiones",
+      "icono": "fas fa-truck-front"
+    },
+    {
+      "id": "camion-mixer",
+      "nombre": "Camiones Mixer",
+      "icono": "fas fa-truck-moving"
+    },
+    {
+      "id": "camion-cisterna",
+      "nombre": "Camiones Cisterna",
+      "icono": "fas fa-tint"
+    },
+    {
+      "id": "vehiculo-ligero",
+      "nombre": "Vehículos Ligeros",
+      "icono": "fas fa-car-side"
+    },
+    {
+      "id": "pavimentadora",
+      "nombre": "Pavimentadoras",
+      "icono": "fas fa-layer-group"
+    },
+    {
+      "id": "grua",
+      "nombre": "Grúas",
+      "icono": "fas fa-dolly"
+    },
+    {
+      "id": "zaranda",
+      "nombre": "Zarandas / Cribas",
+      "icono": "fas fa-filter"
+    },
+    {
+      "id": "yate",
+      "nombre": "Yates",
+      "icono": "fas fa-ship"
+    },
+    {
+      "id": "minicargador",
+      "nombre": "Minicargadores",
+      "icono": "fas fa-compact-disc"
     }
   ],
-  "categorias": [
-    { "id": "excavadora", "nombre": "Excavadoras", "icono": "fas fa-excavator" },
-    { "id": "cargador", "nombre": "Cargadores", "icono": "fas fa-truck-loading" },
-    { "id": "minicargador", "nombre": "Minicargadores", "icono": "fas fa-compact-disc" },
-    { "id": "rodillo", "nombre": "Rodillos", "icono": "fas fa-road" },
-    { "id": "volquete", "nombre": "Volquetes", "icono": "fas fa-truck" },
-    { "id": "motoniveladora", "nombre": "Motoniveladoras", "icono": "fas fa-ruler-horizontal" }
-  ],
   "marcas": [
-    { "id": "caterpillar", "nombre": "Caterpillar" },
-    { "id": "komatsu", "nombre": "Komatsu" },
-    { "id": "liugong", "nombre": "LiuGong" },
-    { "id": "john-deere", "nombre": "John Deere" },
-    { "id": "dynapac", "nombre": "Dynapac" },
-    { "id": "volvo", "nombre": "Volvo" }
-  ]
+      {
+        "id": "volvo",
+        "nombre": "Volvo"
+      },
+      {
+        "id": "caterpillar",
+        "nombre": "Caterpillar"
+      },
+      {
+        "id": "komatsu",
+        "nombre": "Komatsu"
+      },
+      {
+        "id": "doosan",
+        "nombre": "Doosan"
+      },
+      {
+        "id": "sdlg",
+        "nombre": "SDLG"
+      },
+      {
+        "id": "new-holland",
+        "nombre": "New Holland"
+      },
+      {
+        "id": "jcb",
+        "nombre": "JCB"
+      },
+      {
+        "id": "sem",
+        "nombre": "SEM"
+      },
+      {
+        "id": "john-deere",
+        "nombre": "John Deere"
+      },
+      {
+        "id": "kobelco",
+        "nombre": "Kobelco"
+      },
+      {
+        "id": "daewoo",
+        "nombre": "Daewoo"
+      },
+      {
+        "id": "liebherr",
+        "nombre": "Liebherr"
+      },
+      {
+        "id": "hyundai",
+        "nombre": "Hyundai"
+      },
+      {
+        "id": "nissan",
+        "nombre": "Nissan"
+      },
+      {
+        "id": "zna-zhengzhou-nissan",
+        "nombre": "ZNA - Zhengzhou Nissan"
+      },
+      {
+        "id": "mitsubishi",
+        "nombre": "Mitsubishi"
+      },
+      {
+        "id": "mercedes-benz",
+        "nombre": "Mercedes Benz"
+      },
+      {
+        "id": "ford",
+        "nombre": "Ford"
+      },
+      {
+        "id": "chevrolet",
+        "nombre": "Chevrolet"
+      },
+      {
+        "id": "mahindra",
+        "nombre": "Mahindra"
+      },
+      {
+        "id": "longong",
+        "nombre": "Longong"
+      },
+      {
+        "id": "hamm",
+        "nombre": "Hamm"
+      },
+      {
+        "id": "bomag",
+        "nombre": "Bomag"
+      },
+      {
+        "id": "bitelli",
+        "nombre": "Bitelli"
+      },
+      {
+        "id": "dynapac",
+        "nombre": "Dynapac"
+      },
+      {
+        "id": "case",
+        "nombre": "Case"
+      },
+      {
+        "id": "scania",
+        "nombre": "Scania"
+      },
+      {
+        "id": "iveco",
+        "nombre": "Iveco"
+      },
+      {
+        "id": "sinotruk",
+        "nombre": "Sinotruk"
+      },
+      {
+        "id": "kenworth",
+        "nombre": "Kenworth"
+      },
+      {
+        "id": "dongfeng",
+        "nombre": "Dongfeng"
+      },
+      {
+        "id": "chenglong",
+        "nombre": "Chenglong"
+      },
+      {
+        "id": "mack",
+        "nombre": "Mack"
+      },
+      {
+        "id": "jinbei",
+        "nombre": "Jinbei"
+      },
+      {
+        "id": "hongyan",
+        "nombre": "Hongyan"
+      },
+      {
+        "id": "faw",
+        "nombre": "FAW"
+      },
+      {
+        "id": "davino",
+        "nombre": "D`avino"
+      },
+      {
+        "id": "freightliner",
+        "nombre": "Freightliner"
+      },
+      {
+        "id": "vogele",
+        "nombre": "Vogele"
+      },
+      {
+        "id": "metso",
+        "nombre": "Metso"
+      },
+      {
+        "id": "terex",
+        "nombre": "Terex"
+      }
+    ]
 }
