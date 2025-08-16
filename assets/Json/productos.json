@@ -1260,14 +1260,17 @@
       "profundidad_excavacion": "7.52 m"
     },
     "imagenes": [
-      "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+336D2L"
+
+      "assets/images/1. INVENTARIO FOTOGRAFICO/EXCAVADORA CATERPILLAR 336DL2/Imagen de WhatsApp 2025-04-10 a las 11.43.36_218c48e4.jpg",
+      "assets/images/1. INVENTARIO FOTOGRAFICO/EXCAVADORA CATERPILLAR 336DL2/Imagen de WhatsApp 2025-04-10 a las 11.43.38_de0faea0.jpg",
+      "assets/images/1. INVENTARIO FOTOGRAFICO/EXCAVADORA CATERPILLAR 336DL2/Imagen de WhatsApp 2025-04-10 a las 11.43.39_44869384.jpg"
     ],
     "caracteristicas": [
       "Motor Cat C9 ACERT",
       "Sistema de combustible de alta eficiencia",
       "Tren de rodaje largo (L)"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2963,14 +2966,16 @@
       "motor": "Cat C6.6 ACERT"
     },
     "imagenes": [
-      "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+CS56"
+      "assets/images/1. INVENTARIO FOTOGRAFICO/RODILLO COMPACTADOR CATERPILLAR MODELO CS56/WhatsApp Image 2025-06-19 at 8.53.12 AM (1).jpeg",
+      "assets/images/1. INVENTARIO FOTOGRAFICO/RODILLO COMPACTADOR CATERPILLAR MODELO CS56/WhatsApp Image 2025-06-19 at 8.53.12 AM (2).jpeg",
+      "assets/images/1. INVENTARIO FOTOGRAFICO/RODILLO COMPACTADOR CATERPILLAR MODELO CS56/WhatsApp Image 2025-06-19 at 8.53.12 AM (3).jpeg"
     ],
     "caracteristicas": [
       "Sistema de control de compactación AccuGrade (opcional)",
       "Sistema de vibración de doble amplitud y frecuencia",
       "Cabina confortable con excelente visibilidad"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {

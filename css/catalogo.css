@@ -82,7 +82,7 @@
 
 .search-btn {
     padding: 18px 30px;
-    background: linear-gradient(135deg, var(--accent-color), #ff7300);
+    background: linear-gradient(135deg, var(--accent-color), #7CB342);
     color: white;
     border: none;
     cursor: pointer;
@@ -92,7 +92,7 @@
 }
 
 .search-btn:hover {
-    background: linear-gradient(135deg, #ff7300, var(--accent-color));
+    background: linear-gradient(135deg, #7CB342, var(--accent-color));
     transform: scale(1.05);
 }
 
@@ -166,7 +166,7 @@
 }
 
 .clear-filters-btn:hover {
-    background: rgba(230, 126, 34, 0.9);
+    background: rgba(139, 195, 74, 0.9);
     border-color: var(--accent-color);
     transform: scale(1.05);
 }
@@ -178,8 +178,8 @@
 .availability-info {
     padding: 12px 25px;
     background: linear-gradient(135deg, rgba(39, 174, 96, 0.1), rgba(46, 204, 113, 0.05));
-    border-left: 4px solid #27ae60;
-    color: #27ae60;
+    border-left: 4px solid var(--success-green);
+    color: var(--success-green);
     font-size: 0.85rem;
     font-weight: 500;
     display: flex;
@@ -213,7 +213,7 @@
 }
 
 .filtros-content::-webkit-scrollbar-thumb:hover {
-    background: #ff7300;
+    background: #7CB342;
 }
 
 .filtro-group {
@@ -232,7 +232,7 @@
     font-weight: 700;
     margin-bottom: 20px;
     padding: 15px 20px;
-    background: linear-gradient(135deg, rgba(230, 126, 34, 0.1), rgba(243, 156, 18, 0.05));
+    background: linear-gradient(135deg, rgba(139, 195, 74, 0.1), rgba(139, 195, 74, 0.05));
     border-radius: 12px;
     border-left: 4px solid var(--accent-color);
     display: flex;
@@ -242,7 +242,7 @@
 }
 
 .filtro-group h4:hover {
-    background: linear-gradient(135deg, rgba(230, 126, 34, 0.15), rgba(243, 156, 18, 0.1));
+    background: linear-gradient(135deg, rgba(139, 195, 74, 0.15), rgba(139, 195, 74, 0.1));
     transform: translateX(3px);
 }
 
@@ -272,13 +272,13 @@
 }
 
 .filter-checkbox:hover {
-    background: linear-gradient(135deg, rgba(230, 126, 34, 0.08), rgba(243, 156, 18, 0.05));
-    border-color: rgba(230, 126, 34, 0.2);
+    background: linear-gradient(135deg, rgba(139, 195, 74, 0.08), rgba(139, 195, 74, 0.05));
+    border-color: rgba(139, 195, 74, 0.2);
     transform: translateX(5px);
 }
 
 .filter-checkbox.active {
-    background: linear-gradient(135deg, rgba(230, 126, 34, 0.1), rgba(243, 156, 18, 0.08));
+    background: linear-gradient(135deg, rgba(139, 195, 74, 0.1), rgba(139, 195, 74, 0.08));
     border-color: var(--accent-color);
     transform: translateX(5px);
 }
@@ -304,7 +304,7 @@
 }
 
 .filter-checkbox input:checked + .checkmark {
-    background: linear-gradient(135deg, var(--accent-color), #ff7300);
+    background: linear-gradient(135deg, var(--accent-color), #7CB342);
     border-color: var(--accent-color);
     transform: scale(1.1);
 }
@@ -399,7 +399,7 @@
     border-color: var(--accent-color);
     background: white;
     transform: translateY(-2px);
-    box-shadow: 0 5px 15px rgba(230, 126, 34, 0.2);
+    box-shadow: 0 5px 15px rgba(139, 195, 74, 0.2);
 }
 
 .price-separator {
@@ -411,7 +411,7 @@
 
 .apply-price-btn {
     padding: 12px 24px;
-    background: linear-gradient(135deg, var(--accent-color), #ff7300);
+    background: linear-gradient(135deg, var(--accent-color), #7CB342);
     color: white;
     border: none;
     border-radius: 25px;
@@ -427,8 +427,8 @@
 
 .apply-price-btn:hover {
     transform: translateY(-3px);
-    box-shadow: 0 8px 25px rgba(230, 126, 34, 0.4);
-    background: linear-gradient(135deg, #ff7300, var(--accent-color));
+    box-shadow: 0 8px 25px rgba(139, 195, 74, 0.4);
+    background: linear-gradient(135deg, #7CB342, var(--accent-color));
 }
 
 .apply-price-btn i {
@@ -465,7 +465,7 @@
 }
 
 .toggle-btn.active {
-    background: linear-gradient(135deg, var(--accent-color), #ff7300);
+    background: linear-gradient(135deg, var(--accent-color), #7CB342);
     border-color: var(--accent-color);
     color: white;
     transform: translateY(-2px);
@@ -510,7 +510,7 @@
     align-items: center;
     gap: 6px;
     font-size: 0.9rem;
-    color: #27ae60;
+    color: var(--success-green);
     font-weight: 500;
     padding: 4px 12px;
     background: rgba(39, 174, 96, 0.1);
@@ -605,7 +605,7 @@
 }
 
 .badge.venta {
-    background: linear-gradient(135deg, #27AE60, #2ECC71);
+    background: linear-gradient(135deg, var(--success-green), #2ECC71);
     color: white;
 }
 
@@ -615,12 +615,12 @@
 }
 
 .badge.nuevo {
-    background: linear-gradient(135deg, var(--accent-color), #ff7300);
+    background: linear-gradient(135deg, var(--accent-color), #7CB342);
     color: white;
 }
 
 .badge.seminuevo {
-    background: linear-gradient(135deg, #F39C12, #F7DC6F);
+    background: linear-gradient(135deg, var(--gold-accent), #A8E6CF);
     color: white;
 }
 
@@ -815,13 +815,13 @@
 }
 
 .pagination-btn.active {
-    background: linear-gradient(135deg, var(--accent-color), #ff7300);
+    background: linear-gradient(135deg, var(--accent-color), #7CB342);
     border-color: var(--accent-color);
     color: white;
 }
 
 .pagination-btn.active:hover {
-    background: linear-gradient(135deg, #ff7300, var(--accent-color));
+    background: linear-gradient(135deg, #7CB342, var(--accent-color));
     transform: translateY(-2px);
 }
 
@@ -999,7 +999,7 @@
 }
 
 .close-modal:hover {
-    background: rgba(230, 126, 34, 0.1);
+    background: rgba(139, 195, 74, 0.1);
     color: var(--accent-color);
     transform: scale(1.1);
 }
@@ -1111,7 +1111,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 25px;
-    background: linear-gradient(135deg, rgba(230, 126, 34, 0.1), rgba(243, 156, 18, 0.1));
+    background: linear-gradient(135deg, rgba(139, 195, 74, 0.1), rgba(139, 195, 74, 0.1));
     border-radius: 15px;
     border-left: 5px solid var(--accent-color);
 }
@@ -1215,7 +1215,7 @@
     font-size: 1.1rem;
     width: 20px;
     height: 20px;
-    background: rgba(230, 126, 34, 0.1);
+    background: rgba(139, 195, 74, 0.1);
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -1474,12 +1474,12 @@
 .search-input:focus {
     border-color: var(--accent-color);
     background: white;
-    box-shadow: 0 0 0 4px rgba(230, 126, 34, 0.1);
+    box-shadow: 0 0 0 4px rgba(139, 195, 74, 0.1);
 }
 
 .search-btn {
     padding: 15px 20px;
-    background: linear-gradient(135deg, var(--accent-color), #ff7300);
+    background: linear-gradient(135deg, var(--accent-color), #7CB342);
     border: 2px solid var(--accent-color);
     border-left: none;
     border-radius: 0 25px 25px 0;
@@ -1493,9 +1493,9 @@
 }
 
 .search-btn:hover {
-    background: linear-gradient(135deg, #ff7300, var(--accent-color));
+    background: linear-gradient(135deg, #7CB342, var(--accent-color));
     transform: translateY(-2px);
-    box-shadow: 0 5px 15px rgba(230, 126, 34, 0.3);
+    box-shadow: 0 5px 15px rgba(139, 195, 74, 0.3);
 }
 
 .search-btn i {
