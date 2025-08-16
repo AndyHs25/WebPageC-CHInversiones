@@ -62,8 +62,29 @@ class ComponentsLoader {
         const mainNav = document.querySelector('.main-nav');
         
         if (mobileMenuToggle && mainNav) {
-            mobileMenuToggle.addEventListener('click', () => {
-                mainNav.classList.toggle('active');
+            mobileMenuToggle.addEventListener('click', function() {
+                mainNav.classList.toggle('mobile-open');
+                mobileMenuToggle.classList.toggle('active');
+                document.body.classList.toggle('menu-open');
+            });
+            
+            // Cerrar menú al hacer click en un enlace
+            const navLinks = mainNav.querySelectorAll('a');
+            navLinks.forEach(link => {
+                link.addEventListener('click', function() {
+                    mainNav.classList.remove('mobile-open');
+                    mobileMenuToggle.classList.remove('active');
+                    document.body.classList.remove('menu-open');
+                });
+            });
+            
+            // Cerrar menú con tecla Escape
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Escape' && mainNav.classList.contains('mobile-open')) {
+                    mainNav.classList.remove('mobile-open');
+                    mobileMenuToggle.classList.remove('active');
+                    document.body.classList.remove('menu-open');
+                }
             });
         }
     }

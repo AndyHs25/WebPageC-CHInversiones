@@ -13,20 +13,28 @@
 </head>
 <body>
 
-    <!-- Header y Navegación -->
+    <!-- Header y Navegación Responsivo -->
     <header class="main-header">
         <div class="container">
             <a href="#inicio" class="logo-container">
                 <img src="assets/icons/OFICIAL LOGO CH Y C_page-0001.jpg" alt="Logo CH Y C Inversiones">
             </a>
-            <nav class="main-nav">
+            
+            <!-- Botón del menú móvil -->
+            <button class="mobile-menu-toggle" id="mobileMenuToggle" aria-label="Toggle navigation">
+                <span class="hamburger-line"></span>
+                <span class="hamburger-line"></span>
+                <span class="hamburger-line"></span>
+            </button>
+            
+            <nav class="main-nav" id="mainNav">
                 <ul>
                     <li><a href="#inicio">Inicio</a></li>
                     <li><a href="#servicios">Servicios</a></li>
                     <li><a href="#maquinaria">Maquinaria</a></li>
                     <li><a href="#mision-vision">Nosotros</a></li>
                     <li><a href="#contacto">Contacto</a></li>
-                    <li><a href="catalogo.html">Catalogo</a></li>
+                    <li><a href="catalogo.html">Catálogo</a></li>
                 </ul>
             </nav>
         </div>
@@ -45,7 +53,7 @@
         <div class="hero-overlay"></div>
 
         <div class="hero-content">
-            <div class="welcome-text">BIENVENIDO A MAQUINARIAS C & CH INVERSIONES</div>
+            <div class="welcome-text">BIENVENIDO A MAQUINARIAS CH & C INVERSIONES</div>
             <div class="company-name">ALQUILER Y VENTA<br>DE MAQUINARIA<br>PESADA</div>
             <div class="hero-actions">
                 <a href="#contacto" class="btn-cotizar">COTIZA AHORA</a>
@@ -996,6 +1004,39 @@
             } else {
                 scrollTopBtn.style.opacity = '0';
                 scrollTopBtn.style.visibility = 'hidden';
+            }
+        });
+
+        // Menú móvil - Funcionalidad
+        document.addEventListener('DOMContentLoaded', function() {
+            const mobileMenuToggle = document.getElementById('mobileMenuToggle');
+            const mainNav = document.getElementById('mainNav');
+            
+            if (mobileMenuToggle && mainNav) {
+                mobileMenuToggle.addEventListener('click', function() {
+                    mainNav.classList.toggle('mobile-open');
+                    mobileMenuToggle.classList.toggle('active');
+                    document.body.classList.toggle('menu-open');
+                });
+                
+                // Cerrar menú al hacer click en un enlace
+                const navLinks = mainNav.querySelectorAll('a');
+                navLinks.forEach(link => {
+                    link.addEventListener('click', function() {
+                        mainNav.classList.remove('mobile-open');
+                        mobileMenuToggle.classList.remove('active');
+                        document.body.classList.remove('menu-open');
+                    });
+                });
+                
+                // Cerrar menú con tecla Escape
+                document.addEventListener('keydown', function(e) {
+                    if (e.key === 'Escape' && mainNav.classList.contains('mobile-open')) {
+                        mainNav.classList.remove('mobile-open');
+                        mobileMenuToggle.classList.remove('active');
+                        document.body.classList.remove('menu-open');
+                    }
+                });
             }
         });
     </script>
