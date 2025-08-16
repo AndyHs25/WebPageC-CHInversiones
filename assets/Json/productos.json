@@ -27,7 +27,7 @@
         "Transmisión automática Powershift",
         "Sistema hidráulico con detección de carga"
       ],
-      "disponible": false,
+      "disponible": true,
       "fecha_publicacion": "2025-08-11"
     },
     {
@@ -57,7 +57,7 @@
         "Tecnología OptiShift",
         "Sistema de brazo de torque paralelo (TP-linkage)"
       ],
-      "disponible": false,
+      "disponible": true,
       "fecha_publicacion": "2025-08-11"
     },
     {
@@ -87,7 +87,7 @@
         "Servotransmisión planetaria",
         "Cabina ergonómica"
       ],
-      "disponible": false,
+      "disponible": true,
       "fecha_publicacion": "2025-08-11"
     },
     {
@@ -117,7 +117,7 @@
         "Convertidor de par con embrague de bloqueo",
         "Cat Production Measurement"
       ],
-      "disponible": false,
+      "disponible": true,
       "fecha_publicacion": "2025-08-11"
     },
     {
@@ -147,7 +147,7 @@
         "Sistema hidráulico con detección de carga",
         "Frenos de disco en baño de aceite"
       ],
-      "disponible": false,
+      "disponible": true,
       "fecha_publicacion": "2025-08-11"
     },
     {
@@ -177,7 +177,7 @@
         "Varillaje en Z de alto rendimiento",
         "Controles de bajo esfuerzo"
       ],
-      "disponible": false,
+      "disponible": true,
       "fecha_publicacion": "2025-08-11"
     },
     {
@@ -239,7 +239,7 @@
         "Sistema de Monitoreo Caterpillar",
         "Varillaje en Z de alto rendimiento"
       ],
-      "disponible": false,
+      "disponible": true,
       "fecha_publicacion": "2025-08-11"
     },
     {
@@ -269,7 +269,7 @@
         "Servotransmisión planetaria",
         "Visibilidad panorámica"
       ],
-      "disponible": false,
+      "disponible": true,
       "fecha_publicacion": "2025-08-11"
     },
     {
@@ -299,7 +299,7 @@
         "Frenos hidráulicos",
         "Controles de bajo esfuerzo"
       ],
-      "disponible": false,
+      "disponible": true,
       "fecha_publicacion": "2025-08-11"
     },
     {
@@ -329,7 +329,7 @@
         "Transmisión hidrostática inteligente",
         "Cabina de nueva generación"
       ],
-      "disponible": false,
+      "disponible": true,
       "fecha_publicacion": "2025-08-11"
     },
     {
@@ -359,7 +359,7 @@
         "Varillaje en Z optimizado",
         "Sistema Product Link"
       ],
-      "disponible": false,
+      "disponible": true,
       "fecha_publicacion": "2025-08-11"
     },
     {
@@ -389,7 +389,7 @@
         "Transmisión Powershift",
         "Estructura robusta para alta durabilidad"
       ],
-      "disponible": false,
+      "disponible": true,
       "fecha_publicacion": "2025-08-11"
     },
     {
@@ -419,7 +419,7 @@
         "Sistema hidráulico avanzado",
         "Cabina con visibilidad mejorada"
       ],
-      "disponible": false,
+      "disponible": true,
       "fecha_publicacion": "2025-08-11"
     },
     {
@@ -441,7 +441,7 @@
         "https://placehold.co/600x400/1ABC9C/FFFFFF?text=Komatsu"
       ],
       "caracteristicas": [],
-      "disponible": false,
+      "disponible": true,
       "fecha_publicacion": "2025-08-11"
     },
     {
@@ -471,7 +471,7 @@
         "Sistema de Monitoreo EMMS",
         "Transmisión automática con selector de modo"
       ],
-      "disponible": false,
+      "disponible": true,
       "fecha_publicacion": "2025-08-11"
     },
     {
@@ -501,7 +501,7 @@
         "Transmisión Powershift",
         "Diseño duradero"
       ],
-      "disponible": false,
+      "disponible": true,
       "fecha_publicacion": "2025-08-11"
     },
     {
@@ -531,7 +531,7 @@
         "Convertidor de par de gran capacidad",
         "Cabina SpaceCab"
       ],
-      "disponible": false,
+      "disponible": true,
       "fecha_publicacion": "2025-08-11"
     },
     {
@@ -561,7 +561,7 @@
         "Transmisión hidrostática (HST)",
         "Chasis articulado"
       ],
-      "disponible": false,
+      "disponible": true,
       "fecha_publicacion": "2025-08-11"
     },
     {
@@ -591,7 +591,7 @@
         "Transmisión Powershift",
         "Sistema de enfriamiento eficiente"
       ],
-      "disponible": false,
+      "disponible": true,
       "fecha_publicacion": "2025-08-11"
     },
     {
@@ -621,7 +621,7 @@
         "Cabina espaciosa",
         "Sistema de control hidráulico"
       ],
-      "disponible": false,
+      "disponible": true,
       "fecha_publicacion": "2025-08-11"
     },
     {
@@ -651,7 +651,7 @@
         "Transmisión de contraeje",
         "Cabina con buena visibilidad"
       ],
-      "disponible": false,
+      "disponible": true,
       "fecha_publicacion": "2025-08-11"
     },
     {
@@ -681,7 +681,7 @@
         "4 modos de potencia",
         "Ejes de servicio pesado"
       ],
-      "disponible": false,
+      "disponible": true,
       "fecha_publicacion": "2025-08-11"
     },
     {
@@ -711,7 +711,7 @@
         "Transmisión ZF",
         "Varillaje en Z"
       ],
-      "disponible": false,
+      "disponible": true,
       "fecha_publicacion": "2025-08-11"
     },
     {
@@ -741,7 +741,7 @@
         "Sistema de enfriamiento optimizado",
         "Cabina ergonómica"
       ],
-      "disponible": false,
+      "disponible": true,
       "fecha_publicacion": "2025-08-11"
     },
     {
@@ -771,7 +771,7 @@
         "Transmisión Powershift",
         "Sistema de diagnóstico a bordo"
       ],
-      "disponible": false,
+      "disponible": true,
       "fecha_publicacion": "2025-08-11"
     },
     {
@@ -802,7 +802,7 @@
       "Sistema hidráulico con regeneración de flujo",
       "Modo de trabajo seleccionable (H, S, ECO)"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -833,7 +833,7 @@
       "Sistema e-EPOS (Electronic Power Optimizing System)",
       "Chasis de orugas reforzado"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -864,7 +864,7 @@
       "Sistema hidráulico optimizado",
       "Cabina espaciosa y ergonómica"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -895,7 +895,7 @@
       "Tren de rodaje largo y ancho",
       "Función de sobrepotencia (Power Boost)"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -926,7 +926,7 @@
       "Sistema de monitoreo KOMTRAX",
       "5 modos de trabajo"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -957,7 +957,7 @@
       "Sistema HydrauMind",
       "Modo de trabajo seleccionable"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -988,7 +988,7 @@
       "Dos modos de trabajo para el aguilón",
       "KOMTRAX Plus para gestión de flota"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1019,7 +1019,7 @@
       "Sistema hidráulico de centro cerrado con sensor de carga (CLSS)",
       "Tren de rodaje de alta resistencia"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1050,7 +1050,7 @@
       "Alta fuerza de excavación",
       "Estructura duradera"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1081,7 +1081,7 @@
       "Modo Activo para excavación potente",
       "Sistema de Monitoreo EMMS"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1112,7 +1112,7 @@
       "Sistema de control de potencia",
       "Diseño robusto para larga vida útil"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1143,7 +1143,7 @@
       "Válvula de control principal (MCV) electrohidráulica",
       "Sistema Product Link/VisionLink"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1174,7 +1174,7 @@
       "Sistema hidráulico de alta presión",
       "Modos de potencia seleccionables"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1205,7 +1205,7 @@
       "Sistema hidráulico de alta eficiencia",
       "Tren de rodaje de servicio pesado"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1236,7 +1236,7 @@
       "Sistema de control electrónico avanzado",
       "Estructura reforzada"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1301,7 +1301,7 @@
       "Sistema hidráulico de alta presión",
       "Tren de rodaje de servicio pesado"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1332,7 +1332,7 @@
       "Pluma y brazo para manipulación de materiales",
       "Cabina elevable hidráulicamente"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1363,7 +1363,7 @@
       "Estructuras reforzadas para alta durabilidad",
       "Cabina espaciosa"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1385,7 +1385,7 @@
       "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar"
     ],
     "caracteristicas": [],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1416,7 +1416,7 @@
       "Sistema hidráulico Powerwise III",
       "Tres modos de productividad"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1441,7 +1441,7 @@
       "Sistema de gestión de motor y sistema hidráulico integrado",
       "Optimización de potencia y consumo"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1472,7 +1472,7 @@
       "Sistema hidráulico Positive Control",
       "Cabina ergonómica"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1503,7 +1503,7 @@
       "Sistema hidráulico Positive Control",
       "Cabina ergonómica"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1534,7 +1534,7 @@
       "Sistema CAPO (Computer Aided Power Optimization)",
       "Sistema de autodiagnóstico"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1565,7 +1565,7 @@
       "Sistema de gestión avanzada AMS",
       "Filtración hidráulica Plexus"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1596,7 +1596,7 @@
       "Modos de trabajo para optimizar rendimiento",
       "Cabina Volvo Care Cab"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1629,7 +1629,7 @@
       "Asistente de ascenso en pendientes",
       "Capacidad de carga de ~1 tonelada"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1662,7 +1662,7 @@
       "Aire acondicionado",
       "Lunas eléctricas"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1694,7 +1694,7 @@
       "Chasis de alta resistencia",
       "Dirección hidráulica"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1727,7 +1727,7 @@
       "Sistema de navegación",
       "Monitores de entretenimiento traseros"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1759,7 +1759,7 @@
       "Climatizador tri-zona",
       "Sunroof panorámico"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1790,7 +1790,7 @@
       "Basada en la plataforma de la Nissan D22",
       "Opción económica y de trabajo"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1812,7 +1812,7 @@
       "https://placehold.co/600x400/2C3E50/FFFFFF?text=Nissan+Sedan"
     ],
     "caracteristicas": [],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1844,7 +1844,7 @@
       "Bloqueo de diferencial trasero",
       "Control de estabilidad y tracción (ASTC)"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1876,7 +1876,7 @@
       "Sistema de infoentretenimiento con pantalla central",
       "Dynamic Select (modos de conducción)"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1908,7 +1908,7 @@
       "Interior espacioso",
       "Extremadamente robusto"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1940,7 +1940,7 @@
       "Pilot Assist (conducción semi-autónoma)",
       "Pantalla táctil vertical Sensus Connect"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -1972,7 +1972,7 @@
       "Amplio espacio interior para su segmento",
       "Mantenimiento accesible"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2004,7 +2004,7 @@
       "Chasis de escalera",
       "Alta capacidad para terrenos difíciles"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
     {
@@ -2035,7 +2035,7 @@
       "Cabina con certificación ROPS/FOPS",
       "Sistema hidráulico eficiente"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2066,7 +2066,7 @@
       "Potencia Variable (VHP)",
       "Sistema de círculo de giro duradero"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2097,7 +2097,7 @@
       "Sistema de control de nivelación Cat Grade Control",
       "Estructura robusta"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2128,7 +2128,7 @@
       "Construcción robusta para aplicaciones severas",
       "Transmisión Powershift de mando directo"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2159,7 +2159,7 @@
       "Sistema hidráulico con detección de carga",
       "Potencia Variable (VHP)"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2190,7 +2190,7 @@
       "Cabina ergonómica",
       "Opciones de control de la hoja"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2220,7 +2220,7 @@
       "Transmisión hidrodinámica",
       "Bastidor articulado"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2251,7 +2251,7 @@
       "Sistema de riego presurizado",
       "Puesto del operador ergonómico y desplazable"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2281,7 +2281,7 @@
       "Tecnología de Oscilación Hamm",
       "Visibilidad excepcional del área de trabajo"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2311,7 +2311,7 @@
       "Motor Deutz",
       "Fácil mantenimiento"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2333,7 +2333,7 @@
       "https://placehold.co/600x400/F39C12/FFFFFF?text=Caterpillar+Roller"
     ],
     "caracteristicas": [],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2363,7 +2363,7 @@
       "Sistema de control de compactación (opcional)",
       "Diseño robusto"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2393,7 +2393,7 @@
       "Rociado de agua para los neumáticos",
       "Dirección hidrostática"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2422,7 +2422,7 @@
       "Diseño italiano",
       "Robusto y simple de operar"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2451,7 +2451,7 @@
       "Compacto y maniobrable",
       "Mecánica sencilla"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2481,7 +2481,7 @@
       "Controles duales",
       "Diseño compacto"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2511,7 +2511,7 @@
       "Motor Cat 3054C",
       "Excelente visibilidad"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2541,7 +2541,7 @@
       "Control de temperatura de los neumáticos",
       "Puesto del operador giratorio"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2571,7 +2571,7 @@
       "Excelente visibilidad",
       "Diseño asimétrico del bastidor"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2601,7 +2601,7 @@
       "Diseño compacto",
       "Sistema de rociado de agua"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2632,7 +2632,7 @@
       "Cabina ROPS/FOPS",
       "Buena maniobrabilidad"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2663,7 +2663,7 @@
       "Variocontrol (opcional)",
       "Bajo centro de gravedad para mayor estabilidad"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2694,7 +2694,7 @@
       "Mantenimiento sencillo",
       "Buena capacidad de trepada"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2725,7 +2725,7 @@
       "Mecánica simple",
       "Larga vida útil"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2756,7 +2756,7 @@
       "Plataforma del operador con buena visibilidad",
       "Alta fiabilidad"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2787,7 +2787,7 @@
       "Ideal para capas gruesas y suelos cohesivos",
       "Sistemas de medición de compactación disponibles"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2818,7 +2818,7 @@
       "Sistema de gestión de la máquina Hammtronic",
       "Cabina espaciosa y confortable"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2849,7 +2849,7 @@
       "Doble amplitud y frecuencia",
       "Fácil de transportar"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2880,7 +2880,7 @@
       "Buena tracción",
       "Costos de operación bajos"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2911,7 +2911,7 @@
       "Sistema de riego de agua de alta capacidad",
       "Puesto de operador ergonómico"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -2942,7 +2942,7 @@
       "Alta fuerza de impacto",
       "Potente motor"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3006,7 +3006,7 @@
       "Motor Cat 3056E",
       "Sistema de propulsión de doble bomba"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3037,7 +3037,7 @@
       "Construcción robusta",
       "Sistema de propulsión hidrostático"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3068,7 +3068,7 @@
       "Mapeo de pasadas y medición de compactación",
       "Cabina confortable y silenciosa"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3101,7 +3101,7 @@
       "Frenos de disco con ABS",
       "Chasis reforzado para construcción (K)"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3134,7 +3134,7 @@
       "Transmisión manual",
       "Suspensión de muelles reforzada"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3167,7 +3167,7 @@
       "Control de Tracción Automático",
       "Cabina FMX reforzada de alta resistencia"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3200,7 +3200,7 @@
       "Chasis robusto",
       "Ideal para aplicaciones severas"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3233,7 +3233,7 @@
       "Caja de cambios Scania Opticruise",
       "Freno auxiliar Retarder"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3266,7 +3266,7 @@
       "Bloqueo de diferenciales",
       "Cabina diseñada para off-road"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3298,7 +3298,7 @@
       "Ideal para distribución y construcción ligera",
       "Chasis versátil"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3331,7 +3331,7 @@
       "Caja de cambios Fuller o Sinotruk",
       "Ejes reforzados"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3361,7 +3361,7 @@
       "Cabina de aluminio de alta resistencia",
       "Múltiples configuraciones de ejes y suspensión"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3393,7 +3393,7 @@
       "Chasis robusto",
       "Buena relación precio/calidad"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3424,7 +3424,7 @@
       "Diseño de cabina 'Dragon'",
       "Estructura de alta resistencia"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3454,7 +3454,7 @@
       "Suspensión neumática o de muelles Mack",
       "Capó de fibra de vidrio inclinado"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3482,7 +3482,7 @@
       "Camión de cabina sobre motor (cab-over)",
       "Ideal para reparto y construcción ligera"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3514,7 +3514,7 @@
       "Ejes reforzados",
       "Tecnología europea"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3545,7 +3545,7 @@
       "Transmisión Fast Gear",
       "Buena relación costo-beneficio"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3577,7 +3577,7 @@
       "Suspensión reforzada",
       "Chasis de la familia Atego/Axor"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3609,7 +3609,7 @@
       "Alta capacidad de carga",
       "Caja de cambios Telligent"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3641,7 +3641,7 @@
       "Frenos de tambor con ABS",
       "Cabina confortable"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3673,7 +3673,7 @@
       "Construcción legendaria de Mack",
       "Conocido como 'Super-Liner' en algunas configuraciones"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3704,7 +3704,7 @@
       "Dirección en las 4 ruedas",
       "Ideal para obras con acceso limitado"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3735,7 +3735,7 @@
       "Barra de riego delantera y/o trasera",
       "Chasis robusto"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3765,7 +3765,7 @@
       "Chasis versátil y fiable",
       "Ideal para riego de vías y abastecimiento"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3794,7 +3794,7 @@
       "Configuración de alta capacidad",
       "Motor FAW o Weichai"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3825,7 +3825,7 @@
       "Cabina Serie P",
       "Caja de cambios Scania Opticruise"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3853,7 +3853,7 @@
     "caracteristicas": [
       "Camión mediano para reparto urbano o regional"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3884,7 +3884,7 @@
       "Cabina de aluminio ligera",
       "Excelente maniobrabilidad"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3914,7 +3914,7 @@
       "Ideal para reparto de combustible",
       "Alta fiabilidad y bajos costos operativos"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3945,7 +3945,7 @@
       "Sistema de alimentación independiente",
       "Consola de operación dual"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -3976,7 +3976,7 @@
       "Calentamiento de regla de alta eficiencia",
       "Nivelación automática Niveltronic"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -4031,7 +4031,7 @@
       "https://placehold.co/600x400/3498DB/FFFFFF?text=Yate+Mis+Niñas"
     ],
     "caracteristicas": [],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -4061,7 +4061,7 @@
       "Para aplicaciones de cantera y reciclaje",
       "Configuración rápida"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -4091,7 +4091,7 @@
       "Diseño compacto y robusto",
       "Ideal para obras de construcción"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -4122,7 +4122,7 @@
       "Freno de motor Volvo (VEB+)",
       "Cabina de alta comodidad"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -4144,7 +4144,7 @@
       "https://placehold.co/600x400/3498DB/FFFFFF?text=Volvo+Tractor"
     ],
     "caracteristicas": [],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -4172,7 +4172,7 @@
       "Cucharón frontal y brazo excavador trasero",
       "Versátil para múltiples tareas"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   },
   {
@@ -4203,7 +4203,7 @@
       "Controles por joystick disponibles",
       "Sistema hidráulico con detección de carga"
     ],
-    "disponible": false,
+    "disponible": true,
     "fecha_publicacion": "2025-08-11"
   }
 
