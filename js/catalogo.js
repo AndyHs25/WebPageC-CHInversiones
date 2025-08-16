@@ -188,6 +188,61 @@ class ProductCatalog {
                 }
             }
         });
+
+        // Toggle de filtros móviles
+        this.setupMobileFilters();
+    }
+
+    setupMobileFilters() {
+        const filtrosToggle = document.getElementById('filtrosToggle');
+        const filtrosOverlay = document.getElementById('filtrosOverlay');
+        const filtrosSidebar = document.querySelector('.filtros-sidebar');
+
+        if (filtrosToggle && filtrosOverlay && filtrosSidebar) {
+            // Abrir filtros
+            filtrosToggle.addEventListener('click', () => {
+                filtrosSidebar.classList.add('mobile-open');
+                filtrosOverlay.classList.add('active');
+                document.body.style.overflow = 'hidden';
+            });
+
+            // Cerrar filtros con overlay
+            filtrosOverlay.addEventListener('click', () => {
+                this.closeMobileFilters();
+            });
+
+            // Cerrar filtros con tecla Escape
+            document.addEventListener('keydown', (e) => {
+                if (e.key === 'Escape' && filtrosSidebar.classList.contains('mobile-open')) {
+                    this.closeMobileFilters();
+                }
+            });
+
+            // Cerrar filtros automáticamente cuando se aplica un filtro en móvil
+            document.addEventListener('change', (e) => {
+                if (window.innerWidth <= 768 && 
+                    (e.target.matches('input[name="categoria"]') || 
+                     e.target.matches('input[name="marca"]') || 
+                     e.target.matches('input[name="tipo"]') || 
+                     e.target.matches('input[name="estado"]'))) {
+                    // Cerrar después de un pequeño delay para que el usuario vea el cambio
+                    setTimeout(() => {
+                        this.closeMobileFilters();
+                    }, 300);
+                }
+            });
+        }
+    }
+
+    closeMobileFilters() {
+        const filtrosSidebar = document.querySelector('.filtros-sidebar');
+        const filtrosOverlay = document.getElementById('filtrosOverlay');
+
+        if (filtrosSidebar && filtrosOverlay) {
+            filtrosSidebar.classList.remove('mobile-open');
+            filtrosOverlay.classList.remove('active');
+            document.body.style.overflow = '';
+        }
     }
 
     renderFilters() {
@@ -685,7 +740,7 @@ class ProductCatalog {
         // Botón anterior
         paginationHTML += `
             <button class="pagination-btn pagination-nav ${this.currentPage === 1 ? 'disabled' : ''}" 
-                    onclick="catalog.goToPage(${this.currentPage - 1})" 
+                    onclick="productCatalog.goToPage(${this.currentPage - 1})" 
                     ${this.currentPage === 1 ? 'disabled' : ''}>
                 <i class="fas fa-chevron-left"></i>
                 Anterior
@@ -700,7 +755,7 @@ class ProductCatalog {
             } else {
                 paginationHTML += `
                     <button class="pagination-btn page-number ${page === this.currentPage ? 'active' : ''}" 
-                            onclick="catalog.goToPage(${page})">
+                            onclick="productCatalog.goToPage(${page})">
                         ${page}
                     </button>
                 `;
@@ -710,7 +765,7 @@ class ProductCatalog {
         // Botón siguiente
         paginationHTML += `
             <button class="pagination-btn pagination-nav ${this.currentPage === this.totalPages ? 'disabled' : ''}" 
-                    onclick="catalog.goToPage(${this.currentPage + 1})" 
+                    onclick="productCatalog.goToPage(${this.currentPage + 1})" 
                     ${this.currentPage === this.totalPages ? 'disabled' : ''}>
                 Siguiente
                 <i class="fas fa-chevron-right"></i>
